@@ -1,25 +1,25 @@
-<nav class="navbar navbar-expand-lg p-0">
-  <div class="container-fluid">
+<nav class="navbar navbar-expand-lg p-0" id="navbar">
+  <div class="container-fluid px-0">
     <a class="navbar-brand" href="#">
-        <img src="Images/navbar-logo.png" alt="">
+        <img src="Images/navbar-logo.png" width="250" alt="">
     </a>
     <button class="navbar-toggler" type="button" style="background-color:#fff;" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
       <ul class="navbar-nav">
-        <li class="nav-item px-3">
+        <li class="nav-item px-2">
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
-        <li class="nav-item px-3">
+        <li class="nav-item px-2">
           <a class="nav-link" href="#">About Us</a>
         </li>
-        <li class="nav-item px-3">
+        <li class="nav-item px-2">
           <a class="nav-link" href="#">Projects</a>
         </li>
-        <li class="nav-item dropdown px-3">
+        <li class="nav-item dropdown px-2">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Projects
+            Categories
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#">Action</a></li>
@@ -28,11 +28,11 @@
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
         </li>
-        <li class="nav-item px-3">
+        <li class="nav-item px-2">
           <a class="nav-link" href="#">FAQ's</a>
         </li>
-        <li class="nav-item px-3">
-          <a class="nav-link" href="#">Events</a>
+        <li class="nav-item px-2">
+          <a class="nav-link" href="#">Gallery</a>
         </li>
       </ul>
     </div>

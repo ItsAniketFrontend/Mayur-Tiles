@@ -325,7 +325,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <p>Mayur Dynamic Tiles & Pavers | All Rights Reserved | Website Designed & Developed by <a href="">The
+                <p>Mayur Dynamic Tiles & Pavers | All Rights Reserved | Website Designed & Developed by <a href="https://thecogent.in/">The
                         Cogent</a></p>
             </div>
         </div>

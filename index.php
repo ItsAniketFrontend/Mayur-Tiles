@@ -324,7 +324,7 @@
     </main>
 
     <footer>
-
+        <?php include 'foot.php'; ?>
     </footer>
 
 

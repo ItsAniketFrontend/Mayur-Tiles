@@ -385,3 +385,39 @@ header nav {
         padding: 20px;
     }
 }
+
+.foot{
+    background: #24231D;
+    padding: 50px 0px;
+    p{
+        color: #fff;
+font-family: Manrope;
+font-size: 17px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; /* 173.333% */
+    }
+}
+
+.low-foot{
+    background-color: #58585A;
+    padding: 10px;
+    p{
+        color: #fff;
+        font-family: Manrope;
+        font-size: 15px;
+        font-style: normal;
+        margin-bottom: 0px;
+        font-weight: 500;
+        line-height: 26px; /* 173.333% */
+        a{
+            color: #fff;
+            font-family: Manrope;
+            font-size: 15px;
+            font-style: normal;
+            margin-bottom: 0px;
+            font-weight: 500;
+            line-height: 26px; /* 173.333% */
+        }
+    }
+}

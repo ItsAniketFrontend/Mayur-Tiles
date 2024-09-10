@@ -15,6 +15,7 @@ header nav {
   top: 0px;
   width: 100%;
   padding: 0px;
+  z-index: 1000;
 }
 @media (max-width: 991px) {
   header nav img {
@@ -60,6 +61,7 @@ header nav button {
 
 .home-about-us {
   padding: 100px 0px;
+  overflow: hidden;
 }
 .home-about-us h6 {
   color: #6B3A1D;
@@ -118,6 +120,9 @@ header nav button {
   text-decoration: none;
 }
 
+.usps {
+  overflow: hidden;
+}
 .usps h2 {
   color: var(--Primary, #B93822);
   text-align: center;
@@ -140,6 +145,7 @@ header nav button {
 
 .home-our-products {
   padding: 50px 0px;
+  overflow: hidden;
 }
 .home-our-products h2 {
   color: var(--Color-Gray-1, #3A3A3A);
@@ -230,9 +236,48 @@ header nav button {
   padding: 50px 0px;
   background: #323031;
 }
+.home-applications h2 {
+  color: #FFF;
+  font-family: Unbounded;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 125.033%;
+  /* 43.762px */
+}
+.home-applications .post-slide {
+  flex-shrink: 0;
+  margin: 20px 15px 20px;
+  height: 100%;
+  background: #D9D9D9;
+}
+.home-applications .post-slide img {
+  border-radius: 10px;
+}
+.home-applications .post-slide h3 {
+  color: #734326;
+  font-family: Unbounded;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  padding: 20px 0px;
+  line-height: 125.033%;
+  /* 22.506px */
+  height: 100%;
+}
+.home-applications .owl-controls .owl-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+@media only screen and (max-width: 1280px) {
+  .home-applications .post-slide .post-content {
+    padding: 0px 15px 25px 15px;
+  }
+}
 
 .home-why-choose-us {
   padding: 50px 0px;
+  overflow: hidden;
 }
 .home-why-choose-us h6 {
   color: var(--Primary, #B93822);
@@ -289,7 +334,7 @@ header nav button {
 
 .home-testimonials {
   background: var(--Color, #FDF4F2);
-  padding: 100px 0px;
+  padding: 70px 0px;
 }
 .home-testimonials h6 {
   color: var(--Primary, #B93822);
@@ -343,10 +388,108 @@ header nav button {
   line-height: 30px;
   /* 214.286% */
 }
+.home-testimonials .post-slide {
+  flex-shrink: 0;
+  margin: 20px 15px 20px;
+  height: 100%;
+  background: #D9D9D9;
+}
+.home-testimonials .post-slide img {
+  border-radius: 10px;
+}
+.home-testimonials .owl-controls .owl-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+@media only screen and (max-width: 1280px) {
+  .home-testimonials .post-slide .post-content {
+    padding: 0px 15px 25px 15px;
+  }
+}
 .home-testimonials .box {
   border-radius: 10px;
   background: #FFF;
   padding: 20px;
+}
+
+.home-news {
+  padding: 50px 0px;
+}
+.home-news h2 {
+  color: #1F1E17;
+  text-align: center;
+  font-family: Manrope;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 57.6px;
+  /* 120% */
+}
+.home-news h6 {
+  color: #EEC044;
+  text-align: center;
+  font-family: "Covered By Your Grace";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px;
+  /* 150% */
+}
+.home-news .post-slide {
+  flex-shrink: 0;
+  margin: 20px 15px 20px;
+  height: 100%;
+  border-radius: 10px;
+  box-shadow: 0px 2px 14px 0px rgba(0, 0, 0, 0.05);
+}
+.home-news .post-slide img {
+  border-radius: 10px;
+}
+.home-news .post-slide .news-low-box {
+  margin-top: -20px;
+}
+.home-news .post-slide button {
+  border-radius: 10px;
+  background: var(--Primary, #B93822);
+  color: #FFF;
+  text-align: center;
+  font-family: Manrope;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  /* 285.714% */
+  padding: 8px 14px;
+  margin-bottom: 30px;
+}
+.home-news .post-slide h3 {
+  color: #1F1E17;
+  text-align: center;
+  font-family: Manrope;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 36px;
+  /* 138.462% */
+}
+.home-news .post-slide p {
+  color: #878680;
+  text-align: center;
+  font-family: Manrope;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  /* 142.857% */
+}
+.home-news .owl-controls .owl-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+@media only screen and (max-width: 1280px) {
+  .home-news .post-slide .post-content {
+    padding: 0px 15px 25px 15px;
+  }
 }
 
 .foot {
@@ -359,7 +502,8 @@ header nav button {
   font-size: 17px;
   font-style: normal;
   font-weight: 500;
-  line-height: 26px; /* 173.333% */
+  line-height: 26px;
+  /* 173.333% */
 }
 
 .low-foot {
@@ -373,7 +517,8 @@ header nav button {
   font-style: normal;
   margin-bottom: 0px;
   font-weight: 500;
-  line-height: 26px; /* 173.333% */
+  line-height: 26px;
+  /* 173.333% */
 }
 .low-foot p a {
   color: #fff;
@@ -382,5 +527,6 @@ header nav button {
   font-style: normal;
   margin-bottom: 0px;
   font-weight: 500;
-  line-height: 26px; /* 173.333% */
+  line-height: 26px;
+  /* 173.333% */
 }/*# sourceMappingURL=style.css.map */

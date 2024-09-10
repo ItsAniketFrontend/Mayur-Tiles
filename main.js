@@ -11,3 +11,43 @@ function changeNavbarBackground() {
         navbar.style.backgroundColor = "transparent"; // Initial background color
     }
 }
+
+
+$(document).ready(function() {
+    $("#news-sliderr").owlCarousel({
+        items : 4,
+        itemsDesktop:[1199,3],
+        itemsDesktopSmall:[980,2],
+        itemsMobile : [600,1],
+        navigation:true,
+        navigationText:["",""],
+        pagination:true,
+        autoPlay:true,
+    });
+});
+
+$(document).ready(function() {
+    $("#news-sliderrr").owlCarousel({
+        items : 3,
+        itemsDesktop:[1199,3],
+        itemsDesktopSmall:[980,2],
+        itemsMobile : [600,1],
+        navigation:true,
+        navigationText:["",""],
+        pagination:true,
+        autoPlay:true,
+    });
+});
+
+$(document).ready(function() {
+    $("#news-sliderrrr").owlCarousel({
+        items : 2,
+        itemsDesktop:[1199,3],
+        itemsDesktopSmall:[980,2],
+        itemsMobile : [600,1],
+        navigation:true,
+        navigationText:["",""],
+        pagination:true,
+        autoPlay:true,
+    });
+});

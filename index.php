@@ -13,6 +13,9 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Unbounded:wght@200..900&display=swap"
         rel="stylesheet">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css'>
+    <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 
 <body>
@@ -36,10 +39,10 @@
         <section class="home-about-us">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 col-12">
+                    <div class="col-lg-6 col-12" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">
                         <img src="Images/home-about.png" class="img-fluid" alt="">
                     </div>
-                    <div class="col-lg-6 col-12">
+                    <div class="col-lg-6 col-12" data-aos="fade-left" data-aos-delay="250"data-aos-duration="800">
                         <h6>About Us</h6>
                         <h2>Mayur Dynamic Tiles Shines As a Radiant Star,
                             Illuminating The Global
@@ -72,25 +75,25 @@
         <section class="usps">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 my-lg-0 my-3">
+                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">
                         <div class="col-box">
                             <h2>27</h2>
                             <p>Years Of Excellence</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3">
+                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="col-box">
                             <h2>150</h2>
                             <p>Team Size</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3">
+                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-down" data-aos-delay="280" data-aos-duration="800">
                         <div class="col-box">
                             <h2>3200</h2>
                             <p>sq.ft/day</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3">
+                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-left" data-aos-delay="320" data-aos-duration="800">
                         <div class="col-box">
                             <h2>27</h2>
                             <p>Years Of Excellence</p>
@@ -106,7 +109,7 @@
                     <div class="col-12">
                         <h2>Our Products</h2>
                     </div>
-                    <div class="col-lg-4 col-box  my-3">
+                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/stone-finish-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -124,7 +127,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3">
+                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/grass-grid-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -142,7 +145,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3">
+                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/syltherine.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -162,7 +165,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3">
+                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/stone-finish-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -180,7 +183,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3">
+                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="product-box">
                             <img src="Images/grass-grid-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -198,7 +201,63 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3">
+                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                        <div class="product-box">
+                            <img src="Images/syltherine.png" width="100%" height="auto" alt="">
+                            <div class="row stone">
+                                <div class="col-6">
+                                    <h3>Flex Paver I</h3>
+                                    <p>Vibro Press Pavers <br>
+                                        (Steel Mould)
+                                    </p>
+                                    <li>Size - 8” X 8”</li>
+                                    <li>Thickness - 60MM</li>
+                                    <li>Strength - M40</li>
+                                </div>
+                                <div class="col-6 home-stone">
+                                    <img src="Images/home-flex-paver-1.png" class="img-fluid" alt="">
+                                    <button><a href="">Know More</a></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                        <div class="product-box">
+                            <img src="Images/stone-finish-home.png" width="100%" height="auto" alt="">
+                            <div class="row stone">
+                                <div class="col-6">
+                                    <h3>Stone Finish</h3>
+                                    <p>WETCAST PAVERS</p>
+                                    <li>Size - 8” X 8”</li>
+                                    <li>Thickness - 60MM</li>
+                                    <li>Strength - M40</li>
+                                </div>
+                                <div class="col-6 home-stone">
+                                    <img src="Images/home-stone-finish.png" class="img-fluid" alt="">
+                                    <button><a href="">Know More</a></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                        <div class="product-box">
+                            <img src="Images/grass-grid-home.png" width="100%" height="auto" alt="">
+                            <div class="row stone">
+                                <div class="col-6">
+                                    <h3>Grass Grid</h3>
+                                    <p>GRASS PAVERS</p>
+                                    <li>Size - 8” X 8”</li>
+                                    <li>Thickness - 60MM</li>
+                                    <li>Strength - M40</li>
+                                </div>
+                                <div class="col-6 home-stone">
+                                    <img src="Images/home-grass-grid.png" class="img-fluid" alt="">
+                                    <button><a href="">Know More</a></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/syltherine.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -228,8 +287,57 @@
         <section class="home-applications">
             <div class="container">
                 <div class="row">
+                    <div class="col-12 text-center">
+                        <h2>Application</h2>
+                    </div>
                     <div class="col-12">
+                        <div id="news-sliderr" class="owl-carousel">
 
+                            <div class="post-slide text-center">
+                                <div class="application-box">
+                                    <img src="Images/application-real-estate.png" width="100%" height="auto" alt="">
+                                    <h3>Real Estate</h3>
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="application-box">
+                                    <img src="Images/application-infrastructure.png" width="100%" height="auto" alt="">
+                                    <h3>Infrastructure</h3>
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="application-box">
+                                    <img src="Images/application-bungalow.png" width="100%" height="auto" alt="">
+                                    <h3>Bungalows &
+                                        Farmhouses</h3>
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="application-box">
+                                    <img src="Images/application-institution.png" width="100%" height="auto" alt="">
+                                    <h3>Institutions</h3>
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="application-box">
+                                    <img src="Images/application-bungalow.png" width="100%" height="auto" alt="">
+                                    <h3>Bungalows &
+                                        Farmhouses</h3>
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="application-box">
+                                    <img src="Images/application-institution.png" width="100%" height="auto" alt="">
+                                    <h3>Institutions</h3>
+                                </div>
+                            </div>
+
+                        </div>
                     </div>
                 </div>
             </div>
@@ -238,10 +346,10 @@
         <section class="home-why-choose-us">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 my-lg-0 my-3">
+                    <div class="col-lg-6 my-lg-0 my-3" data-aos="fade-right" data-aos-delay="250" data-aos-duration="800" >
                         <img src="Images/home-why-choose-us.png" width="100%" height="auto" alt="">
                     </div>
-                    <div class="col-lg-6 my-lg-0 my-3 d-flex justify-content-center  flex-column">
+                    <div class="col-lg-6 my-lg-0 my-3 d-flex justify-content-center  flex-column" data-aos="fade-left" data-aos-delay="300" data-aos-duration="800" >
                         <h6>Mayur Dynamic</h6>
                         <h2>Why Choose Our Tiles</h2>
                         <p>There are many variations of passages of available but the majortity have sufferred
@@ -278,6 +386,130 @@
             </div>
         </section>
 
+        <section class="home-news">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h6>From the Blog</h6>
+                        <h2>News & Articles</h2>
+                    </div>
+                    <div class="col-12">
+                        <div id="news-sliderrr" class="owl-carousel">
+
+                            <div class="post-slide text-center">
+                                <div class="news-box">
+                                    <img src="Images/home-news-1.png" width="100%" height="auto" alt="">
+                                    <div
+                                        class="news-low-box d-flex justify-content-center align-items-center flex-column">
+                                        <button>05 July 2022</button>
+                                        <div class="d-flex gap-3 align-items-center">
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
+                                                    alt="">Kevin Martin</p>
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
+                                                    alt="">1 Comment</p>
+                                        </div>
+                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="news-box">
+                                    <img src="Images/home-news-2.png" width="100%" height="auto" alt="">
+                                    <div
+                                        class="news-low-box d-flex justify-content-center align-items-center flex-column">
+                                        <button>05 July 2022</button>
+                                        <div class="d-flex gap-3 align-items-center">
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
+                                                    alt="">Kevin Martin</p>
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
+                                                    alt="">1 Comment</p>
+                                        </div>
+                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="news-box">
+                                    <img src="Images/home-news-3.png" width="100%" height="auto" alt="">
+                                    <div
+                                        class="news-low-box d-flex justify-content-center align-items-center flex-column">
+                                        <button>05 July 2022</button>
+                                        <div class="d-flex gap-3 align-items-center">
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
+                                                    alt="">Kevin Martin</p>
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
+                                                    alt="">1 Comment</p>
+                                        </div>
+                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="news-box">
+                                    <img src="Images/home-news-3.png" width="100%" height="auto" alt="">
+                                    <div
+                                        class="news-low-box d-flex justify-content-center align-items-center flex-column">
+                                        <button>05 July 2022</button>
+                                        <div class="d-flex gap-3 align-items-center">
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
+                                                    alt="">Kevin Martin</p>
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
+                                                    alt="">1 Comment</p>
+                                        </div>
+                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="news-box">
+                                    <img src="Images/home-news-3.png" width="100%" height="auto" alt="">
+                                    <div
+                                        class="news-low-box d-flex justify-content-center align-items-center flex-column">
+                                        <button>05 July 2022</button>
+                                        <div class="d-flex gap-3 align-items-center">
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
+                                                    alt="">Kevin Martin</p>
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
+                                                    alt="">1 Comment</p>
+                                        </div>
+                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="news-box">
+                                    <img src="Images/home-news-3.png" width="100%" height="auto" alt="">
+                                    <div
+                                        class="news-low-box d-flex justify-content-center align-items-center flex-column">
+                                        <button>05 July 2022</button>
+                                        <div class="d-flex gap-3 align-items-center">
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
+                                                    alt="">Kevin Martin</p>
+                                            <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
+                                                    alt="">1 Comment</p>
+                                        </div>
+                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section class="home-testimonials">
             <div class="container">
                 <div class="row">
@@ -295,27 +527,65 @@
                         <button><a href="">Contact</a></button>
                     </div>
                     <div class="col-lg-7">
-                        <div class="box my-3">
-                            <div class="d-flex gap-3 align-items-center">
-                                <div class="">
-                                    <p>There are many variations of passages of available but the
-                                        majority have suffered alteration in some form by injected
-                                        humor or random word which don't look even.</p>
-                                    <h3>Bonnie Tolbert</h3>
+                        <div id="news-sliderrrr" class="owl-carousel">
+
+                            <div class="post-slide text-center">
+                                <div class="box my-3">
+                                    <div class="d-flex gap-3 align-items-center flex-column">
+                                        <div class="">
+                                            <p>There are many variations of passages of available but the
+                                                majority have suffered alteration in some form by injected
+                                                humor or random word which don't look even.</p>
+                                            <h3>Bonnie Tolbert</h3>
+                                        </div>
+                                        <img src="Images/testimonial-image.png" alt="">
+                                    </div>
                                 </div>
-                                <img src="Images/testimonial-image.png" alt="">
                             </div>
-                        </div>
-                        <div class="box my-3">
-                            <div class="d-flex gap-3 align-items-center">
-                                <div class="">
-                                    <p>There are many variations of passages of available but the
-                                        majority have suffered alteration in some form by injected
-                                        humor or random word which don't look even.</p>
-                                    <h3>Bonnie Tolbert</h3>
+
+                            <div class="post-slide text-center">
+                                <div class="box my-3">
+                                    <div class="d-flex gap-3 align-items-center flex-column">
+                                        <div class="">
+                                            <p>There are many variations of passages of available but the
+                                                majority have suffered alteration in some form by injected
+                                                humor or random word which don't look even.</p>
+                                            <h3>Bonnie Tolbert</h3>
+                                        </div>
+                                        <img src="Images/testimonial-image.png" alt="">
+                                    </div>
                                 </div>
-                                <img src="Images/testimonial-image.png" alt="">
                             </div>
+
+                            <div class="post-slide text-center">
+                                <div class="box my-3">
+                                    <div class="d-flex gap-3 align-items-center flex-column">
+                                        <div class="">
+                                            <p>There are many variations of passages of available but the
+                                                majority have suffered alteration in some form by injected
+                                                humor or random word which don't look even.</p>
+                                            <h3>Bonnie Tolbert</h3>
+                                        </div>
+                                        <img src="Images/testimonial-image.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="post-slide text-center">
+                                <div class="box my-3">
+                                    <div class="d-flex gap-3 align-items-center flex-column">
+                                        <div class="">
+                                            <p>There are many variations of passages of available but the
+                                                majority have suffered alteration in some form by injected
+                                                humor or random word which don't look even.</p>
+                                            <h3>Bonnie Tolbert</h3>
+                                        </div>
+                                        <img src="Images/testimonial-image.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+
+
                         </div>
                     </div>
                 </div>
@@ -328,11 +598,17 @@
     </footer>
 
 
-
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
+    <script src='https://code.jquery.com/jquery-1.12.0.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js'></script>
     <script src="main.js"></script>
+
 </body>
 
 </html>

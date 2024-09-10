@@ -8,16 +8,16 @@
     </button>
     <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
       <ul class="navbar-nav">
-        <li class="nav-item px-2">
+        <li class="nav-item px-3">
           <a class="nav-link active" aria-current="page" href="#">Home</a>
         </li>
-        <li class="nav-item px-2">
-          <a class="nav-link" href="#">About Us</a>
+        <li class="nav-item px-3">
+          <a class="nav-link" href="about-us.php">About Us</a>
         </li>
-        <li class="nav-item px-2">
+        <!-- <li class="nav-item px-2">
           <a class="nav-link" href="#">Projects</a>
-        </li>
-        <li class="nav-item dropdown px-2">
+        </li> -->
+        <li class="nav-item dropdown px-3">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Categories
           </a>
@@ -28,10 +28,10 @@
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
         </li>
-        <li class="nav-item px-2">
+        <li class="nav-item px-3">
           <a class="nav-link" href="#">FAQ's</a>
         </li>
-        <li class="nav-item px-2">
+        <li class="nav-item px-3">
           <a class="nav-link" href="#">Gallery</a>
         </li>
       </ul>

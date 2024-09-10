@@ -130,6 +130,7 @@ header nav {
 
 .usps {
     overflow: hidden;
+    padding-top: 20px;
     h2 {
         color: var(--Primary, #B93822);
         text-align: center;
@@ -719,6 +720,10 @@ header nav {
         font-weight: 500;
         line-height: 26px;
         /* 173.333% */
+    }
+    svg{
+        background: #fff !important;
+        color: #fff !important;
     }
 }
 

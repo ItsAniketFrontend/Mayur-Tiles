@@ -22,8 +22,9 @@
             Categories
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="wetcast-pavers.php">Wetcast Pavers</a></li>
+            <li><a class="dropdown-item" href="grass-pavers.php">Grass Pavers</a></li>
+            <li><a class="dropdown-item" href="vibro-pressed.php">Vibro Press Pavers</a></li>
             <li><hr class="dropdown-divider"></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>

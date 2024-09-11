@@ -278,7 +278,7 @@
                         </div>
                     </div>
                     <div class="col-12 mt-3 d-flex justify-content-center align-items-center">
-                        <button><a href="">Show More</a></button>
+                        <button><a href="categories.php">Show More</a></button>
                     </div>
                 </div>
             </div>

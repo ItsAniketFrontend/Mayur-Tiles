@@ -224,7 +224,7 @@
     <footer>
         <?php include 'foot.php'; ?>
     </footer>
-
+    
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>

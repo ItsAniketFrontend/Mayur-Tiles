@@ -35,16 +35,12 @@
         <li class="nav-item px-3">
           <a class="nav-link" href="#">Gallery</a>
         </li>
+        <li class="nav-item px-3">
+          <a class="nav-link" href="#">
+           Contact Us
+          </a>
+        </li>
       </ul>
-    </div>
-    <div class="d-none d-sm-none d-md-none d-lg-flex d-xl-flex">
-        <button>
-            Contact Us 
-            <svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-            <circle cx="18.5" cy="18.5" r="18.0375" stroke="white" stroke-width="0.925"/>
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M16.3791 12.2959L22.2657 18.1826C22.627 18.5438 22.627 19.1295 22.2657 19.4907L16.3791 25.3774C16.0178 25.7386 15.4321 25.7386 15.0709 25.3774C14.7097 25.0162 14.7097 24.4305 15.0709 24.0692L20.3035 18.8367L15.0709 13.6041C14.7097 13.2428 14.7097 12.6572 15.0709 12.2959C15.4321 11.9347 16.0178 11.9347 16.3791 12.2959Z" fill="white"/>
-            </svg>
-        </button>
     </div>
   </div>
 </nav>

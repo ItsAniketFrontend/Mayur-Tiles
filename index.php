@@ -109,7 +109,7 @@
                     <div class="col-12">
                         <h2>Our Products</h2>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/stone-finish-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -127,7 +127,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/grass-grid-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -145,7 +145,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/syltherine.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -165,7 +165,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/stone-finish-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -183,7 +183,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="product-box">
                             <img src="Images/grass-grid-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -201,7 +201,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/syltherine.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -221,7 +221,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/stone-finish-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -239,7 +239,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="product-box">
                             <img src="Images/grass-grid-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -257,7 +257,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/syltherine.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -310,8 +310,7 @@
                             <div class="post-slide text-center">
                                 <div class="application-box">
                                     <img src="Images/application-bungalow.png" width="100%" height="auto" alt="">
-                                    <h3>Bungalows &
-                                        Farmhouses</h3>
+                                    <h3>Bungalows</h3>
                                 </div>
                             </div>
 
@@ -325,8 +324,7 @@
                             <div class="post-slide text-center">
                                 <div class="application-box">
                                     <img src="Images/application-bungalow.png" width="100%" height="auto" alt="">
-                                    <h3>Bungalows &
-                                        Farmhouses</h3>
+                                    <h3>Bungalows</h3>
                                 </div>
                             </div>
 
@@ -347,7 +345,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 my-lg-0 my-3" data-aos="fade-right" data-aos-delay="250" data-aos-duration="800" >
-                        <img src="Images/home-why-choose-us.png" width="100%" height="auto" alt="">
+                        <img src="Images/home-why-choose-us.png" class="img-fluid" alt="">
                     </div>
                     <div class="col-lg-6 my-lg-0 my-3 d-flex justify-content-center  flex-column" data-aos="fade-left" data-aos-delay="300" data-aos-duration="800" >
                         <h6>Mayur Dynamic</h6>

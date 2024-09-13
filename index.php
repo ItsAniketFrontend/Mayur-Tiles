@@ -10,8 +10,9 @@
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Unbounded:wght@200..900&display=swap"
-    rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Unbounded:wght@200..900&display=swap"
+        rel="stylesheet">
     <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css'>
     <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
@@ -29,8 +30,11 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-12 px-0">
-                        <video src="Images/Home-Banner-Phone.mp4" class="d-block d-sm-block d-md-block d-lg-none d-xl-none" autoplay="" muted="" loop="" width="100%" height="auto"></video>
-                        <video src="Images/Home-Banner.mp4" class="d-none d-sm-none d-md-none d-lg-block d-xl-block" autoplay="" muted="" loop="" width="100%" height="auto"></video>
+                        <video src="Images/Home-Banner-Phone.mp4"
+                            class="d-block d-sm-block d-md-block d-lg-none d-xl-none" autoplay="" muted="" loop=""
+                            width="100%" height="auto"></video>
+                        <video src="Images/Home-Banner.mp4" class="d-none d-sm-none d-md-none d-lg-block d-xl-block"
+                            autoplay="" muted="" loop="" width="100%" height="auto"></video>
                     </div>
                 </div>
             </div>
@@ -40,9 +44,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 col-12" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">
-                        <img src="Images/home-about.png" class="img-fluid" alt="">
+                        <div class="img-box">
+                            <img src="Images/home-about.png" alt="">
+                        </div>
                     </div>
-                    <div class="col-lg-6 col-12" data-aos="fade-left" data-aos-delay="250"data-aos-duration="800">
+                    <div class="col-lg-6 col-12" data-aos="fade-left" data-aos-delay="250" data-aos-duration="800">
                         <h6>About Us</h6>
                         <h2>Mayur Dynamic Tiles Shines As a Radiant Star,
                             Illuminating The Global
@@ -75,7 +81,8 @@
         <section class="usps">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">
+                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-right" data-aos-delay="200"
+                        data-aos-duration="800">
                         <div class="col-box">
                             <h2>27</h2>
                             <p>Years Of Excellence</p>
@@ -87,13 +94,15 @@
                             <p>Team Size</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-down" data-aos-delay="280" data-aos-duration="800">
+                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-down" data-aos-delay="280"
+                        data-aos-duration="800">
                         <div class="col-box">
                             <h2>3200</h2>
                             <p>sq.ft/day</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-left" data-aos-delay="320" data-aos-duration="800">
+                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-left" data-aos-delay="320"
+                        data-aos-duration="800">
                         <div class="col-box">
                             <h2>27</h2>
                             <p>Years Of Excellence</p>
@@ -109,7 +118,7 @@
                     <div class="col-12">
                         <h2>Our Products</h2>
                     </div>
-                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <!-- <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/stone-finish-home.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -279,6 +288,58 @@
                     </div>
                     <div class="col-12 mt-3 d-flex justify-content-center align-items-center">
                         <button><a href="categories.php">Show More</a></button>
+                    </div> -->
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-3 col-6 my-2">
+                         <div class="product-box">
+                            <img src="Images/home-page-products/Colour-Blended-Pavers.png" alt="">
+                         </div>                           
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="product-box">
+                            <img src="Images/home-page-products/Grass-Pavers.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="product-box">
+                            <img src="Images/home-page-products/Wetcast-Pavers.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="product-box">
+                            <img src="Images/home-page-products/Vibro-Press-Pavers.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="product-box">
+                            <img src="Images/home-page-products/terrazzo-mosaic.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                         <div class="product-box">
+                            <img src="Images/home-page-products/heritage-cement-tile.png" alt="">
+                         </div>                           
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="product-box">
+                            <img src="Images/home-page-products/kerbstone-saucer-drain.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="product-box">
+                            <img src="Images/home-page-products/Parking-Tiles.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="product-box">
+                            <img src="Images/home-page-products/Engineered-Blocks.png" alt="">
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-6 my-2">
+                        <div class="product-box">
+                            <img src="Images/home-page-products/heat-resistant-cool.png" alt="">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -344,33 +405,37 @@
         <section class="home-why-choose-us">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 my-lg-0 my-3" data-aos="fade-right" data-aos-delay="250" data-aos-duration="800" >
-                        <img src="Images/home-why-choose-us.png" class="img-fluid" alt="">
+                    <div class="col-lg-6 my-lg-0 my-3" data-aos="fade-right" data-aos-delay="250"
+                        data-aos-duration="800">
+                        <div class="img-box">
+                            <img src="Images/home-why-choose-us.png" class="img-fluid" alt="">
+                        </div>
                     </div>
-                    <div class="col-lg-6 my-lg-0 my-3 d-flex justify-content-center  flex-column" data-aos="fade-left" data-aos-delay="300" data-aos-duration="800" >
+                    <div class="col-lg-6 my-lg-0 my-3 d-flex justify-content-center  flex-column" data-aos="fade-left"
+                        data-aos-delay="300" data-aos-duration="800">
                         <h6>Mayur Dynamic</h6>
                         <h2>Why Choose Our Tiles</h2>
                         <p>There are many variations of passages of available but the majortity have sufferred
                             alteration in some form by injected humor or random word which don't look even.</p>
-                        <div class="pt-4">
-                            <div class="d-flex gap-3 align-items-lg-center flex-lg-row flex-column">
-                                <img src="Images/why-choose-tick.png" width="64px" alt="">
+                        <div class="pt-1">
+                            <div class="d-flex gap-3 align-items-start flex-lg-row flex-column">
+                                <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
                                     <h3>Is there a speed limit?</h3>
                                     <p>There are variation You need to be sure there is
                                         anything hidden in the middle of text.</p>
                                 </div>
                             </div>
-                            <div class="d-flex gap-3 align-items-lg-center flex-lg-row flex-column">
-                                <img src="Images/why-choose-tick.png" width="64px" alt="">
+                            <div class="d-flex gap-3 align-items-start flex-lg-row flex-column">
+                                <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
                                     <h3>Can I extend/ cancel/ modify?</h3>
                                     <p>There are variation You need to be sure there is
                                         anything hidden in the middle of text.</p>
                                 </div>
                             </div>
-                            <div class="d-flex gap-3 align-items-lg-center flex-lg-row flex-column">
-                                <img src="Images/why-choose-tick.png" width="64px" alt="">
+                            <div class="d-flex gap-3 align-items-start flex-lg-row flex-column">
+                                <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
                                     <h3>Booking criteria & documents?</h3>
                                     <p>There are variation You need to be sure there is
@@ -511,7 +576,7 @@
         <section class="home-testimonials">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-5">
+                    <div class="col-lg-4 d-flex justify-content-center flex-column">
                         <h6>Our Testimonials</h6>
                         <h2>What They're
                             Talking About
@@ -524,7 +589,7 @@
                             random word which don't look even.</p>
                         <button><a href="">Contact</a></button>
                     </div>
-                    <div class="col-lg-7">
+                    <div class="col-lg-8">
                         <div id="news-sliderrrr" class="owl-carousel">
 
                             <div class="post-slide text-center">
@@ -589,12 +654,18 @@
                 </div>
             </div>
         </section>
-    </main>
 
+        <section class="home-instagram-feed">
+            <div class="container-fluid">
+                <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+                <div class="elfsight-app-564e3185-8223-4931-b2fd-9b46ea83de46" data-elfsight-app-lazy></div>
+            </div>
+        </section>
+    </main>
+  
     <footer>
         <?php include 'foot.php'; ?>
     </footer>
-
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>

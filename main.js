@@ -28,8 +28,8 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $("#news-sliderrr").owlCarousel({
-        items : 3,
-        itemsDesktop:[1199,3],
+        items : 5,
+        itemsDesktop:[1199,5],
         itemsDesktopSmall:[980,2],
         itemsMobile : [600,1],
         navigation:true,
@@ -41,7 +41,7 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $("#news-sliderrrr").owlCarousel({
-        items : 2,
+        items : 3,
         itemsDesktop:[1199,3],
         itemsDesktopSmall:[980,2],
         itemsMobile : [600,1],

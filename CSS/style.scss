@@ -26,10 +26,11 @@ header nav {
     .nav-link {
         color: #FFF !important;
         font-family: Mulish !important;
-        font-size: 16px !important;
+        font-size: 13px !important;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
+        text-transform: uppercase;
     }
 
     button {
@@ -45,8 +46,9 @@ header nav {
         border: 1px solid #FFF;
         color: #FFF;
         font-family: Unbounded;
-        font-size: 16px;
+        font-size: 13px;
         font-style: normal;
+        text-transform: uppercase;
         font-weight: 500;
         line-height: normal;
     }
@@ -68,10 +70,20 @@ header nav {
     padding: 30px 0px;
     overflow: hidden;
 
+    .img-box{
+        height: 350px;
+        width: 100%;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+    }
+
     h6 {
         color: #6B3A1D;
         font-family: "Bebas Neue";
-        font-size: 17px;
+        font-size: 16px;
         font-style: normal;
         font-weight: 400;
         letter-spacing: 2.2px;
@@ -82,7 +94,7 @@ header nav {
     h2 {
         color: #2B2B2B;
         font-family: Poppins;
-        font-size: 28px;
+        font-size: 24px;
         font-style: normal;
         font-weight: 500;
         text-transform: uppercase;
@@ -93,7 +105,7 @@ header nav {
     p {
         color: #323031;
         font-family: Mulish;
-        font-size: 16px;
+        font-size: 13px;
         font-style: normal;
         font-weight: 600;
         line-height: 30px;
@@ -117,7 +129,7 @@ header nav {
         a {
             color: #2D2D2D;
             font-family: Unbounded;
-            font-size: 22px;
+            font-size: 16px;
             font-style: normal;
             font-weight: 500;
             line-height: 32px;
@@ -135,7 +147,7 @@ header nav {
         color: var(--Primary, #B93822);
         text-align: center;
         font-family: Unbounded;
-        font-size: 42px;
+        font-size: 32px;
         font-style: normal;
         font-weight: 400;
         line-height: 24px;
@@ -146,7 +158,7 @@ header nav {
         color: #878680;
         text-align: center;
         font-family: Mulish;
-        font-size: 22px;
+        font-size: 13px;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
@@ -154,97 +166,105 @@ header nav {
 }
 
 .home-our-products {
-    padding: 15px 0px;
+    padding: 20px 0px;
     overflow: hidden;
 
     h2 {
         color: var(--Color-Gray-1, #3A3A3A);
         text-align: center;
         font-family: Poppins;
-        font-size: 32px;
+        font-size: 24px;
         font-style: normal;
-        font-weight: 700;
+        text-transform: uppercase;
+        font-weight: 600;
     }
 
-    .product-box {
-        background: var(--Color-Light-BG, #F4F5F7);
-        height: 100%;
+    // .product-box {
+    //     background: var(--Color-Light-BG, #F4F5F7);
+    //     height: 100%;
 
-        .stone {
-            padding: 10px;
+    //     .stone {
+    //         padding: 10px;
 
-            h3 {
-                color: var(--Color-Gray-1, #3A3A3A);
-                font-family: Poppins;
-                font-size: 18px;
-                font-style: normal;
-                font-weight: 600;
-            }
+    //         h3 {
+    //             color: var(--Color-Gray-1, #3A3A3A);
+    //             font-family: Poppins;
+    //             font-size: 18px;
+    //             font-style: normal;
+    //             font-weight: 600;
+    //         }
 
-            p {
-                color: var(--Color-Gray-3, #898989);
-                font-family: Poppins;
-                font-size: 14px;
-                font-style: normal;
-                font-weight: 500;
-            }
+    //         p {
+    //             color: var(--Color-Gray-3, #898989);
+    //             font-family: Poppins;
+    //             font-size: 14px;
+    //             font-style: normal;
+    //             font-weight: 500;
+    //         }
 
-            li {
-                color: var(--Color-Gray-1, #3A3A3A);
-                font-family: Poppins;
-                font-size: 11px;
-                font-style: normal;
-                font-weight: 400;
-                line-height: 15px;
-                /* 136.364% */
-                list-style: none;
-            }
+    //         li {
+    //             color: var(--Color-Gray-1, #3A3A3A);
+    //             font-family: Poppins;
+    //             font-size: 11px;
+    //             font-style: normal;
+    //             font-weight: 400;
+    //             line-height: 15px;
+    //             /* 136.364% */
+    //             list-style: none;
+    //         }
 
-            .home-stone {
-                margin-top: -40px;
-                display: flex;
-                align-items: center;
-                flex-direction: column;
+    //         .home-stone {
+    //             margin-top: -40px;
+    //             display: flex;
+    //             align-items: center;
+    //             flex-direction: column;
 
-                button {
-                    border-radius: 5px;
-                    background: #B93822;
-                    padding: 5px 20px;
-                    border: none;
-                    margin-top: 10px;
+    //             button {
+    //                 border-radius: 5px;
+    //                 background: #B93822;
+    //                 padding: 5px 20px;
+    //                 border: none;
+    //                 margin-top: 10px;
 
-                    a {
-                        color: #FFF;
-                        font-family: Poppins;
-                        font-size: 12px;
-                        font-style: normal;
-                        font-weight: 700;
-                        line-height: normal;
-                        text-transform: uppercase;
-                        text-decoration: none;
-                    }
-                }
-            }
+    //                 a {
+    //                     color: #FFF;
+    //                     font-family: Poppins;
+    //                     font-size: 12px;
+    //                     font-style: normal;
+    //                     font-weight: 700;
+    //                     line-height: normal;
+    //                     text-transform: uppercase;
+    //                     text-decoration: none;
+    //                 }
+    //             }
+    //         }
+    //     }
+    // }
+
+    // button {
+    //     border-radius: 5px;
+    //     border: 1px solid var(--Primary, #B93822);
+    //     background: var(--Primary, #B93822);
+    //     padding: 5px 40px;
+
+    //     a {
+    //         color: #FFF;
+    //         font-family: Poppins;
+    //         font-size: 16px;
+    //         font-style: normal;
+    //         font-weight: 600;
+    //         line-height: 150%;
+    //         /* 24px */
+    //         text-decoration: none;
+    //     }
+    // }
+    .product-box{
+        img{
+            width: 100%;
+            height: 100%;
+            // object-fit: cover;
         }
-    }
-
-    button {
-        border-radius: 5px;
-        border: 1px solid var(--Primary, #B93822);
-        background: var(--Primary, #B93822);
-        padding: 5px 40px;
-
-        a {
-            color: #FFF;
-            font-family: Poppins;
-            font-size: 16px;
-            font-style: normal;
-            font-weight: 600;
-            line-height: 150%;
-            /* 24px */
-            text-decoration: none;
-        }
-    }
+    }   
 }
 
 .home-applications {
@@ -254,10 +274,11 @@ header nav {
     h2 {
         color: #FFF;
         font-family: Unbounded;
-        font-size: 35px;
+        font-size: 24px;
         font-style: normal;
-        font-weight: 700;
+        font-weight: 500;
         line-height: 125.033%;
+        text-transform: uppercase;
         /* 43.762px */
     }
 
@@ -269,19 +290,18 @@ header nav {
 
         img {
             border-radius: 10px;
-            height: 250px;
+            height: 200px;
             object-fit: cover;
         }
 
         h3 {
             color: #734326;
             font-family: Unbounded;
-            font-size: 18px;
+            font-size: 14px;
             font-style: normal;
-            font-weight: 700;
-            padding: 20px 0px;
-            line-height: 125.033%;
-            /* 22.506px */
+            font-weight: 500;
+            padding: 10px 0px;
+            text-transform: uppercase;
             height: 100%;
         }
 
@@ -359,41 +379,44 @@ header nav {
     h6 {
         color: var(--Primary, #B93822);
         font-family: Manrope;
-        font-size: 14px;
+        font-size: 13px;
         font-style: normal;
         font-weight: 400;
-        line-height: 36px;
-        /* 225% */
     }
 
     h2 {
         color: #1F1E17;
         font-family: Manrope;
-        font-size: 32px;
+        font-size: 24px;
         font-style: normal;
-        font-weight: 800;
-        line-height: 57.6px;
-        /* 120% */
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+
+    .img-box{
+        width: 100%;
+        height: 500px;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
     }
 
     h3 {
         color: #1F1E17;
         font-family: Manrope;
-        font-size: 18px;
+        font-size: 16px;
         font-style: normal;
-        font-weight: 800;
-        line-height: 33.6px;
-        /* 140% */
+        font-weight: 700;
     }
 
     p {
         color: #878680;
         font-family: Manrope;
-        font-size: 14px;
+        font-size: 13px;
         font-style: normal;
         font-weight: 500;
-        line-height: 30px;
-        /* 187.5% */
     }
 
     button {
@@ -422,25 +445,23 @@ header nav {
     h6 {
         color: var(--Primary, #B93822);
         font-family: Manrope;
-        font-size: 16px;
+        font-size: 13px;
         font-style: normal;
         font-weight: 400;
-        line-height: 36px;
-        /* 225% */
     }
 
     h2 {
         color: #1F1E17;
         font-family: Manrope;
-        font-size: 32px;
+        font-size: 24px;
         font-style: normal;
-        font-weight: 800;
+        font-weight: 700;
     }
 
     h3 {
         color: #1F1E17;
         font-family: Manrope;
-        font-size: 16px;
+        font-size: 14px;
         font-style: normal;
         font-weight: 800;
     }
@@ -448,7 +469,7 @@ header nav {
     p {
         color: #878680;
         font-family: Manrope;
-        font-size: 14px;
+        font-size: 12px;
         font-style: normal;
         font-weight: 500;
     }
@@ -457,13 +478,13 @@ header nav {
         border-radius: 10px;
         background: var(--Primary, #B93822);
         border: none;
-        padding: 15px 50px;
+        padding: 15px 30px;
 
         a {
             text-decoration: none;
             color: #FFF;
             font-family: Manrope;
-            font-size: 14px;
+            font-size: 13px;
             font-style: normal;
             font-weight: 700;
             line-height: 30px;
@@ -562,7 +583,7 @@ header nav {
         color: #1F1E17;
         text-align: center;
         font-family: Manrope;
-        font-size: 32px;
+        font-size: 24px;
         font-style: normal;
         font-weight: 800;
     }
@@ -571,7 +592,7 @@ header nav {
         color: #EEC044;
         text-align: center;
         font-family: "Covered By Your Grace";
-        font-size: 16px;
+        font-size: 14px;
         font-style: normal;
         font-weight: 400;
         margin-bottom: 0px;
@@ -604,7 +625,7 @@ header nav {
             font-weight: 700;
             line-height: 40px;
             /* 285.714% */
-            padding: 8px 14px;
+            padding: 8px 10px;
             margin-bottom: 10px;
             border: none;
         }
@@ -613,7 +634,7 @@ header nav {
             color: #1F1E17;
             text-align: center;
             font-family: Manrope;
-            font-size: 22px;
+            font-size: 18px;
             font-style: normal;
             font-weight: 800;
         }
@@ -692,6 +713,11 @@ header nav {
             padding: 0px 15px 25px 15px;
         }
     }
+}
+
+.home-instagram-feed{
+    padding: 50px 0px;
+    
 }
 
 .about-us-banner {
@@ -1326,3 +1352,4 @@ header nav {
         }
     }
 }
+

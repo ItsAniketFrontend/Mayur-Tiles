@@ -35,7 +35,9 @@
                 <div class="row">
                     <div class="col-lg-6 col-12 my-lg-0 my-2 " data-aos="fade-right" data-aos-delay="200"
                         data-aos-duration="800">
-                        <img src="Images/about-us-intro.png" class="img-fluid" alt="">
+                        <div class="img-box">
+                            <img src="Images/about-us-intro.png" class="img-fluid" alt="">
+                        </div>
                     </div>
                     <div class="col-lg-6  my-lg-0 my-2 col-12 d-flex justify-content-center flex-column"
                         data-aos="fade-left" data-aos-delay="250" data-aos-duration="800">
@@ -128,7 +130,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 my-lg-0 my-1" data-aos="fade-right" data-aos-delay="250" data-aos-duration="800">
-                        <img src="Images/made-in-india.png" class="img-fluid" alt="">
+                        <div class="img-box">
+                            <img src="Images/made-in-india.png" class="img-fluid" alt="">
+                        </div>
                     </div>
                     <div class="col-lg-6 my-lg-0 my-1 d-flex justify-content-center flex-column" data-aos="fade-left" data-aos-delay="300" data-aos-duration="800">
                         <h2>Made in India</h2>
@@ -147,7 +151,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="d-flex gap-2 align-items-center  flex-column flex-lg-row">
-                            <img src="Images/about-us-cata.png" width="78px" alt="">
+                            <img src="Images/about-us-cata.png" width="42px" alt="">
                             <div class="">
                                 <h3>Catalogues</h3>
                                 <p>Discover our wide variety
@@ -158,7 +162,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="d-flex gap-2 align-items-center  flex-column flex-lg-row">
-                            <img src="Images/home-about-us-locate.png" width="78px" alt="">
+                            <img src="Images/home-about-us-locate.png" width="42px" alt="">
                             <div class="">
                                 <h3>Easy to Locate</h3>
                                 <p>Discover our wide variety
@@ -169,7 +173,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="d-flex gap-2 align-items-center  flex-column flex-lg-row">
-                            <img src="Images/home-about-low-usp.png" width="78px" alt="">
+                            <img src="Images/home-about-low-usp.png" width="42px" alt="">
                             <div class="">
                                 <h3>Unique Design</h3>
                                 <p>Discover our wide variety

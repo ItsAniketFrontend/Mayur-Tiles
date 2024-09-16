@@ -15,7 +15,7 @@ function changeNavbarBackground() {
 
 $(document).ready(function() {
     $("#news-sliderr").owlCarousel({
-        items : 4,
+        items : 5,
         itemsDesktop:[1199,3],
         itemsDesktopSmall:[980,2],
         itemsMobile : [600,1],

@@ -655,12 +655,12 @@
             </div>
         </section>
 
-        <section class="home-instagram-feed">
+        <!-- <section class="home-instagram-feed">
             <div class="container-fluid">
                 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
                 <div class="elfsight-app-564e3185-8223-4931-b2fd-9b46ea83de46" data-elfsight-app-lazy></div>
             </div>
-        </section>
+        </section> -->
     </main>
   
     <footer>

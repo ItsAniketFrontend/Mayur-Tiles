@@ -81,28 +81,25 @@
         <section class="usps">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-right" data-aos-delay="200"
-                        data-aos-duration="800">
+                    <div class="col-lg-3 my-lg-0 my-3">
                         <div class="col-box">
                             <h2>27</h2>
                             <p>Years Of Excellence</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-3 my-lg-0 my-3">
                         <div class="col-box">
                             <h2>150</h2>
                             <p>Team Size</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-down" data-aos-delay="280"
-                        data-aos-duration="800">
+                    <div class="col-lg-3 my-lg-0 my-3">
                         <div class="col-box">
                             <h2>3200</h2>
                             <p>sq.ft/day</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3" data-aos="fade-left" data-aos-delay="320"
-                        data-aos-duration="800">
+                    <div class="col-lg-3 my-lg-0 my-3">
                         <div class="col-box">
                             <h2>27</h2>
                             <p>Years Of Excellence</p>
@@ -291,57 +288,61 @@
                     </div> -->
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-lg-3 col-6 my-2">
-                         <div class="product-box">
+                    <div class="col-lg-2 col-6 my-2">
+                        <div class="product-box">
                             <img src="Images/home-page-products/Colour-Blended-Pavers.png" alt="">
-                         </div>                           
+                        </div>
                     </div>
-                    <div class="col-lg-3 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
                             <img src="Images/home-page-products/Grass-Pavers.png" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
                             <img src="Images/home-page-products/Wetcast-Pavers.png" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
                             <img src="Images/home-page-products/Vibro-Press-Pavers.png" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
                             <img src="Images/home-page-products/terrazzo-mosaic.png" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6 my-2">
-                         <div class="product-box">
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-2 col-6 my-2">
+                        <div class="product-box">
                             <img src="Images/home-page-products/heritage-cement-tile.png" alt="">
-                         </div>                           
+                        </div>
                     </div>
-                    <div class="col-lg-3 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
                             <img src="Images/home-page-products/kerbstone-saucer-drain.png" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
                             <img src="Images/home-page-products/Parking-Tiles.png" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
                             <img src="Images/home-page-products/Engineered-Blocks.png" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
                             <img src="Images/home-page-products/heat-resistant-cool.png" alt="">
                         </div>
                     </div>
                 </div>
+
+
             </div>
         </section>
 
@@ -353,54 +354,49 @@
                     </div>
                     <div class="col-12">
                         <div id="news-sliderr" class="owl-carousel">
-
                             <div class="post-slide text-center">
                                 <div class="application-box">
                                     <img src="Images/application-real-estate.png" width="100%" height="auto" alt="">
                                     <h3>Real Estate</h3>
                                 </div>
                             </div>
-
                             <div class="post-slide text-center">
                                 <div class="application-box">
                                     <img src="Images/application-infrastructure.png" width="100%" height="auto" alt="">
                                     <h3>Infrastructure</h3>
                                 </div>
                             </div>
-
                             <div class="post-slide text-center">
                                 <div class="application-box">
                                     <img src="Images/application-bungalow.png" width="100%" height="auto" alt="">
                                     <h3>Bungalows</h3>
                                 </div>
                             </div>
-
                             <div class="post-slide text-center">
                                 <div class="application-box">
                                     <img src="Images/application-institution.png" width="100%" height="auto" alt="">
                                     <h3>Institutions</h3>
                                 </div>
                             </div>
-
                             <div class="post-slide text-center">
                                 <div class="application-box">
                                     <img src="Images/application-bungalow.png" width="100%" height="auto" alt="">
                                     <h3>Bungalows</h3>
                                 </div>
                             </div>
-
                             <div class="post-slide text-center">
                                 <div class="application-box">
                                     <img src="Images/application-institution.png" width="100%" height="auto" alt="">
                                     <h3>Institutions</h3>
                                 </div>
                             </div>
-
                         </div>
-                    </div>
+                    </div> 
                 </div>
             </div>
         </section>
+
+        
 
         <section class="home-why-choose-us">
             <div class="container">
@@ -426,7 +422,7 @@
                                         anything hidden in the middle of text.</p>
                                 </div>
                             </div>
-                            <div class="d-flex gap-3 align-items-start flex-lg-row flex-column">
+                            <div class="d-flex gap-3 align-items-start flex-lg-row flex-column py-2">
                                 <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
                                     <h3>Can I extend/ cancel/ modify?</h3>
@@ -434,7 +430,7 @@
                                         anything hidden in the middle of text.</p>
                                 </div>
                             </div>
-                            <div class="d-flex gap-3 align-items-start flex-lg-row flex-column">
+                            <div class="d-flex gap-3 align-items-start flex-lg-row flex-column py-2">
                                 <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
                                     <h3>Booking criteria & documents?</h3>
@@ -601,7 +597,7 @@
                                                 humor or random word which don't look even.</p>
                                             <h3>Bonnie Tolbert</h3>
                                         </div>
-                                        <img src="Images/testimonial-image.png" alt="">
+                                        <img src="Images/testimonial-image.png" width="48px" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -615,7 +611,7 @@
                                                 humor or random word which don't look even.</p>
                                             <h3>Bonnie Tolbert</h3>
                                         </div>
-                                        <img src="Images/testimonial-image.png" alt="">
+                                        <img src="Images/testimonial-image.png" width="48px" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -629,7 +625,7 @@
                                                 humor or random word which don't look even.</p>
                                             <h3>Bonnie Tolbert</h3>
                                         </div>
-                                        <img src="Images/testimonial-image.png" alt="">
+                                        <img src="Images/testimonial-image.png" width="48px" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -643,7 +639,7 @@
                                                 humor or random word which don't look even.</p>
                                             <h3>Bonnie Tolbert</h3>
                                         </div>
-                                        <img src="Images/testimonial-image.png" alt="">
+                                        <img src="Images/testimonial-image.png" width="48px" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -662,7 +658,7 @@
             </div>
         </section> -->
     </main>
-  
+
     <footer>
         <?php include 'foot.php'; ?>
     </footer>

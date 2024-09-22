@@ -32,7 +32,7 @@
                     <div class="col-12">
                         <h2>Wetcast Pavers</h2>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/stone-finish-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -50,7 +50,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/t-rock-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -68,7 +68,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/combi-paver-product.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -86,7 +86,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/unilock-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -104,7 +104,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/flexi-paver-11-product.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -122,7 +122,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/cobble-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -140,7 +140,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/romble-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -158,7 +158,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/jumbo-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -176,7 +176,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/flexi-paver-1-product.png" width="100%" height="auto" alt="">
                             <div class="row stone">
@@ -194,7 +194,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/pendulum-product.png" width="100%" height="auto" alt="">
                             <div class="row stone">

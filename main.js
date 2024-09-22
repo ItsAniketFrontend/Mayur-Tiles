@@ -12,7 +12,6 @@ function changeNavbarBackground() {
     }
 }
 
-
 $(document).ready(function() {
     $("#news-sliderr").owlCarousel({
         items : 5,
@@ -51,3 +50,4 @@ $(document).ready(function() {
         autoPlay:true,
     });
 });
+

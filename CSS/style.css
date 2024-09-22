@@ -980,6 +980,27 @@ header nav button {
   text-decoration: none;
 }
 
+.gallery-banner {
+  background: url(../Images/Gallery/banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 450px;
+}
+
+.gallery-section {
+  padding-top: 30px;
+}
+.gallery-section h1 {
+  color: #2B2B2B;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 .foot {
   background: #fff;
   padding: 15px 0px;

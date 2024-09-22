@@ -290,54 +290,54 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
-                            <img src="Images/home-page-products/Colour-Blended-Pavers.png" alt="">
+                            <img src="Images/home-categories/wetcast-pavers.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
-                            <img src="Images/home-page-products/Grass-Pavers.png" alt="">
+                            <img src="Images/home-categories/grass-pavers.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
-                            <img src="Images/home-page-products/Wetcast-Pavers.png" alt="">
+                            <img src="Images/home-categories/vibro-press-pavers.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
-                            <img src="Images/home-page-products/Vibro-Press-Pavers.png" alt="">
+                            <img src="Images/home-categories/bedrock.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
-                            <img src="Images/home-page-products/terrazzo-mosaic.png" alt="">
+                            <img src="Images/home-categories/terrazo-tiles.png" alt="">
                         </div>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
-                            <img src="Images/home-page-products/heritage-cement-tile.png" alt="">
+                            <img src="Images/home-categories/kerbstone-saucer-drain.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
-                            <img src="Images/home-page-products/kerbstone-saucer-drain.png" alt="">
+                            <img src="Images/home-categories/parking-tiles-designer-cement-tile.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
-                            <img src="Images/home-page-products/Parking-Tiles.png" alt="">
+                            <img src="Images/home-categories/heritage-cement-tile.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
-                            <img src="Images/home-page-products/Engineered-Blocks.png" alt="">
+                            <img src="Images/home-categories/engineered-blocks.png" alt="">
                         </div>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
                         <div class="product-box">
-                            <img src="Images/home-page-products/heat-resistant-cool.png" alt="">
+                            <img src="Images/home-categories/heat-resistance.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -396,7 +396,7 @@
             </div>
         </section>
 
-        
+
 
         <section class="home-why-choose-us">
             <div class="container">

@@ -37,7 +37,7 @@
           <a class="nav-link" href="#">FAQ's</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="#">Gallery</a>
+          <a class="nav-link" href="gallery.php">Gallery</a>
         </li>
         <li class="nav-item px-3 d-block d-sm-block d-md-block d-lg-none d-xl-none">
           <a class="nav-link" href="#">

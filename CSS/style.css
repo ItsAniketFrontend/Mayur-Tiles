@@ -31,6 +31,15 @@ header nav .nav-link {
   line-height: normal;
   text-transform: uppercase;
 }
+header nav .dropdown-item {
+  color: #000 !important;
+  font-family: Mulish !important;
+  font-size: 13px !important;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
 header nav button {
   background: none;
   display: flex;
@@ -891,17 +900,26 @@ header nav button {
   text-decoration: none;
 }
 
+.grass-paver-banner {
+  background: url(../Images/Grass-Pavers/grass-pavers-banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px;
+}
+
 .grass-pavers-sub-category {
   overflow: hidden;
-  padding: 80px 0px;
+  padding: 30px 0px;
 }
 .grass-pavers-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
   font-family: Poppins;
-  font-size: 40px;
+  font-size: 24px;
+  text-transform: uppercase;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 120%;
   /* 48px */
 }
@@ -909,13 +927,18 @@ header nav button {
   background: var(--Color-Light-BG, #F4F5F7);
   height: 100%;
 }
+.grass-pavers-sub-category .product-box img {
+  height: 280px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
 .grass-pavers-sub-category .product-box .stone {
   padding: 10px;
 }
 .grass-pavers-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
   font-family: Poppins;
-  font-size: 24px;
+  font-size: 18px;
   font-style: normal;
   font-weight: 600;
   line-height: 120%;
@@ -924,7 +947,7 @@ header nav button {
 .grass-pavers-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
   font-family: Poppins;
-  font-size: 16px;
+  font-size: 14px;
   font-style: normal;
   font-weight: 500;
   line-height: 150%;
@@ -946,6 +969,10 @@ header nav button {
   align-items: center;
   flex-direction: column;
 }
+.grass-pavers-sub-category .product-box .stone .home-stone img {
+  width: 80px;
+  height: auto;
+}
 .grass-pavers-sub-category .product-box .stone .home-stone button {
   border-radius: 5px;
   background: #B93822;
@@ -956,7 +983,7 @@ header nav button {
 .grass-pavers-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
   font-family: Poppins;
-  font-size: 16px;
+  font-size: 14px;
   font-style: normal;
   font-weight: 700;
   line-height: normal;
@@ -978,6 +1005,247 @@ header nav button {
   line-height: 150%;
   /* 24px */
   text-decoration: none;
+}
+
+.bedrock-banner {
+  background: url(../Images/bedrock/bedrock-banner.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 550px;
+}
+
+.bedrock-sub-category {
+  padding-top: 30px;
+  overflow: hidden;
+}
+.bedrock-sub-category h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  /* 48px */
+}
+.bedrock-sub-category .product-box {
+  background: var(--Color-Light-BG, #F4F5F7);
+  height: 100%;
+}
+.bedrock-sub-category .product-box img {
+  width: 100%;
+  height: 280px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.bedrock-sub-category .product-box .stone {
+  padding: 10px;
+}
+.bedrock-sub-category .product-box .stone h3 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+  /* 28.8px */
+}
+.bedrock-sub-category .product-box .stone p {
+  color: var(--Color-Gray-3, #898989);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.bedrock-sub-category .product-box .stone li {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  /* 136.364% */
+  list-style: none;
+}
+.bedrock-sub-category .product-box .stone .home-stone {
+  margin-top: -40px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.bedrock-sub-category .product-box .stone .home-stone img {
+  width: 80px;
+  height: auto;
+}
+.bedrock-sub-category .product-box .stone .home-stone button {
+  border-radius: 5px;
+  background: #B93822;
+  padding: 5px 20px;
+  border: none;
+  margin-top: 10px;
+}
+.bedrock-sub-category .product-box .stone .home-stone button a {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.bedrock-sub-category button {
+  border-radius: 5px;
+  border: 1px solid var(--Primary, #B93822);
+  background: var(--Primary, #B93822);
+  padding: 5px 40px;
+}
+.bedrock-sub-category button a {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  /* 24px */
+  text-decoration: none;
+}
+
+.engineered-block-banner {
+  background: url(../Images/engineered-blocks/enginnered-block-banner.png);
+  min-height: 550px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.block-sub-category {
+  padding-top: 30px;
+  overflow: hidden;
+}
+.block-sub-category h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  /* 48px */
+}
+.block-sub-category .product-box {
+  background: var(--Color-Light-BG, #F4F5F7);
+  height: 100%;
+}
+.block-sub-category .product-box img {
+  width: 100%;
+  height: 280px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.block-sub-category .product-box .stone {
+  padding: 10px;
+}
+.block-sub-category .product-box .stone h3 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+  /* 28.8px */
+}
+.block-sub-category .product-box .stone h4 {
+  color: #B93822;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+.block-sub-category .product-box .stone p {
+  color: var(--Color-Gray-3, #898989);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.block-sub-category .product-box .stone li {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  /* 136.364% */
+  list-style: none;
+}
+.block-sub-category .product-box .stone .home-stone {
+  margin-top: -40px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.block-sub-category .product-box .stone .home-stone img {
+  width: 80px;
+  height: auto;
+}
+.block-sub-category .product-box .stone .home-stone button {
+  border-radius: 5px;
+  background: #B93822;
+  padding: 5px 20px;
+  border: none;
+  margin-top: 10px;
+}
+.block-sub-category .product-box .stone .home-stone button a {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.block-sub-category button {
+  border-radius: 5px;
+  border: 1px solid var(--Primary, #B93822);
+  background: var(--Primary, #B93822);
+  padding: 5px 40px;
+}
+.block-sub-category button a {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  /* 24px */
+  text-decoration: none;
+}
+
+.why-blocks {
+  padding-top: 10px;
+}
+.why-blocks h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  /* 48px */
+}
+.why-blocks li {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
 }
 
 .gallery-banner {

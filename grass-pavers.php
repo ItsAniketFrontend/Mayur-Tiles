@@ -25,6 +25,10 @@
     </header>
 
     <main>
+
+        <section class="grass-paver-banner">
+            
+        </section>
     
         <section class="grass-pavers-sub-category">
             <div class="container">
@@ -44,7 +48,7 @@
                                     <li>Strength - M40</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Grass-Pavers/octa-grass-pavers.png" width="80" alt="">
+                                    <img src="Images/Grass-Pavers/octa-grass-pavers.png" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
@@ -62,7 +66,7 @@
                                     <li>Strength - M40</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Grass-Pavers/grass-grid.png" class="img-fluid" alt="">
+                                    <img src="Images/Grass-Pavers/grass-grid.png"  alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
@@ -80,7 +84,7 @@
                                     <li>Strength - M40</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Grass-Pavers/x-grass-pavers.png" width="100" alt="">
+                                    <img src="Images/Grass-Pavers/x-grass-pavers.png" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>

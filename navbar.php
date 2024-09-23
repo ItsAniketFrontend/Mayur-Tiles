@@ -27,10 +27,13 @@
             <li><a class="dropdown-item" href="wetcast-pavers.php">Wetcast Pavers</a></li>
             <li><a class="dropdown-item" href="grass-pavers.php">Grass Pavers</a></li>
             <li><a class="dropdown-item" href="vibro-pressed.php">Vibro Press Pavers</a></li>
-            <li>
-              <hr class="dropdown-divider">
-            </li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li><a class="dropdown-item" href="wetcast-pavers.php">Bedrock Pavers</a></li>
+            <li><a class="dropdown-item" href="grass-pavers.php">Kerbstone & Saucer Drain</a></li>
+            <li><a class="dropdown-item" href="vibro-pressed.php">Terrazo & Mosaic</a></li>
+            <li><a class="dropdown-item" href="wetcast-pavers.php">Heat Resistant Cool Tile</a></li>
+            <li><a class="dropdown-item" href="grass-pavers.php">Heritage Cement Tile</a></li>
+            <li><a class="dropdown-item" href="vibro-pressed.php">Designer Parking Tile</a></li>
+            <li><a class="dropdown-item" href="vibro-pressed.php">Engineered Blocks</a></li>
           </ul>
         </li>
         <li class="nav-item px-3">

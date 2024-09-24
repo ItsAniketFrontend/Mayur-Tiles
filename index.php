@@ -289,56 +289,76 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-6 my-2">
-                        <div class="product-box">
-                            <img src="Images/home-categories/wetcast-pavers.png" alt="">
-                        </div>
+                        <a href="wetcast-pavers.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/wetcast-pavers.png" alt="">
+                            </div>
+                        </a>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
-                        <div class="product-box">
-                            <img src="Images/home-categories/grass-pavers.png" alt="">
-                        </div>
+                        <a href="grass-pavers.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/grass-pavers.png" alt="">
+                            </div>
+                        </a>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
-                        <div class="product-box">
-                            <img src="Images/home-categories/vibro-press-pavers.png" alt="">
-                        </div>
+                        <a href="vibro-pressed.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/vibro-press-pavers.png" alt="">
+                            </div>
+                        </a>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
-                        <div class="product-box">
-                            <img src="Images/home-categories/bedrock.png" alt="">
-                        </div>
+                        <a href="bedrock.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/bedrock.png" alt="">
+                            </div>
+                        </a>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
-                        <div class="product-box">
-                            <img src="Images/home-categories/terrazo-tiles.png" alt="">
-                        </div>
+                        <a href="">
+                            <div class="product-box">
+                                <img src="Images/home-categories/terrazo-tiles.png" alt="">
+                            </div>
+                        </a>
                     </div>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-6 my-2">
-                        <div class="product-box">
-                            <img src="Images/home-categories/kerbstone-saucer-drain.png" alt="">
-                        </div>
+                        <a href="">
+                            <div class="product-box">
+                                <img src="Images/home-categories/kerbstone-saucer-drain.png" alt="">
+                            </div>
+                        </a>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
-                        <div class="product-box">
-                            <img src="Images/home-categories/parking-tiles-designer-cement-tile.png" alt="">
-                        </div>
+                        <a href="parking-tile.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/parking-tiles-designer-cement-tile.png" alt="">
+                            </div>
+                        </a>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
-                        <div class="product-box">
-                            <img src="Images/home-categories/heritage-cement-tile.png" alt="">
-                        </div>
+                        <a href="">
+                            <div class="product-box">
+                                <img src="Images/home-categories/heritage-cement-tile.png" alt="">
+                            </div>
+                        </a>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
-                        <div class="product-box">
-                            <img src="Images/home-categories/engineered-blocks.png" alt="">
-                        </div>
+                        <a href="engineered-block.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/engineered-blocks.png" alt="">
+                            </div>
+                        </a>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
-                        <div class="product-box">
-                            <img src="Images/home-categories/heat-resistance.png" alt="">
-                        </div>
+                        <a href="">
+                            <div class="product-box">
+                                <img src="Images/home-categories/heat-resistance.png" alt="">
+                            </div>
+                        </a>
                     </div>
                 </div>
 
@@ -391,7 +411,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div> 
+                    </div>
                 </div>
             </div>
         </section>

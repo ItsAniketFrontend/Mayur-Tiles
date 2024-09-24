@@ -1248,6 +1248,285 @@ header nav button {
   font-weight: 500;
 }
 
+.parking-tiles-banner {
+  background: url(../Images/parking-tiles/parking-tiles-banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 580px;
+}
+
+.polished-heavy-duty {
+  padding: 10px 0px;
+}
+.polished-heavy-duty .product-box {
+  background: var(--Color-Light-BG, #F4F5F7);
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.polished-heavy-duty .product-box h3 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+  /* 28.8px */
+}
+.polished-heavy-duty .product-box img {
+  width: 100%;
+  height: auto;
+}
+.polished-heavy-duty .product-box li {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  /* 136.364% */
+  list-style: none;
+}
+.polished-heavy-duty .product-box button {
+  border-radius: 5px;
+  border: 1px solid var(--Primary, #B93822);
+  background: var(--Primary, #B93822);
+  padding: 5px 40px;
+}
+.polished-heavy-duty .product-box button a {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  /* 24px */
+  text-decoration: none;
+}
+.polished-heavy-duty h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+}
+.polished-heavy-duty h4 {
+  color: #B93822;
+  margin-bottom: 0px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+.polished-heavy-duty p {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  /* 136.364% */
+  list-style: none;
+}
+
+.general-purpose-tiles h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: center;
+}
+.general-purpose-tiles .product-box {
+  background: var(--Color-Light-BG, #F4F5F7);
+  height: 100%;
+}
+.general-purpose-tiles .product-box .stone {
+  padding: 10px;
+}
+.general-purpose-tiles .product-box .stone h3 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  text-align: center;
+}
+.general-purpose-tiles .product-box .stone h4 {
+  color: #B93822;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0px;
+  text-align: center;
+}
+.general-purpose-tiles .product-box .stone p {
+  color: var(--Color-Gray-3, #898989);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.general-purpose-tiles .product-box .stone li {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  /* 136.364% */
+  list-style: none;
+}
+.general-purpose-tiles .product-box .stone .home-stone {
+  margin-top: -40px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.general-purpose-tiles .product-box .stone .home-stone img {
+  width: 80px;
+  height: auto;
+}
+.general-purpose-tiles .product-box .stone .home-stone button {
+  border-radius: 5px;
+  background: #B93822;
+  padding: 5px 20px;
+  border: none;
+  margin-top: 10px;
+}
+.general-purpose-tiles .product-box .stone .home-stone button a {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.heritage-tiles-banner {
+  background: url(../Images/heritage/heritage-banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 550px;
+}
+
+.heritage-sub-category {
+  padding-top: 30px;
+  overflow: hidden;
+}
+.heritage-sub-category h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 120%;
+  /* 48px */
+}
+.heritage-sub-category .product-box {
+  background: var(--Color-Light-BG, #F4F5F7);
+  height: 100%;
+}
+.heritage-sub-category .product-box img {
+  width: 100%;
+  height: 200px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.heritage-sub-category .product-box .stone {
+  padding: 10px;
+}
+.heritage-sub-category .product-box .stone h3 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+}
+.heritage-sub-category .product-box .stone h4 {
+  color: #B93822;
+  font-family: Poppins;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+}
+.heritage-sub-category .product-box .stone p {
+  color: var(--Color-Gray-3, #898989);
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.heritage-sub-category .product-box .stone li {
+  color: var(--Color-Gray-1, #3A3A3A);
+  font-family: Poppins;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  /* 136.364% */
+  list-style: none;
+}
+.heritage-sub-category .product-box .stone .home-stone {
+  margin-top: -40px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.heritage-sub-category .product-box .stone .home-stone img {
+  width: 60px;
+  height: auto;
+}
+.heritage-sub-category .product-box .stone .home-stone button {
+  border-radius: 5px;
+  background: #B93822;
+  padding: 5px 10px;
+  border: none;
+  margin-top: 10px;
+}
+.heritage-sub-category .product-box .stone .home-stone button a {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.heritage-sub-category button {
+  border-radius: 5px;
+  border: 1px solid var(--Primary, #B93822);
+  background: var(--Primary, #B93822);
+  padding: 5px 40px;
+}
+.heritage-sub-category button a {
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+  /* 24px */
+  text-decoration: none;
+}
+
+.terrazzo-banner {
+  background: url(../Images/terrazzo/terrazzo-banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 550px;
+}
+
 .gallery-banner {
   background: url(../Images/Gallery/banner.png);
   background-position: center;

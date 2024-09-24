@@ -317,7 +317,7 @@
                         </a>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
-                        <a href="">
+                        <a href="terrazzo-tile.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/terrazo-tiles.png" alt="">
                             </div>
@@ -326,7 +326,7 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-6 my-2">
-                        <a href="">
+                        <a href="kerbstone.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/kerbstone-saucer-drain.png" alt="">
                             </div>
@@ -340,7 +340,7 @@
                         </a>
                     </div>
                     <div class="col-lg-2 col-6 my-2">
-                        <a href="">
+                        <a href="heritage-cement-tile.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/heritage-cement-tile.png" alt="">
                             </div>
@@ -361,8 +361,6 @@
                         </a>
                     </div>
                 </div>
-
-
             </div>
         </section>
 

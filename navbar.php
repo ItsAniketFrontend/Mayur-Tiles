@@ -28,7 +28,7 @@
             <li><a class="dropdown-item" href="grass-pavers.php">Grass Pavers</a></li>
             <li><a class="dropdown-item" href="vibro-pressed.php">Vibro Press Pavers</a></li>
             <li><a class="dropdown-item" href="bedrock.php">Bedrock Pavers</a></li>
-            <li><a class="dropdown-item" href="grass-pavers.php">Kerbstone & Saucer Drain</a></li>
+            <li><a class="dropdown-item" href="kerbstone.php">Kerbstone & Saucer Drain</a></li>
             <li><a class="dropdown-item" href="terrazzo-tile.php">Terrazo & Mosaic</a></li>
             <li><a class="dropdown-item" href="wetcast-pavers.php">Heat Resistant Cool Tile</a></li>
             <li><a class="dropdown-item" href="heritage-cement-tile.php">Heritage Cement Tile</a></li>

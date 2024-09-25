@@ -30,7 +30,7 @@
             <li><a class="dropdown-item" href="bedrock.php">Bedrock Pavers</a></li>
             <li><a class="dropdown-item" href="kerbstone.php">Kerbstone & Saucer Drain</a></li>
             <li><a class="dropdown-item" href="terrazzo-tile.php">Terrazo & Mosaic</a></li>
-            <li><a class="dropdown-item" href="wetcast-pavers.php">Heat Resistant Cool Tile</a></li>
+            <li><a class="dropdown-item" href="heat-resistant.php">Heat Resistant Cool Tile</a></li>
             <li><a class="dropdown-item" href="heritage-cement-tile.php">Heritage Cement Tile</a></li>
             <li><a class="dropdown-item" href="parking-tile.php">Designer Parking Tile</a></li>
             <li><a class="dropdown-item" href="engineered-block.php">Engineered Blocks</a></li>

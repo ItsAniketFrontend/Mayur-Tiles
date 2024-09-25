@@ -101,7 +101,7 @@
                     </div>
                     <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/heritage/lotus.png" alt="">
+                            <img src="Images/heritage/Lotus.png" alt="">
                             <div class="row stone">
                                 <div class="col-6">
                                     <h3>LOTUS</h3>
@@ -109,7 +109,7 @@
                                     <p>250MM X 250MM</p>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/heritage/lotus-stone.png" alt="">
+                                    <img src="Images/heritage/Lotus-stone.png" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@
                     </div>
                     <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/heritage/ludo.png" width="100%" height="auto" alt="">
+                            <img src="Images/heritage/Ludo.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
                                     <h3>LUDO</h3>
@@ -189,7 +189,7 @@
                                     <p>250MM X 250MM</p>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/heritage/ludo-stone.png"  alt="">
+                                    <img src="Images/heritage/Ludo-stone.png"  alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
@@ -231,7 +231,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/heritage/sharp.png" alt="">
+                            <img src="Images/heritage/Sharp.png" alt="">
                             <div class="row stone">
                                 <div class="col-6">
                                     <h3>SHARP</h3>
@@ -239,7 +239,7 @@
                                     <p>250MM X 250MM</p>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/heritage/sharp-stone.png" alt="">
+                                    <img src="Images/heritage/Sharp-stone.png" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
@@ -247,7 +247,7 @@
                     </div>
                     <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/heritage/w.png" width="100%" height="auto" alt="">
+                            <img src="Images/heritage/W.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
                                     <h3>W</h3>
@@ -255,7 +255,7 @@
                                     <p>250MM X 250MM</p>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/heritage/w-stone.png"  alt="">
+                                    <img src="Images/heritage/W-stone.png"  alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
@@ -279,7 +279,7 @@
                     </div>
                     <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/heritage/arch.png" width="100%" height="auto" alt="">
+                            <img src="Images/heritage/Arch.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
                                     <h3>ARCH</h3>
@@ -287,7 +287,7 @@
                                     <p>300MM X 300MM</p>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/heritage/arch-stone.png" alt="">
+                                    <img src="Images/heritage/Arch-stone.png" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>

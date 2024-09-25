@@ -2733,3 +2733,78 @@ header nav {
         }
     }
 }
+
+.heat-banner{
+    min-height: 550px;
+
+}
+
+.heat-about{
+    padding: 10px 0px;
+    h4{
+        color: #000;
+        font-family: Manrope;
+        font-size: 19px;
+        font-style: normal;
+        font-weight: 500;
+        margin-bottom: 0px;
+        text-transform: capitalize;
+    }
+    li{
+        color: #000;
+        font-family: Manrope;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        margin-bottom: 0px;
+    }
+}
+
+.heat-product{
+    padding: 10px 0px;
+    h2{
+        color: #000;
+        font-family: Manrope;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        margin-bottom: 0px;
+        text-transform: capitalize;
+    }
+    p{
+        color: #000;
+        font-family: Manrope;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        margin-bottom: 0px;
+    }
+}
+
+.heat-feature{
+    h2{
+        color: #000;
+        font-family: Manrope;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        margin-bottom: 0px;
+        text-transform: capitalize;
+    }
+    p{
+        color: #000;
+        font-family: Manrope;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        margin-bottom: 0px; 
+    }
+    h6{
+        color: #000;
+        font-family: Manrope;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 500;
+        margin-bottom: 0px; 
+    }
+}

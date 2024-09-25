@@ -190,7 +190,7 @@
                     <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200"
                         data-aos-duration="800">
                         <div class="product-box">
-                            <img src="Images/terrazzo/Super-white.png" alt="">
+                            <img src="Images/terrazzo/super-white.png" alt="">
                             <div class="row stone">
                                 <div class="col-12 text-center">
                                     <h3>Super White</h3>
@@ -324,7 +324,7 @@
                     <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200"
                         data-aos-duration="800">
                         <div class="product-box">
-                            <img src="Images/terrazzo/Magneta.png" alt="">
+                            <img src="Images/terrazzo/magneta.png" alt="">
                             <div class="row stone">
                                 <div class="col-12 text-center">
                                     <h3>Magenta</h3>

@@ -2244,4 +2244,76 @@ header nav button a {
   border: none;
   font-style: normal;
   font-weight: 500;
+}
+
+.heat-banner {
+  min-height: 550px;
+}
+
+.heat-about {
+  padding: 10px 0px;
+}
+.heat-about h4 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+}
+.heat-about li {
+  color: #000;
+  font-family: Manrope;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.heat-product {
+  padding: 10px 0px;
+}
+.heat-product h2 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+}
+.heat-product p {
+  color: #000;
+  font-family: Manrope;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.heat-feature h2 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+}
+.heat-feature p {
+  color: #000;
+  font-family: Manrope;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.heat-feature h6 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 0px;
 }/*# sourceMappingURL=style.css.map */

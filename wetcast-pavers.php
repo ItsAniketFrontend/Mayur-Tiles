@@ -25,6 +25,9 @@
     </header>
 
     <main>
+
+        <section class="wetcast-banner">
+        </section>
     
         <section class="wetcast-pavers-sub-category">
             <div class="container">

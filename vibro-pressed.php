@@ -25,6 +25,9 @@
     </header>
 
     <main>
+
+        <section class="vibro-press-banner">
+        </section>
     
         <section class="vibro-pressed-sub-category">
             <div class="container">
@@ -32,201 +35,143 @@
                     <div class="col-12">
                         <h2>Vibro Press Pavers (Steel Moulded)</h2>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/stone-finish-product-image.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Stone Finish</h3>
-                                    <p>WETCAST PAVERS</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/stone-finish-product.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/t-rock-product-image.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>T-Rock</h3>
-                                    <p>Wetcast Pavers</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/t-rock-wetcast-pavers.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/combi-paver-product.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Combi Pavers</h3>
-                                    <p>Wetcast Pavers</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/combi-paver-wetcast-pavers.png" width="200" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/unilock-product-image.png" width="100%" height="auto" alt="">
+                            <img src="Images/vibro-press-pavers/unilock.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
                                     <h3>Unilock</h3>
-                                    <p>WETCAST PAVERS</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
+                                    <p>Vibro Press Pavers (Steel Mould)</p>
+                                    <li>Thickness - 60,80,100MM</li>
+                                    <li>Strength - M30,M40,M50</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/unilock-wetcast-pavers.png" width="50px" alt="">
+                                    <img src="Images/vibro-press-pavers/unilock-stone.png" class="img-fluid" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/flexi-paver-11-product.png" width="100%" height="auto" alt="">
+                            <img src="Images/vibro-press-pavers/square.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
-                                    <h3>Flexi Paver 11</h3>
-                                    <p>Wetcast Pavers</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
+                                    <h3>Square</h3>
+                                    <p>Vibro Press Pavers (Steel Mould)</p>
+                                    <li>200 X 200MM</li>
+                                    <li>Thickness - 60,80,100MM</li>
+                                    <li>Strength - M30,M40,M50</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/flexi-paver-11-wetcast-pavers.png" width="100" alt="">
+                                    <img src="Images/vibro-press-pavers/square-stone.png" class="img-fluid" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/cobble-product-image.png" width="100%" height="auto" alt="">
+                            <img src="Images/vibro-press-pavers/brick.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
-                                    <h3>Cobble</h3>
-                                    <p>Wetcast Pavers</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
+                                    <h3>Brick</h3>
+                                    <p>Vibro Press Pavers (Steel Mould)</p>
+                                    <li>200 X100MM</li>
+                                    <li>Thickness - 60,80,100MM</li>
+                                    <li>Strength - M30,M40,M50</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/cobble-wetcast-pavers.png" width="80" alt="">
+                                    <img src="Images/vibro-press-pavers/brick-stone.png" width="200" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/romble-product-image.png" width="100%" height="auto" alt="">
+                            <img src="Images/vibro-press-pavers/concrete-cobble.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
-                                    <h3>Romble</h3>
-                                    <p>WETCAST PAVERS</p>
-                                    <li>Size - 8” X 8”</li>
+                                    <h3>Concrete Cobble</h3>
+                                    <p>Vibro Press Pavers (Steel Mould)</p>
+                                    <li>100 X 100MM</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/romble-petcast-pavers.png" width="100" alt="">
+                                    <img src="Images/vibro-press-pavers/concrete-cobble-stone.png" width="50px" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/jumbo-product-image.png" width="100%" height="auto" alt="">
+                            <img src="Images/vibro-press-pavers/i-shape.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
-                                    <h3>Jumbo</h3>
-                                    <p>Wetcast Pavers</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
+                                    <h3>I-Shape</h3>
+                                    <p>Vibro Press Pavers (Steel Mould)</p>
+                                    <li>Thickness - 60,80,100MM</li>
+                                    <li>Strength - M30,M40,M50</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/jumbo-wetcast-pavers.png" width="80" alt="">
+                                    <img src="Images/vibro-press-pavers/i-shape-stone.png" width="100" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/flexi-paver-1-product.png" width="100%" height="auto" alt="">
+                            <img src="Images/vibro-press-pavers/flex-paver-1.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
-                                    <h3>Flex Paver I</h3>
-                                    <p>Wetcast Pavers</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
+                                    <h3>Flexi Paver |</h3>
+                                    <p>Vibro Press Pavers (Steel Mould)</p>
+                                    <li>200 X 200MM | 200 X 100MM</li>
+                                    <li>Thickness - 60,80MM</li>
+                                    <li>Strength - M30,M40,M50</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/flexi-paver-1.png" class="img-fluid" alt="">
+                                    <img src="Images/vibro-press-pavers/flex-paver-1-stone.png" width="80" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/pendulum-product.png" width="100%" height="auto" alt="">
+                            <img src="Images/vibro-press-pavers/flex-paver-2.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
-                                    <h3>Pendulum</h3>
-                                    <p>Wetcast Pavers
-                                    </p>
-                                    <li>Size - 8” X 8”</li>
+                                    <h3>Flexi Paver ||</h3>
+                                    <p>vibro Press Pavers (Steel Mould)</p>
+                                    <li>200 X 200MM | 100 X 100MM | 200 X 100MM</li>
                                     <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
+                                    <li>Strength - M30</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/pendulum.png" class="img-fluid" alt="">
+                                    <img src="Images/vibro-press-pavers/flex-paver-2-stone.png" width="100" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="product-box">
-                            <img src="Images/Wetcast-Pavers/octa-grass-product.png" width="100%" height="auto" alt="">
+                            <img src="Images/vibro-press-pavers/flag-stones.png" width="100%" height="auto" alt="">
                             <div class="row stone">
                                 <div class="col-6">
-                                    <h3>Octa Grass</h3>
-                                    <p>Wetcast Pavers
-                                    </p>
-                                    <li>Size - 8” X 8”</li>
+                                    <h3>Flag Stones</h3>
+                                    <p>Semi Reflective (Heavy Duty Flags)</p>
+                                    <li>400 X 400 X 60 MM</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
                                 <div class="col-6 home-stone">
-                                    <img src="Images/Wetcast-Pavers/octa-grass-wetcast-pavers.png" width="100" alt="">
+                                    <img src="Images/vibro-press-pavers/stone.png" width="80" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>

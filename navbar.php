@@ -36,14 +36,14 @@
             <li><a class="dropdown-item" href="engineered-block.php">Engineered Blocks</a></li>
           </ul>
         </li>
-        <li class="nav-item px-3">
+        <!-- <li class="nav-item px-3">
           <a class="nav-link" href="#">FAQ's</a>
-        </li>
+        </li> -->
         <li class="nav-item px-3">
           <a class="nav-link" href="gallery.php">Gallery</a>
         </li>
         <li class="nav-item px-3 d-block d-sm-block d-md-block d-lg-none d-xl-none">
-          <a class="nav-link" href="#">
+          <a class="nav-link" href="contact-us.php">
             Contact Us
             <svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
               <circle cx="18.5" cy="18.5" r="18.0375" stroke="white" stroke-width="0.925" />
@@ -56,13 +56,15 @@
       </ul>
       <div class="d-none d-md-none d-sm-none d-lg-block d-xl-block">
         <button>
-          Contact Us
-          <svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
-            <circle cx="18.5" cy="18.5" r="18.0375" stroke="white" stroke-width="0.925" />
-            <path fill-rule="evenodd" clip-rule="evenodd"
-              d="M16.3791 12.2963L22.2657 18.183C22.627 18.5442 22.627 19.1299 22.2657 19.4911L16.3791 25.3778C16.0178 25.739 15.4321 25.739 15.0709 25.3778C14.7097 25.0166 14.7097 24.4309 15.0709 24.0696L20.3035 18.8371L15.0709 13.6045C14.7097 13.2432 14.7097 12.6576 15.0709 12.2963C15.4321 11.9351 16.0178 11.9351 16.3791 12.2963Z"
-              fill="white" />
-          </svg>
+          <a href="contact-us.php">
+            Contact Us
+            <svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">
+              <circle cx="18.5" cy="18.5" r="18.0375" stroke="white" stroke-width="0.925" />
+              <path fill-rule="evenodd" clip-rule="evenodd"
+                d="M16.3791 12.2963L22.2657 18.183C22.627 18.5442 22.627 19.1299 22.2657 19.4911L16.3791 25.3778C16.0178 25.739 15.4321 25.739 15.0709 25.3778C14.7097 25.0166 14.7097 24.4309 15.0709 24.0696L20.3035 18.8371L15.0709 13.6045C14.7097 13.2432 14.7097 12.6576 15.0709 12.2963C15.4321 11.9351 16.0178 11.9351 16.3791 12.2963Z"
+                fill="white" />
+            </svg>
+          </a>
         </button>
       </div>
     </div>

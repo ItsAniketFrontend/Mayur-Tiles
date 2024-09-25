@@ -62,6 +62,11 @@ header nav {
         text-transform: uppercase;
         font-weight: 500;
         line-height: normal;
+
+        a {
+            text-decoration: none;
+            color: #fff;
+        }
     }
 }
 
@@ -1041,6 +1046,13 @@ header nav {
     }
 }
 
+.wetcast-banner {
+    background: url(../Images/Wetcast-Pavers/wetcast-paver-banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 550px;
+}
 
 .wetcast-pavers-sub-category {
     overflow: hidden;
@@ -1052,18 +1064,20 @@ header nav {
         font-family: Poppins;
         font-size: 24px;
         font-style: normal;
-        font-weight: 600;
+        font-weight: 500;
         text-transform: uppercase;
     }
 
     .product-box {
         background: var(--Color-Light-BG, #F4F5F7);
         height: 100%;
-        img{
+
+        img {
             width: 100%;
             height: 200px;
             object-fit: cover;
         }
+
         .stone {
             padding: 10px;
 
@@ -1098,8 +1112,8 @@ header nav {
                 align-items: center;
                 flex-direction: column;
 
-                img{
-                    height: 50px;
+                img {
+                    height: 60px;
                     width: auto;
                 }
 
@@ -1142,6 +1156,14 @@ header nav {
     }
 }
 
+.vibro-press-banner {
+    background: url(../Images/vibro-press-pavers/vibro-press-banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 550px;
+}
+
 .vibro-pressed-sub-category {
     overflow: hidden;
     padding: 80px 0px;
@@ -1150,16 +1172,21 @@ header nav {
         color: var(--Color-Gray-1, #3A3A3A);
         text-align: center;
         font-family: Poppins;
-        font-size: 40px;
+        font-size: 24px;
         font-style: normal;
-        font-weight: 700;
-        line-height: 120%;
-        /* 48px */
+        font-weight: 600;
+        text-transform: uppercase;
     }
 
     .product-box {
         background: var(--Color-Light-BG, #F4F5F7);
         height: 100%;
+
+        img {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+        }
 
         .stone {
             padding: 10px;
@@ -1167,21 +1194,17 @@ header nav {
             h3 {
                 color: var(--Color-Gray-1, #3A3A3A);
                 font-family: Poppins;
-                font-size: 24px;
+                font-size: 18px;
                 font-style: normal;
                 font-weight: 600;
-                line-height: 120%;
-                /* 28.8px */
             }
 
             p {
                 color: var(--Color-Gray-3, #898989);
                 font-family: Poppins;
-                font-size: 16px;
+                font-size: 14px;
                 font-style: normal;
                 font-weight: 500;
-                line-height: 150%;
-                /* 24px */
             }
 
             li {
@@ -1201,20 +1224,24 @@ header nav {
                 align-items: center;
                 flex-direction: column;
 
+                img {
+                    height: 60px;
+                    width: auto;
+                }
+
                 button {
                     border-radius: 5px;
                     background: #B93822;
-                    padding: 5px 20px;
+                    padding: 5px;
                     border: none;
                     margin-top: 10px;
 
                     a {
                         color: #FFF;
                         font-family: Poppins;
-                        font-size: 16px;
+                        font-size: 10px;
                         font-style: normal;
-                        font-weight: 700;
-                        line-height: normal;
+                        font-weight: 600;
                         text-transform: uppercase;
                         text-decoration: none;
                     }
@@ -1720,8 +1747,8 @@ header nav {
     }
 }
 
-.general-purpose-tiles{
-    h2{
+.general-purpose-tiles {
+    h2 {
         color: var(--Color-Gray-1, #3A3A3A);
         font-family: Poppins;
         font-size: 22px;
@@ -1730,9 +1757,11 @@ header nav {
         text-transform: uppercase;
         text-align: center;
     }
+
     .product-box {
         background: var(--Color-Light-BG, #F4F5F7);
         height: 100%;
+
         .stone {
             padding: 10px;
 
@@ -1808,7 +1837,7 @@ header nav {
     }
 }
 
-.heritage-tiles-banner{
+.heritage-tiles-banner {
     background: url(../Images/heritage/heritage-banner.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -1853,7 +1882,7 @@ header nav {
                 font-weight: 600;
             }
 
-            h4{
+            h4 {
                 color: #B93822;
                 font-family: Poppins;
                 font-size: 13px;
@@ -1886,6 +1915,7 @@ header nav {
                 align-items: center;
                 flex-direction: column;
                 height: fit-content;
+
                 img {
                     width: 60px;
                     height: auto;
@@ -1897,6 +1927,7 @@ header nav {
                     padding: 5px 10px;
                     border: none;
                     margin-top: 10px;
+
                     a {
                         color: #FFF;
                         font-family: Poppins;
@@ -1930,7 +1961,7 @@ header nav {
     }
 }
 
-.kerbstone-tiles-banner{
+.kerbstone-tiles-banner {
     background: url(../Images/kerbstone/Kerbstone.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -1975,7 +2006,7 @@ header nav {
                 font-weight: 600;
             }
 
-            h4{
+            h4 {
                 color: #B93822;
                 font-family: Poppins;
                 font-size: 13px;
@@ -2008,6 +2039,7 @@ header nav {
                 align-items: center;
                 flex-direction: column;
                 height: fit-content;
+
                 img {
                     width: 60px;
                     height: auto;
@@ -2019,6 +2051,7 @@ header nav {
                     padding: 5px 10px;
                     border: none;
                     margin-top: 10px;
+
                     a {
                         color: #FFF;
                         font-family: Poppins;
@@ -2052,7 +2085,7 @@ header nav {
     }
 }
 
-.terrazzo-banner{
+.terrazzo-banner {
     background: url(../Images/terrazzo/terrazzo-banner.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -2074,6 +2107,7 @@ header nav {
         font-weight: 500;
         margin-bottom: 2px;
     }
+
     p {
         color: var(--Color-Gray-3, #898989);
         font-family: Poppins;
@@ -2104,7 +2138,7 @@ header nav {
                 font-weight: 600;
             }
 
-            h4{
+            h4 {
                 color: #B93822;
                 font-family: Poppins;
                 font-size: 13px;
@@ -2137,6 +2171,7 @@ header nav {
                 align-items: center;
                 flex-direction: column;
                 height: fit-content;
+
                 img {
                     width: 60px;
                     height: auto;
@@ -2148,6 +2183,7 @@ header nav {
                     padding: 5px 10px;
                     border: none;
                     margin-top: 10px;
+
                     a {
                         color: #FFF;
                         font-family: Poppins;
@@ -2181,7 +2217,7 @@ header nav {
     }
 }
 
-.terrazzo-second{
+.terrazzo-second {
     padding-top: 5px;
     overflow: hidden;
 
@@ -2195,6 +2231,7 @@ header nav {
         font-weight: 500;
         margin-bottom: 2px;
     }
+
     p {
         color: var(--Color-Gray-3, #898989);
         font-family: Poppins;
@@ -2225,7 +2262,7 @@ header nav {
                 font-weight: 600;
             }
 
-            h4{
+            h4 {
                 color: #B93822;
                 font-family: Poppins;
                 font-size: 13px;
@@ -2258,6 +2295,7 @@ header nav {
                 align-items: center;
                 flex-direction: column;
                 height: fit-content;
+
                 img {
                     width: 60px;
                     height: auto;
@@ -2269,6 +2307,7 @@ header nav {
                     padding: 5px 10px;
                     border: none;
                     margin-top: 10px;
+
                     a {
                         color: #FFF;
                         font-family: Poppins;
@@ -2302,7 +2341,7 @@ header nav {
     }
 }
 
-.terrazzo-third{
+.terrazzo-third {
     padding-top: 5px;
     overflow: hidden;
 
@@ -2316,6 +2355,7 @@ header nav {
         font-weight: 500;
         margin-bottom: 2px;
     }
+
     p {
         color: var(--Color-Gray-3, #898989);
         font-family: Poppins;
@@ -2346,7 +2386,7 @@ header nav {
                 font-weight: 600;
             }
 
-            h4{
+            h4 {
                 color: #B93822;
                 font-family: Poppins;
                 font-size: 13px;
@@ -2379,6 +2419,7 @@ header nav {
                 align-items: center;
                 flex-direction: column;
                 height: fit-content;
+
                 img {
                     width: 60px;
                     height: auto;
@@ -2390,6 +2431,7 @@ header nav {
                     padding: 5px 10px;
                     border: none;
                     margin-top: 10px;
+
                     a {
                         color: #FFF;
                         font-family: Poppins;
@@ -2423,7 +2465,7 @@ header nav {
     }
 }
 
-.venetian-terrazzo{
+.venetian-terrazzo {
     padding-top: 5px;
     overflow: hidden;
 
@@ -2437,6 +2479,7 @@ header nav {
         font-weight: 500;
         margin-bottom: 2px;
     }
+
     p {
         color: var(--Color-Gray-3, #898989);
         font-family: Poppins;
@@ -2467,7 +2510,7 @@ header nav {
                 font-weight: 600;
             }
 
-            h4{
+            h4 {
                 color: #B93822;
                 font-family: Poppins;
                 font-size: 13px;
@@ -2500,6 +2543,7 @@ header nav {
                 align-items: center;
                 flex-direction: column;
                 height: fit-content;
+
                 img {
                     width: 60px;
                     height: auto;
@@ -2511,6 +2555,7 @@ header nav {
                     padding: 5px 10px;
                     border: none;
                     margin-top: 10px;
+
                     a {
                         color: #FFF;
                         font-family: Poppins;
@@ -2554,6 +2599,7 @@ header nav {
 
 .gallery-section {
     padding-top: 30px;
+
     h1 {
         color: #2B2B2B;
         font-family: Poppins;
@@ -2607,6 +2653,83 @@ header nav {
             font-weight: 500;
             line-height: 26px;
             /* 173.333% */
+        }
+    }
+}
+
+.contact-banner {
+    background: url(../Images/contact-banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 450px;
+}
+
+.contact-details {
+    padding: 20px 0px;
+
+    h2 {
+        color: #000;
+        font-family: Manrope;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        margin-bottom: 0px;
+        text-transform: capitalize;
+        padding-bottom: 40px;
+    }
+
+    p {
+        color: #000;
+        font-family: Manrope;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+        margin-bottom: 0px;
+    }
+
+    .form-box {
+        padding: 80px 20px;
+        border-radius: 37.707px;
+        background: #E7E7E7;
+        box-shadow: -5.801px 5.801px 10.925px 0px rgba(0, 0, 0, 0.25);
+        backdrop-filter: blur(2.4654693603515625px);
+        input {
+            width: 100%;
+            padding: 10px;
+            border-radius: 5px;
+            color: #000;
+            font-family: Manrope;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            margin-bottom: 0px;
+            background: none;
+             border: 1px solid #000;   
+        }
+        textarea {
+            width: 100%;
+            padding: 5px;
+            border-radius: 5px;
+            color: #000;
+            font-family: Manrope;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            margin-bottom: 0px;
+            background: none;
+            border: 1px solid #000;
+        }
+        button{
+            background: #B93822;
+            padding: 5px 50px;
+            font-family: Manrope;
+            font-size: 15px;
+            border: 1px solid none;
+            color: #fff;
+            border: none;
+            font-style: normal;
+            font-weight: 500;
         }
     }
 }

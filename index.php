@@ -81,25 +81,25 @@
         <section class="usps">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 my-lg-0 my-3">
+                    <div class="col-lg-3 col-6 my-lg-0 my-1">
                         <div class="col-box">
                             <h2>27</h2>
                             <p>Years Of Excellence</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3">
+                    <div class="col-lg-3 col-6 my-lg-0 my-1">
                         <div class="col-box">
                             <h2>150</h2>
                             <p>Team Size</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3">
+                    <div class="col-lg-3 col-6 my-lg-0 my-1">
                         <div class="col-box">
                             <h2>3200</h2>
                             <p>sq.ft/day</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 my-lg-0 my-3">
+                    <div class="col-lg-3 col-6 my-lg-0 my-1">
                         <div class="col-box">
                             <h2>27</h2>
                             <p>Years Of Excellence</p>
@@ -115,183 +115,15 @@
                     <div class="col-12">
                         <h2>Our Products</h2>
                     </div>
-                    <!-- <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/stone-finish-home.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Stone Finish</h3>
-                                    <p>WETCAST PAVERS</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/home-stone-finish.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/grass-grid-home.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Grass Grid</h3>
-                                    <p>GRASS PAVERS</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/home-grass-grid.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/syltherine.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Flex Paver I</h3>
-                                    <p>Vibro Press Pavers <br>
-                                        (Steel Mould)
-                                    </p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/home-flex-paver-1.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/stone-finish-home.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Stone Finish</h3>
-                                    <p>WETCAST PAVERS</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/home-stone-finish.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
-                        <div class="product-box">
-                            <img src="Images/grass-grid-home.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Grass Grid</h3>
-                                    <p>GRASS PAVERS</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/home-grass-grid.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/syltherine.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Flex Paver I</h3>
-                                    <p>Vibro Press Pavers <br>
-                                        (Steel Mould)
-                                    </p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/home-flex-paver-1.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/stone-finish-home.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Stone Finish</h3>
-                                    <p>WETCAST PAVERS</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/home-stone-finish.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
-                        <div class="product-box">
-                            <img src="Images/grass-grid-home.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Grass Grid</h3>
-                                    <p>GRASS PAVERS</p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/home-grass-grid.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/syltherine.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>Flex Paver I</h3>
-                                    <p>Vibro Press Pavers <br>
-                                        (Steel Mould)
-                                    </p>
-                                    <li>Size - 8” X 8”</li>
-                                    <li>Thickness - 60MM</li>
-                                    <li>Strength - M40</li>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/home-flex-paver-1.png" class="img-fluid" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 mt-3 d-flex justify-content-center align-items-center">
-                        <button><a href="categories.php">Show More</a></button>
-                    </div> -->
                 </div>
-                <div class="row justify-content-center">
+                <div class="row justify-content-center d-none d-lg-flex">
                     <div class="col-lg-2 col-6 my-2">
                         <a href="wetcast-pavers.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/wetcast-pavers.png" alt="">
+                                <div class="product-name">
+                                    <h4>Wetcast Pavers</h4>
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -299,6 +131,9 @@
                         <a href="grass-pavers.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/grass-pavers.png" alt="">
+                                <div class="product-name">
+                                    <h4>Grass Pavers</h4>
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -306,6 +141,9 @@
                         <a href="vibro-pressed.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/vibro-press-pavers.png" alt="">
+                                <div class="product-name">
+                                    <h4>Vibro Press Pavers</h4>
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -313,6 +151,9 @@
                         <a href="bedrock.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/bedrock.png" alt="">
+                                <div class="product-name">
+                                    <h4>Bedrock Pavers</h4>
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -320,15 +161,21 @@
                         <a href="terrazzo-tile.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/terrazo-tiles.png" alt="">
+                                <div class="product-name">
+                                    <h4>Terrazoo & Mosaic</h4>
+                                </div>
                             </div>
                         </a>
                     </div>
                 </div>
-                <div class="row justify-content-center">
+                <div class="row justify-content-center d-none d-lg-flex">
                     <div class="col-lg-2 col-6 my-2">
                         <a href="kerbstone.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/kerbstone-saucer-drain.png" alt="">
+                                <div class="product-name">
+                                    <h4>Kerbstone & Saucer</h4>
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -336,6 +183,9 @@
                         <a href="parking-tile.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/parking-tiles-designer-cement-tile.png" alt="">
+                                <div class="product-name">
+                                    <h4>Designer Parking Tile</h4>
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -343,6 +193,9 @@
                         <a href="heritage-cement-tile.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/heritage-cement-tile.png" alt="">
+                                <div class="product-name">
+                                    <h4>Heritage Cement Tile</h4>
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -350,6 +203,9 @@
                         <a href="engineered-block.php">
                             <div class="product-box">
                                 <img src="Images/home-categories/engineered-blocks.png" alt="">
+                                <div class="product-name">
+                                    <h4>Engineered-blocks</h4>
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -357,6 +213,111 @@
                         <a href="">
                             <div class="product-box">
                                 <img src="Images/home-categories/heat-resistance.png" alt="">
+                                <div class="product-name">
+                                    <h4>Heat Resistant Tile</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="row justify-content-center d-flex d-lg-none">
+                    <div class="col-6 my-1 p-1">
+                        <a href="wetcast-pavers.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/wetcast-pavers.png" alt="">
+                                <div class="product-name">
+                                    <h4>Wetcast Pavers</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-6 my-1 p-1">
+                        <a href="grass-pavers.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/grass-pavers.png" alt="">
+                                <div class="product-name">
+                                    <h4>Grass Pavers</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-6 my-1 p-1">
+                        <a href="vibro-pressed.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/vibro-press-pavers.png" alt="">
+                                <div class="product-name">
+                                    <h4>Vibro Press Pavers</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-6 my-1 p-1">
+                        <a href="bedrock.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/bedrock.png" alt="">
+                                <div class="product-name">
+                                    <h4>Bedrock Pavers</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-6 my-1 p-1">
+                        <a href="terrazzo-tile.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/terrazo-tiles.png" alt="">
+                                <div class="product-name">
+                                    <h4>Terrazoo & Mosaic</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-6 my-1 p-1">
+                        <a href="kerbstone.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/kerbstone-saucer-drain.png" alt="">
+                                <div class="product-name">
+                                    <h4>Kerbstone & Saucer</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-6 my-1 p-1">
+                        <a href="parking-tile.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/parking-tiles-designer-cement-tile.png" alt="">
+                                <div class="product-name">
+                                    <h4>Designer Parking Tile</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-6 my-1 p-1">
+                        <a href="heritage-cement-tile.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/heritage-cement-tile.png" alt="">
+                                <div class="product-name">
+                                    <h4>Heritage Cement Tile</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-6 my-1 p-1">
+                        <a href="engineered-block.php">
+                            <div class="product-box">
+                                <img src="Images/home-categories/engineered-blocks.png" alt="">
+                                <div class="product-name">
+                                    <h4>Engineered-blocks</h4>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-6 my-1 p-1">
+                        <a href="">
+                            <div class="product-box">
+                                <img src="Images/home-categories/heat-resistance.png" alt="">
+                                <div class="product-name">
+                                    <h4>Heat Resistant Tile</h4>
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -432,7 +393,7 @@
                         <p>There are many variations of passages of available but the majortity have sufferred
                             alteration in some form by injected humor or random word which don't look even.</p>
                         <div class="pt-1">
-                            <div class="d-flex gap-3 align-items-start flex-lg-row flex-column">
+                            <div class="d-flex gap-3 align-items-start flex-row">
                                 <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
                                     <h3>Is there a speed limit?</h3>
@@ -440,7 +401,7 @@
                                         anything hidden in the middle of text.</p>
                                 </div>
                             </div>
-                            <div class="d-flex gap-3 align-items-start flex-lg-row flex-column py-2">
+                            <div class="d-flex gap-3 align-items-start flex-row py-2">
                                 <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
                                     <h3>Can I extend/ cancel/ modify?</h3>
@@ -448,7 +409,7 @@
                                         anything hidden in the middle of text.</p>
                                 </div>
                             </div>
-                            <div class="d-flex gap-3 align-items-start flex-lg-row flex-column py-2">
+                            <div class="d-flex gap-3 align-items-start flex-row py-2">
                                 <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
                                     <h3>Booking criteria & documents?</h3>

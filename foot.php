@@ -1,12 +1,12 @@
 <div class="foot">
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 my-lg-0 my-3">
-                <div class="col-box">
-                    <img src="Images/Foot-Logo.png" width="280" alt="">
+            <div class="col-lg-4 my-lg-0 my-1">
+                <div class="col-box d-flex justify-content-lg-start justify-content-center ">
+                    <img src="Images/Foot-Logo.png" class="footer-logo" alt="">
                 </div>
             </div>
-            <div class="col-lg-4 my-lg-0 my-3">
+            <div class="col-lg-4 my-lg-0 my-1">
                 <div class="col-box text-center d-flex justify-content-center flex-column align-items-center">
                     <p>F-715, Sitapura Industrial Area,Tonk Road Jaipur(302022), Rajasthan, India</p>
                     <p>+91-98290 13317</p>
@@ -18,7 +18,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 my-lg-0 my-3">
+            <div class="col-lg-4 my-lg-0 my-1">
                 <div class="col-box d-flex align-items-center justify-content-center">
                     <div class="d-flex gap-2 align-items-center">
                         <svg class="footer__certified-img footer__certified-img--germ" version="1.0"

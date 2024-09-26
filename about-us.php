@@ -71,31 +71,31 @@
         <section class="about-us-usp">
             <div class="container">
                 <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-2 col-12 my-lg-0 my-2" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">
+                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">
                         <div class="col-box">
                             <img src="Images/about-us-usp-1.png" width="80px" alt="">
                             <p>Innovationis a state of mind.</p>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-12 my-lg-0 my-2" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="col-box">
                             <img src="Images/about-us-usp-2.png" width="80px" alt="">
                             <p>Qualitybegets excellence.</p>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-12 my-lg-0 my-2" data-aos="fade-down" data-aos-delay="280" data-aos-duration="800">
+                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-down" data-aos-delay="280" data-aos-duration="800">
                         <div class="col-box">
                             <img src="Images/about-us-usp-3.png" width="80px" alt="">
                             <p>Teamworkcan build empires.</p>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-12 my-lg-0 my-2" data-aos="fade-up" data-aos-delay="320" data-aos-duration="800">
+                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-up" data-aos-delay="320" data-aos-duration="800">
                         <div class="col-box">
                             <img src="Images/about-us-usp-4.png" width="80px" alt="">
                             <p>Integrity makes us who we are</p>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-12 my-lg-0 my-2" data-aos="fade-left" data-aos-delay="360" data-aos-duration="800">
+                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-left" data-aos-delay="360" data-aos-duration="800">
                         <div class="col-box">
                             <img src="Images/about-us-usp-5.png" width="80px" alt="">
                             <p>A Global Outlook breaks all boundaries.</p>
@@ -149,7 +149,7 @@
         <section class="about-us-bottom-usp">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 col-6">
                         <div class="d-flex gap-2 align-items-center  flex-column flex-lg-row">
                             <img src="Images/about-us-cata.png" width="42px" alt="">
                             <div class="">
@@ -160,7 +160,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 col-6">
                         <div class="d-flex gap-2 align-items-center  flex-column flex-lg-row">
                             <img src="Images/home-about-us-locate.png" width="42px" alt="">
                             <div class="">

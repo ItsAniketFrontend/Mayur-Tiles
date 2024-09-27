@@ -79,6 +79,77 @@ header nav button a {
   color: #fff;
 }
 
+header .second-nav {
+  transition: all 0.1s;
+  background: #fff;
+  position: fixed !important;
+  top: 0px;
+  width: 100%;
+  padding: 0px;
+  z-index: 1000;
+}
+@media (max-width: 991px) {
+  header .second-nav .navbar-logo {
+    width: 150px;
+  }
+}
+header .second-nav .nav-link {
+  color: #000 !important;
+  font-family: Mulish !important;
+  font-size: 13px !important;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  header .second-nav .nav-link {
+    color: #000 !important;
+  }
+}
+header .second-nav .navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  background-image: url(../Images/menu-2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+header .second-nav .dropdown-item {
+  color: #000 !important;
+  font-family: Mulish !important;
+  font-size: 13px !important;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+header .second-nav .head-con {
+  background: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 15px;
+  border: none;
+  border-radius: 29px;
+  border: 1px solid #000;
+  color: #000;
+  font-family: Unbounded;
+  font-size: 13px;
+  font-style: normal;
+  text-transform: uppercase;
+  font-weight: 500;
+  line-height: normal;
+}
+header .second-nav .head-con a {
+  text-decoration: none;
+  color: #000;
+}
+
 .home-banner {
   width: 100%;
   height: 100vh;
@@ -117,7 +188,7 @@ header nav button a {
 }
 .home-about-us h2 {
   color: #2B2B2B;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -202,7 +273,7 @@ header nav button a {
 .home-our-products h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   font-style: normal;
   text-transform: uppercase;
@@ -236,7 +307,7 @@ header nav button a {
 .home-our-products .product-box .product-name h4 {
   color: #fff;
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 18px;
   font-style: normal;
   text-transform: capitalize;
@@ -599,7 +670,7 @@ header nav button a {
 }
 .about-us-intro h2 {
   color: #2B2B2B;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -692,7 +763,7 @@ header nav button a {
 }
 .made-in-india h2 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -726,7 +797,7 @@ header nav button a {
 .made-in-india button a {
   text-decoration: none;
   color: var(--Color-White, #FFF);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
@@ -761,7 +832,7 @@ header nav button a {
 .product-categories h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -777,7 +848,7 @@ header nav button a {
 }
 .product-categories .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -786,7 +857,7 @@ header nav button a {
 }
 .product-categories .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -795,7 +866,7 @@ header nav button a {
 }
 .product-categories .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -818,7 +889,7 @@ header nav button a {
 }
 .product-categories .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 700;
@@ -834,7 +905,7 @@ header nav button a {
 }
 .product-categories button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -851,18 +922,56 @@ header nav button a {
   min-height: 550px;
 }
 
-.wetcast-pavers-sub-category {
-  overflow: hidden;
-  padding: 80px 0px;
+.wetcast-intro {
+  padding-top: 6rem;
 }
-.wetcast-pavers-sub-category h2 {
+.wetcast-intro h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
   text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  .wetcast-intro h2 {
+    font-size: 18px;
+  }
+}
+.wetcast-intro p {
+  color: #000;
+  font-family: Manrope;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  text-decoration: none;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .wetcast-intro p {
+    font-size: 12px;
+  }
+}
+
+.wetcast-pavers-sub-category {
+  overflow: hidden;
+  padding: 20px 0px;
+}
+.wetcast-pavers-sub-category h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  text-align: center;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  .wetcast-pavers-sub-category h2 {
+    font-size: 18px;
+  }
 }
 .wetcast-pavers-sub-category .product-box {
   background: var(--Color-Light-BG, #F4F5F7);
@@ -874,71 +983,84 @@ header nav button a {
   -o-object-fit: cover;
      object-fit: cover;
 }
+@media (max-width: 991px) {
+  .wetcast-pavers-sub-category .product-box img {
+    height: 100px;
+  }
+}
 .wetcast-pavers-sub-category .product-box .stone {
   padding: 10px;
 }
 .wetcast-pavers-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
 }
+@media (max-width: 991px) {
+  .wetcast-pavers-sub-category .product-box .stone h3 {
+    font-size: 10px;
+  }
+}
 .wetcast-pavers-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
 }
+@media (max-width: 991px) {
+  .wetcast-pavers-sub-category .product-box .stone p {
+    font-size: 11px;
+    margin-bottom: 0px;
+  }
+}
 .wetcast-pavers-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
   list-style: none;
 }
-.wetcast-pavers-sub-category .product-box .stone .home-stone {
-  margin-top: -40px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+@media (max-width: 991px) {
+  .wetcast-pavers-sub-category .product-box .stone li {
+    font-size: 6px;
+  }
 }
 .wetcast-pavers-sub-category .product-box .stone .home-stone img {
   height: 60px;
   width: auto;
 }
+@media (max-width: 991px) {
+  .wetcast-pavers-sub-category .product-box .stone .home-stone img {
+    height: 40px;
+  }
+}
 .wetcast-pavers-sub-category .product-box .stone .home-stone button {
   border-radius: 5px;
   background: #B93822;
-  padding: 5px;
   border: none;
   margin-top: 10px;
+  width: -moz-fit-content;
+  width: fit-content;
 }
 .wetcast-pavers-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
-  font-style: normal;
   font-weight: 600;
   text-decoration: none;
+  padding: 1px 10px;
+  width: -moz-fit-content;
+  width: fit-content;
+  display: block;
 }
-.wetcast-pavers-sub-category button {
-  border-radius: 5px;
-  border: 1px solid var(--Primary, #B93822);
-  background: var(--Primary, #B93822);
-  padding: 5px 40px;
-}
-.wetcast-pavers-sub-category button a {
-  color: #FFF;
-  font-family: Poppins;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 150%;
-  /* 24px */
-  text-decoration: none;
+@media (max-width: 991px) {
+  .wetcast-pavers-sub-category .product-box .stone .home-stone button a {
+    padding: 5px;
+  }
 }
 
 .vibro-press-banner {
@@ -956,7 +1078,7 @@ header nav button a {
 .vibro-pressed-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -977,21 +1099,21 @@ header nav button a {
 }
 .vibro-pressed-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
 }
 .vibro-pressed-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
 }
 .vibro-pressed-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1018,7 +1140,7 @@ header nav button a {
 }
 .vibro-pressed-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 10px;
   font-style: normal;
   font-weight: 600;
@@ -1033,7 +1155,7 @@ header nav button a {
 }
 .vibro-pressed-sub-category button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1057,7 +1179,7 @@ header nav button a {
 .grass-pavers-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   text-transform: uppercase;
   font-style: normal;
@@ -1079,7 +1201,7 @@ header nav button a {
 }
 .grass-pavers-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
@@ -1088,7 +1210,7 @@ header nav button a {
 }
 .grass-pavers-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -1097,7 +1219,7 @@ header nav button a {
 }
 .grass-pavers-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1124,7 +1246,7 @@ header nav button a {
 }
 .grass-pavers-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -1140,7 +1262,7 @@ header nav button a {
 }
 .grass-pavers-sub-category button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1164,7 +1286,7 @@ header nav button a {
 .bedrock-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   text-transform: uppercase;
   font-style: normal;
@@ -1187,7 +1309,7 @@ header nav button a {
 }
 .bedrock-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
@@ -1196,14 +1318,14 @@ header nav button a {
 }
 .bedrock-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
 }
 .bedrock-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1230,7 +1352,7 @@ header nav button a {
 }
 .bedrock-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -1246,7 +1368,7 @@ header nav button a {
 }
 .bedrock-sub-category button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1270,7 +1392,7 @@ header nav button a {
 .block-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   text-transform: uppercase;
   font-style: normal;
@@ -1293,7 +1415,7 @@ header nav button a {
 }
 .block-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
@@ -1302,7 +1424,7 @@ header nav button a {
 }
 .block-sub-category .product-box .stone h4 {
   color: #B93822;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1310,14 +1432,14 @@ header nav button a {
 }
 .block-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
 }
 .block-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1344,7 +1466,7 @@ header nav button a {
 }
 .block-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -1360,7 +1482,7 @@ header nav button a {
 }
 .block-sub-category button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1374,7 +1496,7 @@ header nav button a {
 }
 .why-blocks h2 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   text-transform: uppercase;
   font-style: normal;
@@ -1384,7 +1506,7 @@ header nav button a {
 }
 .why-blocks li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -1408,7 +1530,7 @@ header nav button a {
 }
 .polished-heavy-duty .product-box h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 18px;
   font-style: normal;
   font-weight: 600;
@@ -1421,7 +1543,7 @@ header nav button a {
 }
 .polished-heavy-duty .product-box li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1437,7 +1559,7 @@ header nav button a {
 }
 .polished-heavy-duty .product-box button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1447,7 +1569,7 @@ header nav button a {
 }
 .polished-heavy-duty h2 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 22px;
   font-style: normal;
   font-weight: 500;
@@ -1455,14 +1577,14 @@ header nav button a {
 .polished-heavy-duty h4 {
   color: #B93822;
   margin-bottom: 0px;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
 }
 .polished-heavy-duty p {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1473,7 +1595,7 @@ header nav button a {
 
 .general-purpose-tiles h2 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 22px;
   font-style: normal;
   font-weight: 500;
@@ -1489,7 +1611,7 @@ header nav button a {
 }
 .general-purpose-tiles .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -1497,7 +1619,7 @@ header nav button a {
 }
 .general-purpose-tiles .product-box .stone h4 {
   color: #B93822;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1506,14 +1628,14 @@ header nav button a {
 }
 .general-purpose-tiles .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
 }
 .general-purpose-tiles .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1540,7 +1662,7 @@ header nav button a {
 }
 .general-purpose-tiles .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 700;
@@ -1564,7 +1686,7 @@ header nav button a {
 .heritage-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   text-transform: uppercase;
   font-style: normal;
@@ -1587,28 +1709,28 @@ header nav button a {
 }
 .heritage-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .heritage-sub-category .product-box .stone h4 {
   color: #B93822;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .heritage-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
 }
 .heritage-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1637,7 +1759,7 @@ header nav button a {
 }
 .heritage-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 8px;
   font-style: normal;
   font-weight: 400;
@@ -1652,7 +1774,7 @@ header nav button a {
 }
 .heritage-sub-category button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1676,7 +1798,7 @@ header nav button a {
 .kerbstone-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   text-transform: uppercase;
   font-style: normal;
@@ -1699,28 +1821,28 @@ header nav button a {
 }
 .kerbstone-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .kerbstone-sub-category .product-box .stone h4 {
   color: #B93822;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .kerbstone-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
 }
 .kerbstone-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1749,7 +1871,7 @@ header nav button a {
 }
 .kerbstone-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 8px;
   font-style: normal;
   font-weight: 400;
@@ -1764,7 +1886,7 @@ header nav button a {
 }
 .kerbstone-sub-category button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1788,7 +1910,7 @@ header nav button a {
 .terrazzo-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   text-transform: uppercase;
   font-style: normal;
@@ -1797,7 +1919,7 @@ header nav button a {
 }
 .terrazzo-sub-category p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   margin-bottom: 0px;
@@ -1818,28 +1940,28 @@ header nav button a {
 }
 .terrazzo-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .terrazzo-sub-category .product-box .stone h4 {
   color: #B93822;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .terrazzo-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
 }
 .terrazzo-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1868,7 +1990,7 @@ header nav button a {
 }
 .terrazzo-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 8px;
   font-style: normal;
   font-weight: 400;
@@ -1883,7 +2005,7 @@ header nav button a {
 }
 .terrazzo-sub-category button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -1899,7 +2021,7 @@ header nav button a {
 .terrazzo-second h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   text-transform: uppercase;
   font-style: normal;
@@ -1908,7 +2030,7 @@ header nav button a {
 }
 .terrazzo-second p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   margin-bottom: 0px;
@@ -1929,28 +2051,28 @@ header nav button a {
 }
 .terrazzo-second .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .terrazzo-second .product-box .stone h4 {
   color: #B93822;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .terrazzo-second .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
 }
 .terrazzo-second .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -1979,7 +2101,7 @@ header nav button a {
 }
 .terrazzo-second .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 8px;
   font-style: normal;
   font-weight: 400;
@@ -1994,7 +2116,7 @@ header nav button a {
 }
 .terrazzo-second button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -2010,7 +2132,7 @@ header nav button a {
 .terrazzo-third h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   text-transform: uppercase;
   font-style: normal;
@@ -2019,7 +2141,7 @@ header nav button a {
 }
 .terrazzo-third p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   margin-bottom: 0px;
@@ -2040,28 +2162,28 @@ header nav button a {
 }
 .terrazzo-third .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .terrazzo-third .product-box .stone h4 {
   color: #B93822;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .terrazzo-third .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
 }
 .terrazzo-third .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -2090,7 +2212,7 @@ header nav button a {
 }
 .terrazzo-third .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 8px;
   font-style: normal;
   font-weight: 400;
@@ -2105,7 +2227,7 @@ header nav button a {
 }
 .terrazzo-third button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -2121,7 +2243,7 @@ header nav button a {
 .venetian-terrazzo h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   text-transform: uppercase;
   font-style: normal;
@@ -2130,7 +2252,7 @@ header nav button a {
 }
 .venetian-terrazzo p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   margin-bottom: 0px;
@@ -2151,28 +2273,28 @@ header nav button a {
 }
 .venetian-terrazzo .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .venetian-terrazzo .product-box .stone h4 {
   color: #B93822;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 13px;
   font-style: normal;
   font-weight: 600;
 }
 .venetian-terrazzo .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
 }
 .venetian-terrazzo .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
@@ -2201,7 +2323,7 @@ header nav button a {
 }
 .venetian-terrazzo .product-box .stone .home-stone button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 8px;
   font-style: normal;
   font-weight: 400;
@@ -2216,7 +2338,7 @@ header nav button a {
 }
 .venetian-terrazzo button a {
   color: #FFF;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -2238,7 +2360,7 @@ header nav button a {
 }
 .gallery-section h1 {
   color: #2B2B2B;
-  font-family: Poppins;
+  font-family: Manrope;
   font-size: 24px;
   font-style: normal;
   font-weight: 500;
@@ -2259,11 +2381,11 @@ header nav button a {
   margin-bottom: 0px;
 }
 .foot .footer-logo {
-  width: 200px;
+  width: 120px;
 }
 @media (max-width: 991px) {
   .foot .footer-logo {
-    width: 120px;
+    width: 80px;
   }
 }
 .foot svg {

@@ -21,12 +21,20 @@
 <body>
 
     <header>
-        <?php include 'navbar.php'; ?>
+        <?php include 'header.php'; ?>
     </header>
 
     <main>
 
-        <section class="wetcast-banner">
+        <section class="wetcast-intro">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>Wetcast Pavers (Rubber Moulded)</h2>
+                        <p>Paving the way with precision and quantity</p>
+                    </div>
+                </div>
+            </div>
         </section>
     
         <section class="wetcast-pavers-sub-category">
@@ -35,173 +43,173 @@
                     <div class="col-12">
                         <h2>Wetcast Pavers</h2>
                     </div>
-                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-1" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/stone-finish-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Stone Finish</h3>
                                     <p>WETCAST PAVERS</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 home-stone order-lg-2 order-1">
                                     <img src="Images/Wetcast-Pavers/stone-finish-product.png" class="img-fluid" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-1" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/t-rock-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-12 col-lg-6 order-lg-1 order-2">
                                     <h3>T-Rock</h3>
                                     <p>Wetcast Pavers</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-12 col-lg-6 order-lg-2 order-1 home-stone">
                                     <img src="Images/Wetcast-Pavers/t-rock-wetcast-pavers.png" class="img-fluid" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-1" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/combi-paver-product.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-12 col-lg-6 order-lg-1 order-2">
                                     <h3>Combi Pavers</h3>
                                     <p>Wetcast Pavers</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-12 col-lg-6  order-lg-2 order-1 home-stone">
                                     <img src="Images/Wetcast-Pavers/combi-paver-wetcast-pavers.png" width="200" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-1" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/unilock-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-12 col-lg-6 order-lg-1 order-2">
                                     <h3>Unilock</h3>
                                     <p>WETCAST PAVERS</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-12 col-lg-6 order-lg-2 order-1  home-stone">
                                     <img src="Images/Wetcast-Pavers/unilock-wetcast-pavers.png" width="50px" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-3 col-6 col-box  my-1" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/flexi-paver-11-product.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Flexi Paver 11</h3>
                                     <p>Wetcast Pavers</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/Wetcast-Pavers/flexi-paver-11-wetcast-pavers.png" width="100" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-1" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/cobble-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Cobble</h3>
                                     <p>Wetcast Pavers</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/Wetcast-Pavers/cobble-wetcast-pavers.png" width="80" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-1" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/romble-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Romble</h3>
                                     <p>WETCAST PAVERS</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/Wetcast-Pavers/romble-petcast-pavers.png" width="100" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-3 col-6 col-box  my-1" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/jumbo-product-image.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Jumbo</h3>
                                     <p>Wetcast Pavers</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/Wetcast-Pavers/jumbo-wetcast-pavers.png" width="80" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-1" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/flexi-paver-1-product.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Flex Paver I</h3>
                                     <p>Wetcast Pavers</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/Wetcast-Pavers/flexi-paver-1.png" class="img-fluid" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-box  my-3" data-aos="fade-right" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-1" data-aos="fade-right" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
                             <img src="Images/Wetcast-Pavers/pendulum-product.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Pendulum</h3>
                                     <p>Wetcast Pavers
                                     </p>
@@ -209,7 +217,7 @@
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/Wetcast-Pavers/pendulum.png" class="img-fluid" alt="">
                                     <button><a href="">Know More</a></button>
                                 </div>

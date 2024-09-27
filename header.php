@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg py-1" id="navbar">
+<nav class="navbar navbar-expand-lg py-1 second-nav">
   <div class="container-fluid">
     <img src="Images/navbar-logo.png" width="250" class="navbar-logo" alt="">
     <button class="navbar-toggler" type="button" style="border:none;" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
@@ -6,7 +6,7 @@
     </button>
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header">
-        <img src="Images/navbar-logo.png" width="100px" alt="">
+        <img src="Images/navbar-logo.png" width="120px" alt="">
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body justify-content-lg-center align-items-center h-50">
@@ -53,7 +53,7 @@
         </li>
       </ul>
       <div class="d-none d-md-none d-sm-none d-lg-block d-xl-block">
-        <button>
+        <button class="head-con">
           <a href="contact-us.php">
             Contact Us
             <svg xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37" fill="none">

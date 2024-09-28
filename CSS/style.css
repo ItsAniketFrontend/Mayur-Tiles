@@ -955,6 +955,118 @@ header .second-nav .head-con a {
   }
 }
 
+.heritage-intro {
+  padding-top: 6rem;
+}
+.heritage-intro h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  text-align: center;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  .heritage-intro h2 {
+    font-size: 18px;
+  }
+}
+.heritage-intro p {
+  color: #000;
+  font-family: Manrope;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  text-decoration: none;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .heritage-intro p {
+    font-size: 12px;
+  }
+}
+.heritage-intro button {
+  border-radius: 5px;
+  background: #B93822;
+  border: none;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.heritage-intro button a {
+  color: #FFF;
+  font-family: Manrope;
+  font-size: 11px;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 6px 15px;
+  width: -moz-fit-content;
+  width: fit-content;
+  display: block;
+}
+@media (max-width: 991px) {
+  .heritage-intro button a {
+    padding: 5px;
+  }
+}
+
+.engineered-intro {
+  padding-top: 6rem;
+}
+.engineered-intro h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  text-align: center;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  .engineered-intro h2 {
+    font-size: 18px;
+  }
+}
+.engineered-intro p {
+  color: #000;
+  font-family: Manrope;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  text-decoration: none;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .engineered-intro p {
+    font-size: 12px;
+  }
+}
+.engineered-intro button {
+  border-radius: 5px;
+  background: #B93822;
+  border: none;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.engineered-intro button a {
+  color: #FFF;
+  font-family: Manrope;
+  font-size: 11px;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 6px 15px;
+  width: -moz-fit-content;
+  width: fit-content;
+  display: block;
+}
+@media (max-width: 991px) {
+  .engineered-intro button a {
+    padding: 5px;
+  }
+}
+
 .wetcast-pavers-sub-category {
   overflow: hidden;
   padding: 20px 0px;
@@ -1486,19 +1598,22 @@ header .second-nav .head-con a {
 }
 
 .block-sub-category {
-  padding-top: 30px;
   overflow: hidden;
+  padding: 20px 0px;
 }
 .block-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
   font-family: Manrope;
   font-size: 24px;
-  text-transform: uppercase;
   font-style: normal;
   font-weight: 500;
-  line-height: 120%;
-  /* 48px */
+  text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  .block-sub-category h2 {
+    font-size: 18px;
+  }
 }
 .block-sub-category .product-box {
   background: var(--Color-Light-BG, #F4F5F7);
@@ -1506,9 +1621,14 @@ header .second-nav .head-con a {
 }
 .block-sub-category .product-box img {
   width: 100%;
-  height: 280px;
+  height: 200px;
   -o-object-fit: cover;
      object-fit: cover;
+}
+@media (max-width: 991px) {
+  .block-sub-category .product-box img {
+    height: 100px;
+  }
 }
 .block-sub-category .product-box .stone {
   padding: 10px;
@@ -1518,24 +1638,37 @@ header .second-nav .head-con a {
   font-family: Manrope;
   font-size: 18px;
   font-style: normal;
-  font-weight: 600;
-  line-height: 120%;
-  /* 28.8px */
+  font-weight: 500;
+}
+@media (max-width: 991px) {
+  .block-sub-category .product-box .stone h3 {
+    font-size: 10px;
+  }
 }
 .block-sub-category .product-box .stone h4 {
   color: #B93822;
   font-family: Manrope;
   font-size: 16px;
   font-style: normal;
-  font-weight: 600;
-  margin-bottom: 0px;
+  font-weight: 500;
+}
+@media (max-width: 991px) {
+  .block-sub-category .product-box .stone h4 {
+    font-size: 10px;
+  }
 }
 .block-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
   font-family: Manrope;
   font-size: 14px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
+}
+@media (max-width: 991px) {
+  .block-sub-category .product-box .stone p {
+    font-size: 11px;
+    margin-bottom: 0px;
+  }
 }
 .block-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
@@ -1543,52 +1676,45 @@ header .second-nav .head-con a {
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
-  line-height: 15px;
-  /* 136.364% */
   list-style: none;
 }
-.block-sub-category .product-box .stone .home-stone {
-  margin-top: -40px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+@media (max-width: 991px) {
+  .block-sub-category .product-box .stone li {
+    font-size: 6px;
+  }
 }
 .block-sub-category .product-box .stone .home-stone img {
-  width: 80px;
-  height: auto;
+  height: 60px;
+  width: auto;
+}
+@media (max-width: 991px) {
+  .block-sub-category .product-box .stone .home-stone img {
+    height: 40px;
+  }
 }
 .block-sub-category .product-box .stone .home-stone button {
   border-radius: 5px;
   background: #B93822;
-  padding: 5px 20px;
   border: none;
   margin-top: 10px;
+  width: -moz-fit-content;
+  width: fit-content;
 }
 .block-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
   font-family: Manrope;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-.block-sub-category button {
-  border-radius: 5px;
-  border: 1px solid var(--Primary, #B93822);
-  background: var(--Primary, #B93822);
-  padding: 5px 40px;
-}
-.block-sub-category button a {
-  color: #FFF;
-  font-family: Manrope;
-  font-size: 16px;
-  font-style: normal;
+  font-size: 11px;
   font-weight: 600;
-  line-height: 150%;
-  /* 24px */
   text-decoration: none;
+  padding: 1px 10px;
+  width: -moz-fit-content;
+  width: fit-content;
+  display: block;
+}
+@media (max-width: 991px) {
+  .block-sub-category .product-box .stone .home-stone button a {
+    padding: 5px;
+  }
 }
 
 .why-blocks {
@@ -1601,15 +1727,23 @@ header .second-nav .head-con a {
   text-transform: uppercase;
   font-style: normal;
   font-weight: 500;
-  line-height: 120%;
-  /* 48px */
+}
+@media (max-width: 991px) {
+  .why-blocks h2 {
+    font-size: 19px;
+  }
 }
 .why-blocks li {
   color: var(--Color-Gray-1, #3A3A3A);
   font-family: Manrope;
   font-size: 14px;
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
+}
+@media (max-width: 991px) {
+  .why-blocks li {
+    font-size: 12px;
+  }
 }
 
 .parking-tiles-banner {
@@ -1810,19 +1944,22 @@ header .second-nav .head-con a {
 }
 
 .heritage-sub-category {
-  padding-top: 30px;
   overflow: hidden;
+  padding: 20px 0px;
 }
 .heritage-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
   font-family: Manrope;
   font-size: 24px;
-  text-transform: uppercase;
   font-style: normal;
   font-weight: 500;
-  line-height: 120%;
-  /* 48px */
+  text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  .heritage-sub-category h2 {
+    font-size: 18px;
+  }
 }
 .heritage-sub-category .product-box {
   background: var(--Color-Light-BG, #F4F5F7);
@@ -1834,29 +1971,50 @@ header .second-nav .head-con a {
   -o-object-fit: cover;
      object-fit: cover;
 }
+@media (max-width: 991px) {
+  .heritage-sub-category .product-box img {
+    height: 100px;
+  }
+}
 .heritage-sub-category .product-box .stone {
   padding: 10px;
 }
 .heritage-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
   font-family: Manrope;
-  font-size: 13px;
+  font-size: 18px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
+}
+@media (max-width: 991px) {
+  .heritage-sub-category .product-box .stone h3 {
+    font-size: 10px;
+  }
 }
 .heritage-sub-category .product-box .stone h4 {
   color: #B93822;
   font-family: Manrope;
-  font-size: 13px;
+  font-size: 16px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
+}
+@media (max-width: 991px) {
+  .heritage-sub-category .product-box .stone h4 {
+    font-size: 12px;
+  }
 }
 .heritage-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
   font-family: Manrope;
   font-size: 14px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
+}
+@media (max-width: 991px) {
+  .heritage-sub-category .product-box .stone p {
+    font-size: 11px;
+    margin-bottom: 0px;
+  }
 }
 .heritage-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
@@ -1864,53 +2022,45 @@ header .second-nav .head-con a {
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
-  line-height: 15px;
-  /* 136.364% */
   list-style: none;
 }
-.heritage-sub-category .product-box .stone .home-stone {
-  margin-top: -40px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  height: -moz-fit-content;
-  height: fit-content;
+@media (max-width: 991px) {
+  .heritage-sub-category .product-box .stone li {
+    font-size: 6px;
+  }
 }
 .heritage-sub-category .product-box .stone .home-stone img {
-  width: 60px;
-  height: auto;
+  height: 60px;
+  width: auto;
+}
+@media (max-width: 991px) {
+  .heritage-sub-category .product-box .stone .home-stone img {
+    height: 40px;
+  }
 }
 .heritage-sub-category .product-box .stone .home-stone button {
   border-radius: 5px;
   background: #B93822;
-  padding: 5px 10px;
   border: none;
   margin-top: 10px;
+  width: -moz-fit-content;
+  width: fit-content;
 }
 .heritage-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
   font-family: Manrope;
-  font-size: 8px;
-  font-style: normal;
-  font-weight: 400;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-.heritage-sub-category button {
-  border-radius: 5px;
-  border: 1px solid var(--Primary, #B93822);
-  background: var(--Primary, #B93822);
-  padding: 5px 40px;
-}
-.heritage-sub-category button a {
-  color: #FFF;
-  font-family: Manrope;
-  font-size: 16px;
-  font-style: normal;
+  font-size: 11px;
   font-weight: 600;
-  line-height: 150%;
-  /* 24px */
   text-decoration: none;
+  padding: 1px 10px;
+  width: -moz-fit-content;
+  width: fit-content;
+  display: block;
+}
+@media (max-width: 991px) {
+  .heritage-sub-category .product-box .stone .home-stone button a {
+    padding: 5px;
+  }
 }
 
 .kerbstone-tiles-banner {

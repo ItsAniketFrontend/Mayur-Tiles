@@ -21,13 +21,22 @@
 <body>
 
     <header>
-        <?php include 'navbar.php'; ?>
+        <?php include 'header.php'; ?>
     </header>
 
     <main>
 
-       <section class="engineered-block-banner">
-       </section>
+        <section class="engineered-intro">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h2 class="m-0">Engineered Blocks</h2>
+                        <p>Never That Strong</p>
+                        <button><a href="contact-us.php">Know More</a></button>
+                    </div>
+                </div>
+            </div>
+        </section>
 
        <section class="why-blocks">
             <div class="container">
@@ -56,7 +65,7 @@
                         <div class="product-box">
                             <img src="Images/engineered-blocks/solid-block-4.png" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Solid Block 4"</h3>
                                     <h4>Load Bearing Blocks</h4>
                                     <p>Engineered Blocks</p>
@@ -68,9 +77,8 @@
                                     <li>Bundle per truck - 13 or 14</li>
                                     <li>Weight per Bundle - 1850 kg Approx</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/engineered-blocks/solid-block-4-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
@@ -79,7 +87,7 @@
                         <div class="product-box">
                             <img src="Images/engineered-blocks/solid-block-6.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Solid Block 6"</h3>
                                     <h4>Load Bearing Blocks</h4>
                                     <p>Engineered Blocks</p>
@@ -91,9 +99,8 @@
                                     <li>Bundle per truck- 13 or 14</li>
                                     <li>Weight per Bundle- 1580 kg Approx</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2 home-stone">
                                     <img src="Images/engineered-blocks/solid-block-6-stone.png"  alt="">
-                                    <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>
@@ -102,7 +109,7 @@
                         <div class="product-box">
                             <img src="Images/engineered-blocks/solid-hollow-8.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Hollow Block 8"</h3>
                                     <h4>Non-Load Bearing Blocks</h4>
                                     <p>Engineered Blocks</p>
@@ -114,9 +121,8 @@
                                     <li>Bundle per truck- 15 or 17</li>
                                     <li>Weight per Bundle- 1225 kg Approx.</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/engineered-blocks/solid-hollow-8-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>

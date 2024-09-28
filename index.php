@@ -390,31 +390,37 @@
                         data-aos-delay="300" data-aos-duration="800">
                         <h6>Mayur Dynamic</h6>
                         <h2>Why Choose Our Tiles</h2>
-                        <p>There are many variations of passages of available but the majortity have sufferred
-                            alteration in some form by injected humor or random word which don't look even.</p>
+                        <!-- <p>There are many variations of passages of available but the majortity have sufferred -->
+                            <!-- alteration in some form by injected humor or random word which don't look even.</p> -->
                         <div class="pt-1">
                             <div class="d-flex gap-3 align-items-start flex-row">
                                 <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
-                                    <h3>Is there a speed limit?</h3>
-                                    <p>There are variation You need to be sure there is
-                                        anything hidden in the middle of text.</p>
+                                    <p>Vast Experience of 27+ years in precast concrete tiles.</p>
                                 </div>
                             </div>
                             <div class="d-flex gap-3 align-items-start flex-row py-2">
                                 <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
-                                    <h3>Can I extend/ cancel/ modify?</h3>
-                                    <p>There are variation You need to be sure there is
-                                        anything hidden in the middle of text.</p>
+                                    <p>We are the largest Cement Tiles & Paver manufacturer in Rajasthan.</p>
                                 </div>
                             </div>
                             <div class="d-flex gap-3 align-items-start flex-row py-2">
                                 <img src="Images/why-choose-tick.png" width="24px" alt="">
                                 <div class="">
-                                    <h3>Booking criteria & documents?</h3>
-                                    <p>There are variation You need to be sure there is
-                                        anything hidden in the middle of text.</p>
+                                    <p>We have the widest range of Precast Tiles & Pavers across the Industry</p>
+                                </div>
+                            </div>
+                            <div class="d-flex gap-3 align-items-start flex-row py-2">
+                                <img src="Images/why-choose-tick.png" width="24px" alt="">
+                                <div class="">
+                                    <p>Our Product range Includes Terrazzo Tiles, Heat Resistant Tile, Chequered Tiles, Designer Tiles, Pavers & Kerbs.</p>
+                                </div>
+                            </div>
+                            <div class="d-flex gap-3 align-items-start flex-row py-2">
+                                <img src="Images/why-choose-tick.png" width="24px" alt="">
+                                <div class="">
+                                    <p>We use Worlds Best Colour Pigments form Bayferrox  in our products which last almost a lifetime.</p>
                                 </div>
                             </div>
                         </div>

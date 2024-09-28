@@ -21,12 +21,21 @@
 <body>
 
     <header>
-        <?php include 'navbar.php'; ?>
+        <?php include 'header.php'; ?>
     </header>
 
     <main>
 
-        <section class="kerbstone-tiles-banner">
+        <section class="kerbstone-intro">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h2>Kerbstone & Saucer Drain</h2>
+                        <p>Saucer drains are an essential solution for managing water overflows and rain waters. Drains are widely utilised in townships, <br> residential areas, factories,  pedestrian areas, malls, parking lots, government projects and more.</p>
+                        <button><a href="saucer.php">Explore More</a></button>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <section class="kerbstone-sub-category">
@@ -34,265 +43,39 @@
                 <div class="row">
                     <div class="col-12">
                         <h2>Kerbstone & Saucer Drain</h2>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/3hex.png" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>3 HEX</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/3-hex-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/moon.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>MOON</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/moon-stone.png"  alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/d&d.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>D & D</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/d&d-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/egypt.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>EGYPT</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/egypt-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/Lotus.png" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>LOTUS</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/Lotus-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/japanese.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>JAPANESE</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/japanese-stone.png"  alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/bloom.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>BLOOM</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/bloom-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/d-flower.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>D-FLOWER</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/d-flower-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/arrow.png" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>ARROW</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/arrow-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/Ludo.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>LUDO</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/Ludo-stone.png"  alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/rombus.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>ROMBUS</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/rombus-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/stripe.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>STRIPE</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/stripe-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    </div>         
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/heritage/Sharp.png" alt="">
+                            <img src="Images/saucer/saucer-drain.png" alt="">
                             <div class="row stone">
-                                <div class="col-6">
-                                    <h3>SHARP</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
+                                    <h3>Saucer Drain</h3>
+                                    <h4>Length X Breadth X Thickness</h4>
+                                    <p>450 X 300 X 100 MM</p>
                                 </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/Sharp-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
+                                    <img src="Images/saucer/saucer-drain-stone.png" alt="">
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
+                    <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/heritage/W.png" width="100%" height="auto" alt="">
+                            <img src="Images/saucer/saucer-drain-perforated.png" width="100%" height="auto" alt="">
                             <div class="row stone">
-                                <div class="col-6">
-                                    <h3>W</h3>
-                                    <h4>Size Available</h4>
-                                    <p>250MM X 250MM</p>
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
+                                    <h3>Saucer Drain Perforated</h3>
+                                    <h4>Length X Breadth X Thickness</h4>
+                                    <p>450 X 300 X 100MM</p>
                                 </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/W-stone.png"  alt="">
-                                    <button><a href="">Know More</a></button>
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
+                                    <img src="Images/saucer/saucer-drain-perforated-stone.png"  alt="">
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/piramid.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>PIRAMID</h3>
-                                    <h4>Size Available</h4>
-                                    <p>300MM X 300MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/piramid-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
-                        <div class="product-box">
-                            <img src="Images/heritage/Arch.png" width="100%" height="auto" alt="">
-                            <div class="row stone">
-                                <div class="col-6">
-                                    <h3>ARCH</h3>
-                                    <h4>Size Available</h4>
-                                    <p>300MM X 300MM</p>
-                                </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/heritage/Arch-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    </div>  
                 </div>
             </div>
         </section>

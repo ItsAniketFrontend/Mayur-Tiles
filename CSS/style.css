@@ -955,6 +955,106 @@ header .second-nav .head-con a {
   }
 }
 
+.mossaic-intro {
+  padding-top: 6rem;
+}
+.mossaic-intro h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  text-align: center;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  .mossaic-intro h2 {
+    font-size: 18px;
+  }
+}
+.mossaic-intro p {
+  color: #000;
+  font-family: Manrope;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  text-decoration: none;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .mossaic-intro p {
+    font-size: 12px;
+  }
+}
+.mossaic-intro button {
+  border-radius: 5px;
+  background: #B93822;
+  padding: 5px 20px;
+  border: none;
+  margin-top: 10px;
+}
+.mossaic-intro button a {
+  color: #FFF;
+  font-family: Manrope;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.kerbstone-intro {
+  padding-top: 6rem;
+}
+.kerbstone-intro h2 {
+  color: var(--Color-Gray-1, #3A3A3A);
+  text-align: center;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  .kerbstone-intro h2 {
+    font-size: 18px;
+  }
+}
+.kerbstone-intro p {
+  color: #000;
+  font-family: Manrope;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  text-decoration: none;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .kerbstone-intro p {
+    font-size: 12px;
+  }
+}
+.kerbstone-intro button {
+  border-radius: 5px;
+  background: #B93822;
+  padding: 5px 20px;
+  border: none;
+  margin-top: 10px;
+}
+.kerbstone-intro button a {
+  color: #FFF;
+  font-family: Manrope;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
 .heritage-intro {
   padding-top: 6rem;
 }
@@ -2072,19 +2172,22 @@ header .second-nav .head-con a {
 }
 
 .kerbstone-sub-category {
-  padding-top: 30px;
   overflow: hidden;
+  padding: 20px 0px;
 }
 .kerbstone-sub-category h2 {
   color: var(--Color-Gray-1, #3A3A3A);
   text-align: center;
   font-family: Manrope;
   font-size: 24px;
-  text-transform: uppercase;
   font-style: normal;
   font-weight: 500;
-  line-height: 120%;
-  /* 48px */
+  text-transform: uppercase;
+}
+@media (max-width: 991px) {
+  .kerbstone-sub-category h2 {
+    font-size: 18px;
+  }
 }
 .kerbstone-sub-category .product-box {
   background: var(--Color-Light-BG, #F4F5F7);
@@ -2096,29 +2199,50 @@ header .second-nav .head-con a {
   -o-object-fit: cover;
      object-fit: cover;
 }
+@media (max-width: 991px) {
+  .kerbstone-sub-category .product-box img {
+    height: 100px;
+  }
+}
 .kerbstone-sub-category .product-box .stone {
   padding: 10px;
 }
 .kerbstone-sub-category .product-box .stone h3 {
   color: var(--Color-Gray-1, #3A3A3A);
   font-family: Manrope;
-  font-size: 13px;
+  font-size: 18px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
+}
+@media (max-width: 991px) {
+  .kerbstone-sub-category .product-box .stone h3 {
+    font-size: 10px;
+  }
 }
 .kerbstone-sub-category .product-box .stone h4 {
   color: #B93822;
   font-family: Manrope;
-  font-size: 13px;
+  font-size: 16px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 500;
+}
+@media (max-width: 991px) {
+  .kerbstone-sub-category .product-box .stone h4 {
+    font-size: 10px;
+  }
 }
 .kerbstone-sub-category .product-box .stone p {
   color: var(--Color-Gray-3, #898989);
   font-family: Manrope;
   font-size: 14px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
+}
+@media (max-width: 991px) {
+  .kerbstone-sub-category .product-box .stone p {
+    font-size: 11px;
+    margin-bottom: 0px;
+  }
 }
 .kerbstone-sub-category .product-box .stone li {
   color: var(--Color-Gray-1, #3A3A3A);
@@ -2126,53 +2250,45 @@ header .second-nav .head-con a {
   font-size: 11px;
   font-style: normal;
   font-weight: 400;
-  line-height: 15px;
-  /* 136.364% */
   list-style: none;
 }
-.kerbstone-sub-category .product-box .stone .home-stone {
-  margin-top: -40px;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  height: -moz-fit-content;
-  height: fit-content;
+@media (max-width: 991px) {
+  .kerbstone-sub-category .product-box .stone li {
+    font-size: 6px;
+  }
 }
 .kerbstone-sub-category .product-box .stone .home-stone img {
-  width: 60px;
-  height: auto;
+  height: 60px;
+  width: auto;
+}
+@media (max-width: 991px) {
+  .kerbstone-sub-category .product-box .stone .home-stone img {
+    height: 40px;
+  }
 }
 .kerbstone-sub-category .product-box .stone .home-stone button {
   border-radius: 5px;
   background: #B93822;
-  padding: 5px 10px;
   border: none;
   margin-top: 10px;
+  width: -moz-fit-content;
+  width: fit-content;
 }
 .kerbstone-sub-category .product-box .stone .home-stone button a {
   color: #FFF;
   font-family: Manrope;
-  font-size: 8px;
-  font-style: normal;
-  font-weight: 400;
-  text-transform: uppercase;
-  text-decoration: none;
-}
-.kerbstone-sub-category button {
-  border-radius: 5px;
-  border: 1px solid var(--Primary, #B93822);
-  background: var(--Primary, #B93822);
-  padding: 5px 40px;
-}
-.kerbstone-sub-category button a {
-  color: #FFF;
-  font-family: Manrope;
-  font-size: 16px;
-  font-style: normal;
+  font-size: 11px;
   font-weight: 600;
-  line-height: 150%;
-  /* 24px */
   text-decoration: none;
+  padding: 1px 10px;
+  width: -moz-fit-content;
+  width: fit-content;
+  display: block;
+}
+@media (max-width: 991px) {
+  .kerbstone-sub-category .product-box .stone .home-stone button a {
+    padding: 5px;
+  }
 }
 
 .terrazzo-banner {
@@ -3019,6 +3135,80 @@ header .second-nav .head-con a {
   .stone-finish-gallery img {
     height: 150px;
   }
+}
+
+.drain-gallery {
+  padding: 10px 0px;
+}
+.drain-gallery img {
+  width: 100%;
+  height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+@media (max-width: 991px) {
+  .drain-gallery img {
+    height: 150px;
+  }
+}
+
+.drain-intro {
+  padding-top: 5.5rem;
+}
+.drain-intro h1 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+}
+.drain-intro h3 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  margin-bottom: 0px;
+}
+@media (max-width: 991px) {
+  .drain-intro h3 {
+    font-size: 17px;
+  }
+}
+.drain-intro p {
+  color: #000;
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 1px;
+}
+@media (max-width: 991px) {
+  .drain-intro p {
+    font-size: 8px;
+  }
+}
+.drain-intro li {
+  color: #000;
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+}
+.drain-intro h6 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+.drain-intro img {
+  width: 100px;
 }
 
 .T-Rock-intro {
@@ -4035,4 +4225,34 @@ header .second-nav .head-con a {
 }
 .faq .accordion-button:not(.collapsed)::after {
   background-image: url(../Images/minus.png);
+}
+
+.kerbstone-intro {
+  padding-top: 5.5rem;
+}
+.kerbstone-intro h1 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+}
+.kerbstone-intro h3 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 0px;
+}
+.kerbstone-intro li {
+  color: #000;
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 0px;
+  text-transform: capitalize;
 }/*# sourceMappingURL=style.css.map */

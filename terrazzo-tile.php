@@ -21,12 +21,21 @@
 <body>
 
     <header>
-        <?php include 'navbar.php'; ?>
+        <?php include 'header.php'; ?>
     </header>
 
     <main>
 
-        <section class="terrazzo-banner">
+         <section class="mossaic-intro">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>Terrazzo & Mosaic</h2>
+                        <p>Elevate Your Space with Superior Craftsmanship.</p>
+                        <button><a href="mossaic.php">Explore</a></button>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <section class="terrazzo-sub-category">

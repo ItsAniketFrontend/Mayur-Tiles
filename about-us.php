@@ -43,12 +43,15 @@
                         data-aos="fade-left" data-aos-delay="250" data-aos-duration="800">
                         <h6>Company Profile</h6>
                         <h2>Mayur Dynamic Philosophy</h2>
-                        <p>Since the first steps were taken in the year 1977, Simpolo Ceramics has carved its niche as a
-                            consistently growing organisation with unparalleled innovation and passion rooted in
-                            simplicity.We endure gratification for every experience that we offer, created to share
-                            something truly meaningful.It may not resonate with the majority, but that is what takes us
-                            a class apart.If only a handful were to understand the purpose of our existence, we would be
-                            proud to have found our believers. Rather, people with whom we can share our beliefs.</p>
+                        <p>At Mayur Dynamic Tiles, we pride ourselves on crafting high-quality cement heritage tiles
+                            that transform any space into a stunning masterpiece.
+
+                            With 27 years of experience in the industry, our tiles are designed to not only meet but
+                            exceed your expectations. Our tiles bring a unique charm and fantastic aesthetic to your
+                            projects, enhancing the vibes of your place.
+
+                            Experience the exceptional craftsmanship and timeless beauty our tiles. Let us help you
+                            create a space that truly stands out.</p>
                         <button>
                             <a href="">
                                 Let's Connect
@@ -71,31 +74,36 @@
         <section class="about-us-usp">
             <div class="container">
                 <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800">
+                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-right" data-aos-delay="200"
+                        data-aos-duration="800">
                         <div class="col-box">
                             <img src="Images/about-us-usp-1.png" width="80px" alt="">
                             <p>Innovationis a state of mind.</p>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800">
+                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-up" data-aos-delay="240"
+                        data-aos-duration="800">
                         <div class="col-box">
                             <img src="Images/about-us-usp-2.png" width="80px" alt="">
                             <p>Qualitybegets excellence.</p>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-down" data-aos-delay="280" data-aos-duration="800">
+                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-down" data-aos-delay="280"
+                        data-aos-duration="800">
                         <div class="col-box">
                             <img src="Images/about-us-usp-3.png" width="80px" alt="">
                             <p>Teamworkcan build empires.</p>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-up" data-aos-delay="320" data-aos-duration="800">
+                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-up" data-aos-delay="320"
+                        data-aos-duration="800">
                         <div class="col-box">
                             <img src="Images/about-us-usp-4.png" width="80px" alt="">
                             <p>Integrity makes us who we are</p>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-left" data-aos-delay="360" data-aos-duration="800">
+                    <div class="col-lg-2 col-6 my-lg-0 my-2" data-aos="fade-left" data-aos-delay="360"
+                        data-aos-duration="800">
                         <div class="col-box">
                             <img src="Images/about-us-usp-5.png" width="80px" alt="">
                             <p>A Global Outlook breaks all boundaries.</p>
@@ -108,7 +116,8 @@
         <section class="about-mission">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 col-12 my-lg-0 my-1" data-aos="fade-right" data-aos-delay="250" data-aos-duration="800">
+                    <div class="col-lg-6 col-12 my-lg-0 my-1" data-aos="fade-right" data-aos-delay="250"
+                        data-aos-duration="800">
                         <img src="Images/mission.png" width="88px" alt="">
                         <h3>Mission</h3>
                         <p>Committed to delight customers with world class ceramic products and services.Make Simpolo
@@ -116,7 +125,8 @@
                             best business practices with utmost integrity to make Simpolo an exciting organization to
                             work with, for vendors, channel partners, investors and employees alike.</p>
                     </div>
-                    <div class="col-lg-6 col-12 my-lg-0 my-1" data-aos="fade-left" data-aos-delay="300" data-aos-duration="800">
+                    <div class="col-lg-6 col-12 my-lg-0 my-1" data-aos="fade-left" data-aos-delay="300"
+                        data-aos-duration="800">
                         <img src="Images/vision.png" width="88px" alt="">
                         <h3>Vision</h3>
                         <p>Gain world wide recognition in the field of ceramic building products through Research and
@@ -129,12 +139,14 @@
         <section class="made-in-india">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 my-lg-0 my-1" data-aos="fade-right" data-aos-delay="250" data-aos-duration="800">
+                    <div class="col-lg-6 my-lg-0 my-1" data-aos="fade-right" data-aos-delay="250"
+                        data-aos-duration="800">
                         <div class="img-box">
                             <img src="Images/made-in-india.png" class="img-fluid" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-6 my-lg-0 my-1 d-flex justify-content-center flex-column" data-aos="fade-left" data-aos-delay="300" data-aos-duration="800">
+                    <div class="col-lg-6 my-lg-0 my-1 d-flex justify-content-center flex-column" data-aos="fade-left"
+                        data-aos-delay="300" data-aos-duration="800">
                         <h2>Made in India</h2>
                         <p>We believe in creating something better today for a beautiful tomorrow and hence, we innovate
                             every day. We spend days ideating new designs and then spend months bringing them to life.

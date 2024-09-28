@@ -2331,6 +2331,11 @@ header .second-nav .head-con a {
   -o-object-fit: cover;
      object-fit: cover;
 }
+@media (max-width: 991px) {
+  .terrazzo-sub-category .product-box img {
+    height: 150px;
+  }
+}
 .terrazzo-sub-category .product-box .stone {
   padding: 10px;
 }
@@ -2441,6 +2446,11 @@ header .second-nav .head-con a {
   height: 200px;
   -o-object-fit: cover;
      object-fit: cover;
+}
+@media (max-width: 991px) {
+  .terrazzo-second .product-box img {
+    height: 150px;
+  }
 }
 .terrazzo-second .product-box .stone {
   padding: 10px;
@@ -2553,6 +2563,11 @@ header .second-nav .head-con a {
   -o-object-fit: cover;
      object-fit: cover;
 }
+@media (max-width: 991px) {
+  .terrazzo-third .product-box img {
+    height: 150px;
+  }
+}
 .terrazzo-third .product-box .stone {
   padding: 10px;
 }
@@ -2663,6 +2678,11 @@ header .second-nav .head-con a {
   height: 300px;
   -o-object-fit: cover;
      object-fit: cover;
+}
+@media (max-width: 991px) {
+  .venetian-terrazzo .product-box img {
+    height: 150px;
+  }
 }
 .venetian-terrazzo .product-box .stone {
   padding: 10px;
@@ -4152,6 +4172,59 @@ header .second-nav .head-con a {
 }
 @media (max-width: 991px) {
   .shield-gallery img {
+    height: 150px;
+  }
+}
+
+.terrazo-intro {
+  padding-top: 5.5rem;
+}
+.terrazo-intro h1 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+}
+.terrazo-intro h3 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+.terrazo-intro h6 {
+  color: #000;
+  font-family: Manrope;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+.terrazo-intro p {
+  color: #000;
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+}
+
+.mossaic-gallery {
+  padding: 10px 0px;
+}
+.mossaic-gallery img {
+  width: 100%;
+  height: 250px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+@media (max-width: 991px) {
+  .mossaic-gallery img {
     height: 150px;
   }
 }

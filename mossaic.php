@@ -26,11 +26,11 @@
 
     <main>
 
-        <section class="drain-intro">
+        <section class="terrazo-intro">
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h1>Kerbstone & Saucer Drain</h1>
+                        <h1>Terrazoo Tile (Mosaic Tiles)</h1>
                     </div>
                     <div class="col-6 d-flex justify-content-center flex-column">
                         <h3>Features:</h3>
@@ -39,7 +39,7 @@
                         <p>&rarr; Recommended for Pavement of Residential and Commercial complex, <br> Roads, Industrial Compounds, Parkings, Driveways, Pathways etc.</p>
                     </div>
                     <div class="col-6 d-flex align-items-center justify-content-center flex-column">
-                        <img src="Images/saucer/saucer-drain-perforated-stone.png" alt="">
+                        <img src="Images/saucer/saucer-mossaic-perforated-stone.png" alt="">
                         <h6>Length X Breadth X Thickness</h6>
                         <h6>450 X 300 X 100MM</h6>
                     </div>
@@ -47,74 +47,74 @@
             </div>
         </section>
     
-        <section class="drain-gallery">
+        <section class="mossaic-gallery">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-12 m-0 p-1">
-                        <img src="Images/drain/2.JPG" alt="">
+                        <img src="Images/mossaic/2.JPG" alt="">
                     </div>
                     <div class="col-lg-4 col-6 m-0 p-1">
-                        <img src="Images/drain/3.JPG" alt="">
+                        <img src="Images/mossaic/3.jpg" alt="">
                     </div>
                     <div class="col-lg-4 col-6 m-0 p-1">
-                        <img src="Images/drain/1.JPG" alt="">
+                        <img src="Images/mossaic/4.jpg" alt="">
                     </div>
                     <div class="col-lg-3 col-12 m-0 p-1">
-                        <img src="Images/drain/5.JPG" alt="">
+                        <img src="Images/mossaic/5.jpg" alt="">
                     </div>
                     <div class="col-lg-3 col-6 m-0 p-1">
-                        <img src="Images/drain/6.JPG" alt="">
+                        <img src="Images/mossaic/6.jpg" alt="">
                     </div>
                     <div class="col-lg-3 col-6 m-0 p-1">
-                        <img src="Images/drain/7.JPG" alt="">
+                        <img src="Images/mossaic/7.jpg" alt="">
                     </div>
                     <div class="col-lg-3 col-12 m-0 p-1">
-                        <img src="Images/drain/8.JPG" alt="">
+                        <img src="Images/mossaic/8.jpg" alt="">
                     </div>
                     <div class="col-lg-2 col-6 m-0 p-1">
-                        <img src="Images/drain/9.JPG" alt="">
+                        <img src="Images/mossaic/9.jpg" alt="">
                     </div>
                     <div class="col-lg-2 col-6 m-0 p-1">
-                        <img src="Images/drain/10.JPG" alt="">
+                        <img src="Images/mossaic/10.jpg" alt="">
                     </div>
                     <div class="col-lg-2 col-12 m-0 p-1">
-                        <img src="Images/drain/11.JPG" alt="">
+                        <img src="Images/mossaic/11.jpg" alt="">
                     </div>
                     <div class="col-lg-2 col-6 m-0 p-1">
-                        <img src="Images/drain/12.jpg" alt="">
+                        <img src="Images/mossaic/12.JPG" alt="">
                     </div>
                     <div class="col-lg-2 col-6 m-0 p-1">
-                        <img src="Images/drain/13.JPG" alt="">
+                        <img src="Images/mossaic/13.jpg" alt="">
                     </div>
                     <div class="col-lg-2 col-12 m-0 p-1">
-                        <img src="Images/drain/14.JPG" alt="">
+                        <img src="Images/mossaic/14.jpg" alt="">
                     </div>
                     <div class="col-lg-4 col-6 m-0 p-1">
-                        <img src="Images/drain/15.JPG" alt="">
+                        <img src="Images/mossaic/15.jpg" alt="">
                     </div>
                     <div class="col-lg-4 col-6 m-0 p-1">
-                        <img src="Images/drain/16.jpg" alt="">
+                        <img src="Images/mossaic/16.jpg" alt="">
                     </div>
                     <div class="col-lg-4 col-12 m-0 p-1">
-                        <img src="Images/drain/17.JPG" alt="">
+                        <img src="Images/mossaic/17.jpg" alt="">
                     </div>
                     <div class="col-lg-2 col-6 m-0 p-1">
-                        <img src="Images/drain/18.JPG" alt="">
+                        <img src="Images/mossaic/18.jpg" alt="">
                     </div>
                     <div class="col-lg-2 col-6 m-0 p-1">
-                        <img src="Images/drain/19.JPG" alt="">
+                        <img src="Images/mossaic/19.jpg" alt="">
                     </div>
                     <div class="col-lg-2 col-12 m-0 p-1">
-                        <img src="Images/drain/20.JPG" alt="">
+                        <img src="Images/mossaic/20.JPG" alt="">
                     </div>
                     <div class="col-lg-2 col-6 m-0 p-1">
-                        <img src="Images/drain/21.JPG" alt="">
+                        <img src="Images/mossaic/21.JPG" alt="">
                     </div>
                     <div class="col-lg-2 col-6 m-0 p-1">
-                        <img src="Images/drain/22.JPG" alt="">
+                        <img src="Images/mossaic/22.JPG" alt="">
                     </div>
                     <div class="col-lg-2 col-12 m-0 p-1">
-                        <img src="Images/drain/23.JPG" alt="">
+                        <img src="Images/mossaic/23.JPG" alt="">
                     </div>
                 </div>
             </div>

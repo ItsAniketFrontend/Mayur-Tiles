@@ -21,26 +21,30 @@
 <body>
 
     <header>
-        <?php include 'navbar.php'; ?>
+        <?php include 'header.php'; ?>
     </header>
 
     <main>
 
-        <section class="bedrock-banner">
-            
+        <section class="bedrock-intro">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>Bedrock Colour Blended Pavers</h2>
+                        <p>Uncompromising Quality for Modern Living</p>
+                    </div>
+                </div>
+            </div>
         </section>
     
         <section class="bedrock-sub-category">
             <div class="container">
                 <div class="row">
-                    <div class="col-12">
-                        <h2>Bedrock Colour Blended Pavers</h2>
-                    </div>
                     <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/bedrock/rustic-grey.png" alt="">
+                            <a href="rustic-grey.php"><img src="Images/bedrock/rustic-grey.png" alt=""></a>
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Rustic Grey</h3>
                                     <p>Bedrock Colour Blended Paver</p>
                                     <li>Thickness - 65MM</li>
@@ -49,18 +53,18 @@
                                     <li>No of Pcs in 1 Sq.ft area = 5.8pcs</li>
                                     <li>Colour - Rustic Grey</li>
                                 </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/bedrock/rustic-grey-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
+                                    <a href="rustic-grey.php"><img src="Images/bedrock/rustic-grey-stone.png" alt=""></a>
+                                    <button><a href="rustic-grey.php">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/bedrock/rosewood-red.png" width="100%" height="auto" alt="">
+                            <a href="rosewood-red.php"><img src="Images/bedrock/rosewood-red.png" width="100%" height="auto" alt=""></a>
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Rosewood Red</h3>
                                     <p>Bedrock Colour Blended Paver</p>
                                     <li>Dimentions - 155mmx104mm</li>
@@ -69,18 +73,18 @@
                                     <li>No of Pcs in 1 Sq.ft area = 5.8pcs</li>
                                     <li>Colour - Rustic Grey</li>
                                 </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/bedrock/rosewoodred-stone.png"  alt="">
-                                    <button><a href="">Know More</a></button>
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
+                                    <a href="rosewood-red.php"><img src="Images/bedrock/rosewoodred-stone.png"  alt=""></a>
+                                    <button><a href="rosewood-red.php">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/bedrock/charcol-black.png" width="100%" height="auto" alt="">
+                            <a href="black.php"><img src="Images/bedrock/charcol-black.png" width="100%" height="auto" alt=""></a>
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Charcoal Black</h3>
                                     <p>Bedrock Colour Blended Pavers</p>
                                     <li>Dimentions - 155mmx104mm</li>
@@ -89,18 +93,18 @@
                                     <li>No of Pcs in 1 Sq.ft area = 5.8pcs</li>
                                     <li>Colour - Charcol Black</li>
                                 </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/bedrock/charcol-black-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
+                                    <a href="black.php"><img src="Images/bedrock/charcol-black-stone.png" alt=""></a>
+                                    <button><a href="black.php">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/bedrock/granito.png" width="100%" height="auto" alt="">
+                            <a href="granito.php"><img src="Images/bedrock/granito.png" width="100%" height="auto" alt=""></a>
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Granito</h3>
                                     <p>Bedrock Colour Blended Pavers</p>
                                     <li>Size - 100X100MM</li>
@@ -109,9 +113,9 @@
                                     <li>Finish - Shotblasted</li>
                                     <li>Type - Terrazzo Top</li>
                                 </div>
-                                <div class="col-6 home-stone">
-                                    <img src="Images/bedrock/granito-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
+                                    <a href="granito.php"><img src="Images/bedrock/granito-stone.png" alt=""></a>
+                                    <button><a href="granito.php">Know More</a></button>
                                 </div>
                             </div>
                         </div>

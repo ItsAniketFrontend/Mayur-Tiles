@@ -21,16 +21,12 @@
 <body>
 
     <header>
-        <?php include 'navbar.php'; ?>
+        <?php include 'header.php'; ?>
     </header>
 
     <main>
 
-        <section class="heat-banner">
-
-        </section>
-
-        <section class="heat-about">
+        <section class="heat-about" style="padding-top: 5.5rem;">
             <div class="container">
                 <div class="row">
                     <div class="col-12">
@@ -52,17 +48,22 @@
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-lg-2 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-1 text-center">
                         <img src="Images/heat-resistant/heat-1.png" alt="">
                         <p>Top View</p>
                     </div>
-                    <div class="col-lg-2 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-1 text-center">
                         <img src="Images/heat-resistant/heat-2.png" alt="">
                         <p>Side View</p>
                     </div>
-                    <div class="col-lg-2 col-6 my-2">
+                    <div class="col-lg-2 col-6 my-1 text-center">
                         <img src="Images/heat-resistant/heat-3.png" alt="">
                         <p>Delivery Position</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <button><a href="shield.php">Know More</a></button>
                     </div>
                 </div>
             </div>

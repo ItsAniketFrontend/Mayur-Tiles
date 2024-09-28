@@ -288,7 +288,6 @@
                                 </div>
                                 <div class="col-6 home-stone">
                                     <img src="Images/heritage/Arch-stone.png" alt="">
-                                    <button><a href="">Know More</a></button>
                                 </div>
                             </div>
                         </div>

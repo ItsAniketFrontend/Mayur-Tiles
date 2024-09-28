@@ -21,12 +21,20 @@
 <body>
 
     <header>
-        <?php include 'navbar.php'; ?>
+        <?php include 'header.php'; ?>
     </header>
 
     <main>
 
-        <section class="parking-tiles-banner">
+    <section class="parking-tile-intro">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h1>Parking Tile Designer Cement Tile</h1>
+                        <p>Transforming Spaces with premium cement tiles</p>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <section class="polished-heavy-duty">
@@ -43,7 +51,7 @@
                                     <li>Thickness : 25-30mm </li>
                                 </div>
                                 <div class="col-6">
-                                    <button><a href="">Know More</a></button>
+                                    <button><a href="designer-parking-tile.php">Know More</a></button>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +82,7 @@
                         <h2>General Purpose Tiles</h2>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-6 col-lg-2 my-2">
+                        <div class="col-6 col-lg-2 my-1">
                             <div class="product-box">
                                 <img src="Images/parking-tiles/36-square.png" width="100%" height="auto"
                                     alt="">
@@ -84,7 +92,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6 col-lg-2 my-2">
+                        <div class="col-6 col-lg-2 my-1">
                             <div class="product-box">
                                 <img src="Images/parking-tiles/double-chex.png" width="100%" height="auto"
                                     alt="">
@@ -94,7 +102,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6 col-lg-2 my-2">
+                        <div class="col-6 col-lg-2 my-1">
                             <div class="product-box">
                                 <img src="Images/parking-tiles/metro.png" width="100%" height="auto"
                                     alt="">
@@ -104,7 +112,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6 col-lg-2 my-2">
+                        <div class="col-6 col-lg-2 my-1">
                             <div class="product-box">
                                 <img src="Images/parking-tiles/patasha.png" width="100%" height="auto"
                                     alt="">
@@ -114,7 +122,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6 col-lg-2 my-2">
+                        <div class="col-6 col-lg-2 my-1">
                             <div class="product-box">
                                 <img src="Images/parking-tiles/kite.png" width="100%" height="auto"
                                     alt="">
@@ -124,9 +132,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="row justify-content-center">
-                        <div class="col-6 col-lg-2 my-2">
+                        <div class="col-6 col-lg-2 my-1">
                             <div class="product-box">
                                 <img src="Images/parking-tiles/nova.png" width="100%" height="auto"
                                     alt="">
@@ -136,7 +142,10 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6 col-lg-2 my-2">
+                    </div>
+                    <div class="row justify-content-center">
+                        
+                        <div class="col-6 col-lg-2 my-1">
                             <div class="product-box">
                                 <img src="Images/parking-tiles/compounder.png" width="100%" height="auto"
                                     alt="">
@@ -146,7 +155,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6 col-lg-2 my-2">
+                        <div class="col-6 col-lg-2 my-1">
                             <div class="product-box">
                                 <img src="Images/parking-tiles/9-square.png" width="100%" height="auto"
                                     alt="">
@@ -156,7 +165,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6 col-lg-2 my-2">
+                        <div class="col-6 col-lg-2 my-1">
                             <div class="product-box">
                                 <img src="Images/parking-tiles/16-square.png" width="100%" height="auto"
                                     alt="">
@@ -166,7 +175,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6 col-lg-2 my-2">
+                        <div class="col-6 col-lg-2 my-1">
                             <div class="product-box">
                                 <img src="Images/parking-tiles/strips.png" width="100%" height="auto"
                                     alt="">

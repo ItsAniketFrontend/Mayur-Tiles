@@ -21,7 +21,7 @@
 <body>
 
     <header>
-        <?php include 'navbar.php'; ?>
+        <?php include 'header.php'; ?>
     </header>
 
     <main>

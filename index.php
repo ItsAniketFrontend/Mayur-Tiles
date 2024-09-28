@@ -83,8 +83,8 @@
                 <div class="row">
                     <div class="col-lg-3 col-6 my-lg-0 my-1">
                         <div class="col-box">
-                            <h2>27</h2>
-                            <p>Years Of Excellence</p>
+                            <h2>1996</h2>
+                            <p>Started In</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 my-lg-0 my-1">
@@ -624,6 +624,81 @@
                             </div>
 
 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="faq" id="faq">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>Frequently Asked Questions</h2>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                <div class="col-10">
+                        <div class="accordion" id="accordionExample">
+                            <div class="accordion-item my-1">
+                                <h3 class="accordion-header">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        Q.1 Is there a difference between Indoor and Outdoor quality for terrazzo tiles?
+                                    </button>
+                                </h3>
+                                <div id="collapseOne" class="accordion-collapse collapse show"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Ans. Yes, both have different approach for mix design, quality checks, grouting,
+                                            grinding and manufacturing processes. When you are using these tiles in
+                                            interior and
+                                            indoor applications replacing Marble, Granite & Vitrified Tiles etc. In That
+                                            case we
+                                            don't supply in the regular quality.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item my-1">
+                                <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Q.2 Approx cost of Regular Mosaic terrazzo tiles vs Indoor Quality Mosaic
+                                        Terrazzo tiles ?
+
+                                    </button>
+                                </h3>
+                                <div id="collapseTwo" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>
+                                            Ans. For Size 250x250mm <br>
+
+                                            Regular terrazzo tile cost: 15/- per tile and above <br>
+
+                                            whereas <br>
+
+                                            Indoor Terrazzo tile cost : 42/- per tile and above</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item my-1">
+                                <h3 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        Q.5 How to Fix & Polish the Terrazzo Tile ?
+                                    </button>
+                                </h3>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>Ans. Please click and check the complete guideline on the Fixing & Polishing
+                                            of Terrazzo Tiles for Roof & Indoor Applications.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

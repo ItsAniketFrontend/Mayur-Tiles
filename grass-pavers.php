@@ -21,71 +21,75 @@
 <body>
 
     <header>
-        <?php include 'navbar.php'; ?>
+        <?php include 'header.php'; ?>
     </header>
 
     <main>
 
-        <section class="grass-paver-banner">
-            
+        <section class="grass-paver-intro">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h2>Grass Paver</h2>
+                        <p>Paver With Nature</p>
+                    </div>
+                </div>
+            </div>
         </section>
     
         <section class="grass-pavers-sub-category">
             <div class="container">
                 <div class="row">
-                    <div class="col-12">
-                        <h2>Grass Pavers</h2>
-                    </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
+                    <div class="col-lg-4 col-6 col-box  my-3" data-aos="fade-right" data-aos-delay="200" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/Grass-Pavers/octa-grass-product.png" width="100%" height="auto" alt="">
+                            <a href="octa-grass.php"><img src="Images/Grass-Pavers/octa-grass-product.png" width="100%" height="auto" alt=""></a>
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Octa Grass</h3>
                                     <p>Green Grass Pavers</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/Grass-Pavers/octa-grass-pavers.png" alt="">
-                                    <button><a href="">Know More</a></button>
+                                    <button><a href="octa-grass.php">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
+                    <div class="col-lg-4 col-6 col-box  my-3" data-aos="fade-up" data-aos-delay="240" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/Grass-Pavers/grass-grid-product.png" width="100%" height="auto" alt="">
+                            <a href="grass-grid.php"><img src="Images/Grass-Pavers/grass-grid-product.png" width="100%" height="auto" alt=""></a>
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>Grass Grid</h3>
                                     <p>Green Grass Pavers</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/Grass-Pavers/grass-grid.png"  alt="">
-                                    <button><a href="">Know More</a></button>
+                                    <button><a href="grass-grid.php">Know More</a></button>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
+                    <div class="col-lg-4 col-6 col-box  my-3" data-aos="fade-left" data-aos-delay="280" data-aos-duration="800" >
                         <div class="product-box">
-                            <img src="Images/Grass-Pavers/x-grass-product.png" width="100%" height="auto" alt="">
+                            <a href="x-grass.php"><img src="Images/Grass-Pavers/x-grass-product.png" width="100%" height="auto" alt=""></a>
                             <div class="row stone">
-                                <div class="col-6">
+                                <div class="col-lg-6 col-12 order-lg-1 order-2">
                                     <h3>X-Grass</h3>
                                     <p>Green Grass Pavers</p>
                                     <li>Size - 8” X 8”</li>
                                     <li>Thickness - 60MM</li>
                                     <li>Strength - M40</li>
                                 </div>
-                                <div class="col-6 home-stone">
+                                <div class="col-lg-6 col-12 order-lg-2 order-1 home-stone">
                                     <img src="Images/Grass-Pavers/x-grass-pavers.png" alt="">
-                                    <button><a href="">Know More</a></button>
+                                    <button><a href="x-grass.php">Know More</a></button>
                                 </div>
                             </div>
                         </div>

@@ -22,20 +22,20 @@
             Categories
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="wetcast-pavers.php">Wetcast Pavers</a></li>
+          <li><a class="dropdown-item" href="wetcast-pavers.php">Wetcast Pavers</a></li>
             <li><a class="dropdown-item" href="grass-pavers.php">Grass Pavers</a></li>
             <li><a class="dropdown-item" href="vibro-pressed.php">Vibro Press Pavers</a></li>
             <li><a class="dropdown-item" href="bedrock.php">Bedrock Pavers</a></li>
-            <li><a class="dropdown-item" href="kerbstone.php">Kerbstone & Saucer Drain</a></li>
             <li><a class="dropdown-item" href="terrazzo-tile.php">Terrazo & Mosaic</a></li>
-            <li><a class="dropdown-item" href="heat-resistant.php">Heat Resistant Cool Tile</a></li>
-            <li><a class="dropdown-item" href="heritage-cement-tile.php">Heritage Cement Tile</a></li>
+            <li><a class="dropdown-item" href="kerbstone.php">Kerbstone & Saucer Drain</a></li>
             <li><a class="dropdown-item" href="parking-tile.php">Designer Parking Tile</a></li>
+            <li><a class="dropdown-item" href="heritage-cement-tile.php">Heritage Cement Tile</a></li>
             <li><a class="dropdown-item" href="engineered-block.php">Engineered Blocks</a></li>
+            <li><a class="dropdown-item" href="heat-resistant.php">Heat Resistant Cool Tile</a></li>
           </ul>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="#">FAQ's</a>
+          <a class="nav-link" href="faq.php">FAQ's</a>
         </li>
         <li class="nav-item px-3">
           <a class="nav-link" href="gallery.php">Gallery</a>

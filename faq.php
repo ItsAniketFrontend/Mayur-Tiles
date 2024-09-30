@@ -83,7 +83,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
-                                        Q.5 How to Fix & Polish the Terrazzo Tile ?
+                                        Q.3 How to Fix & Polish the Terrazzo Tile ?
                                     </button>
                                 </h3>
                                 <div id="collapseThree" class="accordion-collapse collapse"
@@ -100,14 +100,13 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapsefour" aria-expanded="false"
                                         aria-controls="collapsefour">
-                                        Q.5 How to Fix & Polish the Terrazzo Tile ?
+                                        Q.4 Do you have the capacity to handle large orders?
                                     </button>
                                 </h3>
                                 <div id="collapsefour" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Ans. Please click and check the complete guideline on the Fixing & Polishing
-                                            of Terrazzo Tiles for Roof & Indoor Applications.
+                                        <p>Ans. Yes, our extensive production facilities are equipped to handle substantial orders, ensuring timely delivery without compromising on quality.
                                         </p>
                                     </div>
                                 </div>
@@ -117,14 +116,13 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapsefive" aria-expanded="false"
                                         aria-controls="collapsefive">
-                                        Q.5 How to Fix & Polish the Terrazzo Tile ?
+                                        Q.5 What makes Mayur Dynamics different from other tile and paver manufacturers?
                                     </button>
                                 </h3>
                                 <div id="collapsefive" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Ans. Please click and check the complete guideline on the Fixing & Polishing
-                                            of Terrazzo Tiles for Roof & Indoor Applications.
+                                        <p>Ans. We offer superior quality through advanced manufacturing technology, fully automated machinery, and strict quality control in our state-of-the-art testing labs.
                                         </p>
                                     </div>
                                 </div>
@@ -134,14 +132,13 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapsesix" aria-expanded="false"
                                         aria-controls="collapsesix">
-                                        Q.5 How to Fix & Polish the Terrazzo Tile ?
+                                        Q.6 How do you ensure the quality of your tiles and pavers?
                                     </button>
                                 </h3>
                                 <div id="collapsesix" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Ans. Please click and check the complete guideline on the Fixing & Polishing
-                                            of Terrazzo Tiles for Roof & Indoor Applications.
+                                        <p>Ans. Every batch undergoes strict testing in our modern laboratories, ensuring consistency and adherence to our high standards.
                                         </p>
                                     </div>
                                 </div>
@@ -151,14 +148,13 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseseven" aria-expanded="false"
                                         aria-controls="collapseseven">
-                                        Q.5 How to Fix & Polish the Terrazzo Tile ?
+                                        Q.7 What types of tiles and pavers do you offer?
                                     </button>
                                 </h3>
                                 <div id="collapseseven" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Ans. Please click and check the complete guideline on the Fixing & Polishing
-                                            of Terrazzo Tiles for Roof & Indoor Applications.
+                                        <p>Ans. We offer a wide range of products including terrazzo tiles, heat-resistant tiles, heritage cement tiles, and grass pavers, all designed for durability and performance.
                                         </p>
                                     </div>
                                 </div>
@@ -168,14 +164,13 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseeight" aria-expanded="false"
                                         aria-controls="collapseeight">
-                                        Q.5 How to Fix & Polish the Terrazzo Tile ?
+                                        Q.8 Can you customize products based on customer requirements?
                                     </button>
                                 </h3>
                                 <div id="collapseeight" class="accordion-collapse collapse"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Ans. Please click and check the complete guideline on the Fixing & Polishing
-                                            of Terrazzo Tiles for Roof & Indoor Applications.
+                                        <p>Ans. Yes, we focus on customer needs and continuously innovate our products to meet market demands and specific project requirements.
                                         </p>
                                     </div>
                                 </div>

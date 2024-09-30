@@ -25,7 +25,9 @@
     </header>
 
     <main>
+        
 
+    
         <section class="home-banner">
             <div class="container-fluid">
                 <div class="row">
@@ -50,9 +52,9 @@
                     </div>
                     <div class="col-lg-6 col-12" data-aos="fade-left" data-aos-delay="250" data-aos-duration="800">
                         <h6>About Us</h6>
-                        <h2>Mayur Dynamic Tiles Shines As a Radiant Star,
-                            Illuminating The Global
-                            Ceramic Industry</h2>
+                        <h2><span>Mayur Dynamic Tiles</span> Shines As a Radiant Star,
+                            Illuminating The <span>Global
+                            Ceramic</span> Industry</h2>
                         <p>The tenacious team behind this iconic brand has crafted a legacy that endures even a decade
                             later, a testament to their unwavering vision and foresight.With Mr. Vivekraj Jadeja at the
                             helm as the Managing Director, Invoke Tiles has scaled unprecedented heights, leaving behind
@@ -388,8 +390,8 @@
                     </div>
                     <div class="col-lg-6 my-lg-0 my-3 d-flex justify-content-center  flex-column" data-aos="fade-left"
                         data-aos-delay="300" data-aos-duration="800">
-                        <h6>Mayur Dynamic</h6>
-                        <h2>Why Choose Our Tiles</h2>
+                        <!-- <h6>Mayur Dynamic</h6> -->
+                        <h2>Why Choose <span>Mayur Dynamics</span></h2>
                         <!-- <p>There are many variations of passages of available but the majortity have sufferred -->
                             <!-- alteration in some form by injected humor or random word which don't look even.</p> -->
                         <div class="pt-1">
@@ -568,7 +570,7 @@
                             random word which don't look even.
                             by injected humor or
                             random word which don't look even.</p>
-                        <button><a href="">Contact</a></button>
+                        <button class="mt-1"><a href="">Contact</a></button>
                     </div>
                     <div class="col-lg-8">
                         <div id="news-sliderrrr" class="owl-carousel">
@@ -577,10 +579,8 @@
                                 <div class="box my-3">
                                     <div class="d-flex gap-3 align-items-center flex-column">
                                         <div class="">
-                                            <p>There are many variations of passages of available but the
-                                                majority have suffered alteration in some form by injected
-                                                humor or random word which don't look even.</p>
-                                            <h3>Bonnie Tolbert</h3>
+                                            <p>"The grass pavers from Mayur Dynamics transformed my garden, providing a beautiful and eco-friendly solution for landscaping!"</p>
+                                            <h3>Nidhi Jain</h3>
                                         </div>
                                         <img src="Images/testimonial-image.png" width="48px" alt="">
                                     </div>
@@ -591,10 +591,8 @@
                                 <div class="box my-3">
                                     <div class="d-flex gap-3 align-items-center flex-column">
                                         <div class="">
-                                            <p>There are many variations of passages of available but the
-                                                majority have suffered alteration in some form by injected
-                                                humor or random word which don't look even.</p>
-                                            <h3>Bonnie Tolbert</h3>
+                                            <p>"I am  Very happier with the quality of the Terrazzo tiles! They add elegance and durability to my home."</p>
+                                            <h3>Manish Jangid</h3>
                                         </div>
                                         <img src="Images/testimonial-image.png" width="48px" alt="">
                                     </div>
@@ -605,10 +603,8 @@
                                 <div class="box my-3">
                                     <div class="d-flex gap-3 align-items-center flex-column">
                                         <div class="">
-                                            <p>There are many variations of passages of available but the
-                                                majority have suffered alteration in some form by injected
-                                                humor or random word which don't look even.</p>
-                                            <h3>Bonnie Tolbert</h3>
+                                            <p>"The heat-resistant tiles are perfect for my kitchen! They look amazing and handle high temperatures effortlessly."</p>
+                                            <h3>Sagar Sharma</h3>
                                         </div>
                                         <img src="Images/testimonial-image.png" width="48px" alt="">
                                     </div>
@@ -619,16 +615,13 @@
                                 <div class="box my-3">
                                     <div class="d-flex gap-3 align-items-center flex-column">
                                         <div class="">
-                                            <p>There are many variations of passages of available but the
-                                                majority have suffered alteration in some form by injected
-                                                humor or random word which don't look even.</p>
-                                            <h3>Bonnie Tolbert</h3>
+                                            <p>"The Heritage Cement tiles gave my outdoor space a classic, timeless charm. Mayur Dynamics exceeded my expectations!"</p>
+                                            <h3>Harendra Singh</h3>
                                         </div>
                                         <img src="Images/testimonial-image.png" width="48px" alt="">
                                     </div>
                                 </div>
                             </div>
-
 
                         </div>
                     </div>
@@ -644,7 +637,7 @@
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                <div class="col-10">
+                <div class="col-12 col-lg-10">
                         <div class="accordion" id="accordionExample">
                             <div class="accordion-item my-1">
                                 <h3 class="accordion-header">

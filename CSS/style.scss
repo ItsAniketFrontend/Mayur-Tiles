@@ -55,8 +55,14 @@ header nav {
         font-weight: 700;
         line-height: normal;
         text-transform: uppercase;
+        margin-bottom: 6px;
     }
 
+    .dropdown-item:active {
+        color: #FFF !important;
+        text-decoration: none;
+        background-color: var(--bs-dropdown-link-active-bg);
+    }
 
     button {
         background: none;
@@ -131,6 +137,13 @@ header .second-nav{
         font-weight: 700;
         line-height: normal;
         text-transform: uppercase;
+        margin-bottom: 6px;
+    }
+
+    .dropdown-item:active {
+        color: #FFF !important;
+        text-decoration: none;
+        background-color: var(--bs-dropdown-link-active-bg);
     }
 
 
@@ -207,6 +220,9 @@ header .second-nav{
         text-transform: uppercase;
         padding-bottom: 15px;
         margin-bottom: 0px;
+        span{
+            color: #B93822;
+        }
         @media (max-width:991px) {
             font-size: 18px;
         }
@@ -543,6 +559,9 @@ header .second-nav{
         font-style: normal;
         font-weight: 600;
         text-transform: uppercase;
+       span{
+        color: #B93822;
+       }
     }
 
     .img-box {
@@ -643,10 +662,10 @@ header .second-nav{
         border-radius: 10px;
         background: var(--Primary, #B93822);
         border: none;
-        padding: 15px 30px;
+        padding: 5px 22px;
         width: fit-content;
         @media (max-width:991px) {
-            padding: 10px 20px;
+            padding: 3px 20px;
             margin-top: 10px;
         }
         a {
@@ -4484,7 +4503,10 @@ header .second-nav{
         align-items: center;
         width: 100%;
         padding: 8px;
-        font-size: 1rem;
+        font-size: 16px;
+        @media (max-width:991px) {
+            font-size: 12px;
+        }
         color: var(--bs-accordion-btn-color);
         text-align: left;
         background-color: #D9D9D9;
@@ -4499,7 +4521,10 @@ header .second-nav{
             margin-bottom: 0px;
             color: #000;
             font-family: Manrope;
-            font-size: 12px;
+            font-size: 13px;
+            @media (max-width:991px) {
+                font-size: 8px;
+            }
             font-style: normal;
             font-weight: 300;
             margin-bottom: 0px;

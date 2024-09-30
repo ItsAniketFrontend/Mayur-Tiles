@@ -22,16 +22,16 @@
             Categories
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="wetcast-pavers.php">Wetcast Pavers</a></li>
-            <li><a class="dropdown-item" href="grass-pavers.php">Grass Pavers</a></li>
-            <li><a class="dropdown-item" href="vibro-pressed.php">Vibro Press Pavers</a></li>
-            <li><a class="dropdown-item" href="bedrock.php">Bedrock Pavers</a></li>
-            <li><a class="dropdown-item" href="terrazzo-tile.php">Terrazo & Mosaic</a></li>
-            <li><a class="dropdown-item" href="kerbstone.php">Kerbstone & Saucer Drain</a></li>
-            <li><a class="dropdown-item" href="parking-tile.php">Designer Parking Tile</a></li>
-            <li><a class="dropdown-item" href="heritage-cement-tile.php">Heritage Cement Tile</a></li>
-            <li><a class="dropdown-item" href="engineered-block.php">Engineered Blocks</a></li>
-            <li><a class="dropdown-item" href="heat-resistant.php">Heat Resistant Cool Tile</a></li>
+            <li><a class="dropdown-item" href="wetcast-pavers.php">	&rarr; Wetcast Pavers</a></li>
+            <li><a class="dropdown-item" href="grass-pavers.php">	&rarr; Grass Pavers</a></li>
+            <li><a class="dropdown-item" href="vibro-pressed.php">	&rarr; Vibro Press Pavers</a></li>
+            <li><a class="dropdown-item" href="bedrock.php">	&rarr; Bedrock Pavers</a></li>
+            <li><a class="dropdown-item" href="terrazzo-tile.php">	&rarr; Terrazo & Mosaic</a></li>
+            <li><a class="dropdown-item" href="kerbstone.php">	&rarr; Kerbstone & Saucer Drain</a></li>
+            <li><a class="dropdown-item" href="parking-tile.php">	&rarr; Designer Parking Tile</a></li>
+            <li><a class="dropdown-item" href="heritage-cement-tile.php">	&rarr; Heritage Cement Tile</a></li>
+            <li><a class="dropdown-item" href="engineered-block.php">	&rarr; Engineered Blocks</a></li>
+            <li><a class="dropdown-item" href="heat-resistant.php">	&rarr; Heat Resistant Cool Tile</a></li>
           </ul>
         </li>
         <li class="nav-item px-3">

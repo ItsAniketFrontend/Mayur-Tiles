@@ -37,9 +37,9 @@
                     </div>
                     <div class="col-lg-6 d-flex justify-content-center flex-column">
                         <div class="col-box">
-                            <p>F-715, Sitapura Industrial Area,Tonk Road Jaipur(302022), Rajasthan, India</p>
-                            <p>+91-98290 13317</p>
-                            <p>mayurdynamic@yahoo.com </p>
+                            <p>F-715, Sitapura Industrial Area ,<br>Tonk Road Jaipur, Rajasthan (302022), India</p>
+                            <p class="d-flex gap-1"><img src="Images/call.png" width="21px" alt="">+91-98290 13317</p>
+                            <p class="d-flex gap-1"><img src="Images/mail.png" width="21px" alt="">mayurdynamic@yahoo.com </p>
                             <div class="d-flex gap-2 align-items-center my-3">
                                 <a href="https://www.instagram.com/mayurdynamic/"><img src="Images/facebook.png"
                                         alt=""></a>

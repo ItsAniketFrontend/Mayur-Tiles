@@ -391,7 +391,7 @@
                     <div class="col-lg-6 my-lg-0 my-3 d-flex justify-content-center  flex-column" data-aos="fade-left"
                         data-aos-delay="300" data-aos-duration="800">
                         <!-- <h6>Mayur Dynamic</h6> -->
-                        <h2>Why Choose <span>Mayur Dynamics</span></h2>
+                        <h2>Why Choose <span>Mayur Dynamics</span> TILES</h2>
                         <!-- <p>There are many variations of passages of available but the majortity have sufferred -->
                             <!-- alteration in some form by injected humor or random word which don't look even.</p> -->
                         <div class="pt-1">
@@ -444,13 +444,13 @@
 
                             <div class="post-slide text-center">
                                 <div class="news-box">
-                                    <img src="Images/home-news-1.png" width="100%" height="auto" alt="">
+                                    <img src="Images/home-news-1.png" class="blog-image" width="100%" height="auto" alt="">
                                     <div
                                         class="news-low-box d-flex justify-content-center align-items-center flex-column">
-                                        <button>05 July 2022</button>
+                                        <button>03 August 2024</button>
                                         <div class="d-flex gap-3 align-items-center">
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
-                                                    alt="">Kevin Martin</p>
+                                                    alt="">Mayur Dynamics</p>
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
                                                     alt="">1 Comment</p>
                                         </div>
@@ -462,17 +462,17 @@
 
                             <div class="post-slide text-center">
                                 <div class="news-box">
-                                    <img src="Images/home-news-2.png" width="100%" height="auto" alt="">
+                                    <img src="Images/application-bungalow.png" width="100%" class="blog-image" height="auto" alt="">
                                     <div
                                         class="news-low-box d-flex justify-content-center align-items-center flex-column">
-                                        <button>05 July 2022</button>
+                                        <button>21 July 2024</button>
                                         <div class="d-flex gap-3 align-items-center">
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
-                                                    alt="">Kevin Martin</p>
+                                                    alt="">Mayur Dynamics</p>
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
                                                     alt="">1 Comment</p>
                                         </div>
-                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                        <h3>The Benefits of Using Tiles in High-Traffic Areas of Your Home</h3>
                                     </div>
 
                                 </div>
@@ -480,17 +480,17 @@
 
                             <div class="post-slide text-center">
                                 <div class="news-box">
-                                    <img src="Images/home-news-3.png" width="100%" height="auto" alt="">
+                                    <img src="Images/application-institution.png" width="100%" class="blog-image" height="auto" alt="">
                                     <div
                                         class="news-low-box d-flex justify-content-center align-items-center flex-column">
-                                        <button>05 July 2022</button>
+                                        <button>20 July 2024</button>
                                         <div class="d-flex gap-3 align-items-center">
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
-                                                    alt="">Kevin Martin</p>
+                                                    alt="">Mayur Dynamics</p>
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
                                                     alt="">1 Comment</p>
                                         </div>
-                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                        <h3>Top Tile Materials: Ceramic, Porcelain, and Natural Stone – Which is Right for You?</h3>
                                     </div>
 
                                 </div>
@@ -498,17 +498,17 @@
 
                             <div class="post-slide text-center">
                                 <div class="news-box">
-                                    <img src="Images/home-news-3.png" width="100%" height="auto" alt="">
+                                    <img src="Images/home-news-1.png" width="100%" class="blog-image" height="auto" alt="">
                                     <div
                                         class="news-low-box d-flex justify-content-center align-items-center flex-column">
-                                        <button>05 July 2022</button>
+                                        <button>15 July 2024</button>
                                         <div class="d-flex gap-3 align-items-center">
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
-                                                    alt="">Kevin Martin</p>
+                                                    alt="">Mayur Dynamics</p>
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
                                                     alt="">1 Comment</p>
                                         </div>
-                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                        <h3>Tile Layout Patterns That Will Transform Any Room</h3>
                                     </div>
 
                                 </div>
@@ -516,17 +516,17 @@
 
                             <div class="post-slide text-center">
                                 <div class="news-box">
-                                    <img src="Images/home-news-3.png" width="100%" height="auto" alt="">
+                                    <img src="Images/home-news-3.png" width="100%" class="blog-image" height="auto" alt="">
                                     <div
                                         class="news-low-box d-flex justify-content-center align-items-center flex-column">
-                                        <button>05 July 2022</button>
+                                        <button>05 July 2024</button>
                                         <div class="d-flex gap-3 align-items-center">
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
-                                                    alt="">Kevin Martin</p>
+                                                    alt="">Mayur Dynamics</p>
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
                                                     alt="">1 Comment</p>
                                         </div>
-                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                        <h3>The Eco-Friendly Choice: Sustainable Tile Options for Green Living</h3>
                                     </div>
 
                                 </div>
@@ -534,17 +534,17 @@
 
                             <div class="post-slide text-center">
                                 <div class="news-box">
-                                    <img src="Images/home-news-3.png" width="100%" height="auto" alt="">
+                                    <img src="Images/grass-grid-home.png" width="100%" class="blog-image" height="auto" alt="">
                                     <div
                                         class="news-low-box d-flex justify-content-center align-items-center flex-column">
-                                        <button>05 July 2022</button>
+                                        <button>10 July 2024</button>
                                         <div class="d-flex gap-3 align-items-center">
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon.png"
-                                                    alt="">Kevin Martin</p>
+                                                    alt="">Mayur Dynamics</p>
                                             <p class="d-flex align-items-center gap-1"><img src="Images/news-icon-2.png"
                                                     alt="">1 Comment</p>
                                         </div>
-                                        <h3>Made in India tiles by Mayur dynamic</h3>
+                                        <h3>How to Choose the Right Tile Color and Finish for Your Space</h3>
                                     </div>
 
                                 </div>

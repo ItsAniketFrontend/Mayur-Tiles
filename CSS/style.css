@@ -585,6 +585,12 @@ header .second-nav .head-con a {
 .home-news .post-slide img {
   border-radius: 10px;
 }
+.home-news .post-slide .blog-image {
+  height: 150px;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
 .home-news .post-slide .news-low-box {
   margin-top: -20px;
 }
@@ -2813,6 +2819,10 @@ header .second-nav .head-con a {
   font-style: normal;
   font-weight: 500;
   margin-bottom: 0px;
+}
+.foot p a {
+  text-decoration: underline;
+  color: #000;
 }
 @media (max-width: 991px) {
   .foot p {

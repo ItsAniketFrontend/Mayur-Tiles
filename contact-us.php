@@ -33,7 +33,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center">
-                        <h2>Reach Out To us</h2>
+                        <h2>Connect with Us – <br> Your Trusted Tile Partner Since 1996</h2>
                     </div>
                     <div class="col-lg-6 d-flex justify-content-center flex-column">
                         <div class="col-box">

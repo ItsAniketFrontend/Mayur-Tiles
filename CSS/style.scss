@@ -798,6 +798,12 @@ header .second-nav{
             border-radius: 10px;
         }
 
+        .blog-image{
+            height: 150px;
+            width: 100%;
+            object-fit: cover;
+        }
+
         .news-low-box {
             margin-top: -20px;
         }
@@ -3114,6 +3120,10 @@ header .second-nav{
         font-style: normal;
         font-weight: 500;
         margin-bottom: 0px;
+        a{
+            text-decoration: underline;
+            color: #000;
+        }
         @media (max-width:991px) {
             font-size: 12px;
         }

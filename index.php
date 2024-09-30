@@ -426,7 +426,7 @@
                                 </div>
                             </div>
                         </div>
-                        <button><a href="">Discover More</a></button>
+                        <button><a href="about-us.php">Discover More</a></button>
                     </div>
                 </div>
             </div>
@@ -570,7 +570,7 @@
                             random word which don't look even.
                             by injected humor or
                             random word which don't look even.</p>
-                        <button class="mt-1"><a href="">Contact</a></button>
+                        <button class="mt-1"><a href="contact-us.php">Contact</a></button>
                     </div>
                     <div class="col-lg-8">
                         <div id="news-sliderrrr" class="owl-carousel">
